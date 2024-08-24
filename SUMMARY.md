@@ -1,4 +1,4 @@
 # Table of contents
 
-* [⭐ Vos Permissions](README.md)
-* [Vos Modules](vos-modules.md)
+* [BUG 1](README.md)
+* [Page 2](page-2.md)
