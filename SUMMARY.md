@@ -1,4 +1,3 @@
 # Table of contents
 
-* [Joueurs](README.md)
-* [Staffs](staffs.md)
+* [Règlement de LaBaguetteRP-Community Gmod](README.md)
