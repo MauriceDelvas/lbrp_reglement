@@ -14,4 +14,4 @@
 12. Il est interdit de mettre des sacs de sable et des grillages dans les bâtiments.
 13. Il est interdit d'empiler des sacs de sable sauf pour les sapeurs (avec construction pour maintenir les sacs).
 14. Aucune fortification n'est autorisé dans les greniers.
-15. Avant de fortifier un avant-poste vous attendre la prise de celui-ci. (/advert Prise...)
+15. Avant de fortifier un avant-poste vous devez attendre la prise de celui-ci. (/advert Prise...)
