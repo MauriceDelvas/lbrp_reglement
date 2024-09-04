@@ -31,6 +31,7 @@
 * Posséder porte Est vous ouvre la possibilité d'attaquer la zone ennemie
 * Si vous contrôlez les 2 avants postes de la zone ennemie, la possibilité d'attaquer la base ennemie s'ouvre à vous ( Base US et Reichtag )
 * Après une attaque de base , 20 minutes de passif sont instaurées.
+* Lorsque le drapeau est blanc l'avant-poste est considéré comme perdu, vous devez refaire votre prise.
 
 
 
@@ -38,7 +39,7 @@
 
 * Être au minimum 10.
 * Avoir l’autorisation d’un Staff.
-* Les cérémonies après attaque de base doivent durer maximum 15 minutes.
+* Les cérémonies après attaque de base doivent durer maximum 20 minutes.
 * Avant un assaut de base, vous devez attendre l’autorisation du staff pour partir.
 * Avant un assaut de base, interdiction de prendre des informations.
 * Vous disposez de 15 minutes pour tenter d'attaquer la base.

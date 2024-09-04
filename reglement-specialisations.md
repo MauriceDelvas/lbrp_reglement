@@ -2,13 +2,15 @@
 
 ### <mark style="color:blue;">Artilleur / Artillerist</mark> :
 
-* L'artillerie (Swep) ne peut être utilisée toutes les 5 minutes.
-* En dehors de l'AP / VP vous devez être obligatoirement accompagné de deux pour effectuer une frappe d'artillerie.
+* Frappes navales : toutes les 15 minutes.
+* Frappes mortier : toutes les 10 minutes.
+* Frappes Aériennes : Toutes les 5 minutes.
+* En dehors de l'AP / VP vous devez être obligatoirement accompagné de deux personnes pour effectuer une frappe d'artillerie.
 * Vous pouvez lancer une frappe d'artillerie sur le VP suivant sans tenir compte du nombre de personnes.
 
 
 
-### <mark style="color:blue;">Tank Crew / Panzertruppe</mark> :
+### <mark style="color:blue;">Armored Division / Panzerdivision</mark> :
 
 * Les chars peuvent être sortis lorsqu'il y a au minimum un tankiste, anti-tank  ou un Kanoneer/Canonnier.
 * Il faut au minimum 3 soldats d’infanterie de la régulière pour qu'un char puisse avancer ou rester sur un AP.&#x20;
@@ -16,9 +18,9 @@
 * Vous pouvez réparer complètement votre blindé uniquement sur vos bases respectives.
 * Après l'explosion de votre tank, vous devez attendre 5 minutes avant d'en ressortir un.
 * Vous pouvez sortir 2 tanks uniquement si la faction adverse à 2 tanks de sortie.&#x20;
-* Un fair play doit être mis en place entre les deux sous-factions.
+* Un fairplay doit être mis en place entre les deux sous-factions.
 * Les mitrailleurs peuvent tirer des salves 5s toutes les 3s.&#x20;
-* En cas de feu sur votre char, vous pouvez l'éteindre, ensuite le conduire, mais il est considéré comme inutilisable au combat.
+* En cas de feu sur votre char, vous pouvez l'éteindre à l'aide d'un /me et un /roll, ensuite le conduire, mais il est considéré comme inutilisable au combat.&#x20;
 * Vous pouvez rester sur votre AP/VP allié même si l'infanterie alliée n'est plus présente.
 * Il est autorisé de tirer des obus HE sur les panzerjäger/anti-tank ou Canonnier/ Kanoneer dès lors que ceux-ci ont été repérés.
 * Vous pouvez tirer une HE dans un bâtiment toutes les 3 minutes.&#x20;
@@ -33,11 +35,15 @@
 
 ### <mark style="color:blue;">Sapeur / Pionner</mark> :
 
-* Les ingénieurs peuvent poser un total de 4 mines et seulement à l'exterieur&#x20;
-* Obligation de mettre un panneau “miné” dans la zone où vous posez vos mines et doit être visible par l'ennemi.
+* Les ingénieurs peuvent poser un total de 4 mines et seulement à l'extérieur&#x20;
+* Obligation de mettre un panneau “miné” pour chaque mine. Il n'est pas obligatoirement visible par l'ennemie.
 * Vous pouvez faire des fortifications plus poussées.&#x20;
 * Limitation des fortification en extérieur augmentée ( props en extérieur illimités ) et limites classiques en intérieur.
 * Vous ne pouvez bloquer aucun accès.
+* Il est le seul à pouvoir construire des échelles.
+* Lorsqu'un Sapeur / Pionnier pose une ou plusieurs mines, celui-ci doit s'assurer de les mettre hors service avant de changer de job sous peine de sanction.
+* Aucune mine ne doit être mise dans les bâtiments\
+
 
 ### <mark style="color:blue;">Flamethrower / Flammerwerfer</mark> :
 
@@ -45,7 +51,6 @@
 * Les lance-flammes ne peuvent pas opérer en intérieur.
 * Les lance-flammes peuvent tirer depuis l'extérieur vers l'intérieur.
 * Vous pouvez tirer sur des zones inflammables (champs, buissons, etc.) uniquement si vous n'êtes pas à l'intérieur de la zone inflammable.
-* L'utilisation du lance-flamme dans le bunker ainsi que dans le sas d'entrée VP3 / AP3 est strictement interdit.
 
 ### <mark style="color:blue;">Scharfschütze / Sniper</mark> :
 
@@ -61,7 +66,7 @@
 
 ### <mark style="color:blue;">Grenadier / PanzerGrenadier</mark> :
 
-* Vous pouvez envoyer une grenade et smoke ou un tir de lance-grenade toutes les 45 secondes.
+* Interdit de spam les grenades en même temps. Une grenade toutes les 20 secondes.
 * Vous avez le droit d’utiliser au maximum 5 grenades, après quoi il faudra se ravitailler à l’aide d’un Quartermaster ou par le biais d’un retour à la base.
 * Vous ne pouvez utiliser votre lance-grenades que pour lancer votre grenade.
 * Il est interdit d'utiliser les lance grenade (sur l'arme) dans les bâtiments. Vous pouvez cependant tirer de l'extérieur vers l'intérieur du bâtiment.
@@ -94,7 +99,7 @@
 
 ### <mark style="color:blue;">Airborne / FSM</mark> :
 
-* Les FSM et Airborn peuvent quitter leur base à 2 minimums&#x20;
+* Les FSM et Airborne peuvent quitter leur base à 2 minimums&#x20;
 * Vous ne pouvez pas partir faire de l'harcèlement lorsque l'ennemi possède AP 5/VP 5. (ex : ALL VP 4, interdiction à la SS d’aller faire de l’harcèlement sur VP 5)
 * Vous ne pouvez pas rentrer sur le point de capture sans régulière.
 * Vous ne pouvez partir faire de l'harcèlement qu'une fois toutes les 10 minutes, le reste du temps vous vous contentez de rester derrière les lignes ou alors en défense aux alentours de votre l'avant-poste pour tendre des embuscades lors des assauts, mais vous restez aux alentours.
@@ -124,7 +129,7 @@
 * Vous devez agir avec votre armée régulière pas seul.
 * Les SS ne peuvent dorénavant plus tuer les médecins volontairement.
 * Ces 2 unités sont autorisé à faire des postes de défenses avancer tout en restant dans la limite rose de leur avant poste.
-* Limitation des fortification en extérieur augmentée ( props en extérieur illimités uniquement) et limites classiques en intérieur
+* Vous devez respecter le règlement Pionnier/Sapeur.
 
 ### <mark style="color:blue;">**Resistant :**</mark>&#x20;
 
