@@ -66,7 +66,7 @@
 
 ### <mark style="color:blue;">Grenadier / PanzerGrenadier</mark> :
 
-* Interdit de spam les grenades en même temps. Une grenade toutes les 20 secondes.
+* Interdit de spam les grenades en même temps. Une grenade toutes les 30 secondes.
 * Vous avez le droit d’utiliser au maximum 5 grenades, après quoi il faudra se ravitailler à l’aide d’un Quartermaster ou par le biais d’un retour à la base.
 * Vous ne pouvez utiliser votre lance-grenades que pour lancer votre grenade.
 * Il est interdit d'utiliser les lance grenade (sur l'arme) dans les bâtiments. Vous pouvez cependant tirer de l'extérieur vers l'intérieur du bâtiment.
@@ -116,6 +116,8 @@
 * Lorsque vous êtes sur le front vous pouvez uniquement faire les premiers soins (30hp), sinon vous devez aller dans une infirmerie.
 * Si vous faites une infirmerie dans un avant-poste ceci est à vos risques et périls.
 * Les Médecins / Sanitats ne peuvent utiliser leurs armes que si ils sont menacés , en danger ou si un de leur patient est menacé ou en danger .
+* Il vous est interdit de faire de la prise d'info.
+* Seuls les médecins des branches principales (les jobs ne commençant pas "médecin -"/ "Sanitäts" ) seront autorisés à faire des soins complets.
 
 ### <mark style="color:blue;">**Civil :**</mark>&#x20;
 
