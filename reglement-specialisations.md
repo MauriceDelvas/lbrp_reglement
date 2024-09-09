@@ -54,9 +54,10 @@
 
 ### <mark style="color:blue;">Scharfschütze / Sniper</mark> :
 
-* Cible prioritaire obligatoire, sauf lors d'un assaut ou une défense d'avant-poste. (sous-officiers, officiers, sniper/scharfschütze, tankiste, canonnier/kanoneer ). L'accord de tir doit être donné pour chaque cible par le plus haut gradé présent. L'accord de tir illimité ou abusif est interdit.
-* Vous pouvez partir au front tout seul ou avec votre ''Spotteur'' avec l'autorisation d'un Sous-Officier minimum, sinon vous devez attendre d'être avec le groupe principal .
+* Vous devez respecter les cibles prioritaires lorsque vous partez en reconnaissance. Si vous êtes dans une situation ou vous vous faites tirer dessus vous devez vous repliez immédiatement. (Warn)
+* Cibles prioritaires : Sous-officiers | Officiers | SS | FSM | 101st | 15th | Sniper/Scharfschütze | Tankiste | Canonnier/Kanoneer | Signal/Funker
 * Vous ne pouvez pas rentrer sur un point de capture sans votre régulière.
+* Cible prioritaire obligatoire, sauf lors d'un assaut ou une défense d'avant-poste.
 * Vous pouvez être accompagné d'un ''spoteur'' (membre de la régulière 29th ou 916.) lors de votre reconnaissance . Celui-ci ne pourra tirer que pour assurer votre protection .
 
 ### <mark style="color:blue;">Machine-Gunner / Maschinengewehr</mark> :
