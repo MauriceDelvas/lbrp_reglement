@@ -4,11 +4,12 @@
 
 * Pour attaquer un avant poste , vous devez être 3 avec minimum un sous-officier ou un CPL / Gef ayant reçu la consigne de le faire
 * Vous devez attendre 10 minutes entre chaque avant poste .
-* Lorsque vous prenez un avant-poste annoncez-le en /advert _R-US_ Prise AP ? à ??h??.
+* Il est nécessaire que votre avant-poste soit à vous afin d'effectuer votre prise avec /advert _R-US/R-ALL_ Prise AP (il n'est pas obligatoire de mettre l'heure dans votre prise).
+* Vous perdez votre avant-poste dès l'instant ou l'ennemie fait la prise de votre avant-poste en /advert
 * Vous devez prendre les avant-postes dans l'ordre AP/VP 1 -> AP/VP 2 -> AP/VP 3 -> AP/VP 4 -> AP/VP 5, sauf dérogation d'un staff où vous pouvez commencer sur AP 2 / VP 2.
 * Lorsque vous attaquez AP 5 / VP 5, vous allez le droit uniquement à 2 assaut sans aucune vague de renfort.
-* Vous avez 2 assauts sans vague de renfort ou 1 assaut avec 1 vague de renfort pour prendre un avant poste .
-* Losqu'un assaut est repoussé , celui-ci doit être annoncé comme ceci : ''/advert _R-US_ ou _R-ALL_ Assaut Repoussé .''
+* Vous avez 2 assauts sans vague de renfort ou 1 assaut avec 1 vague de renfort pour prendre un avant poste.
+* Lorsqu'un assaut est repoussé , celui-ci doit être annoncé comme ceci : ''/advert _R-US_ ou _R-ALL_ Assaut Repoussé .''
 * Lorsque l'ennemie possède votre premier avant-poste (AP 1 / VP 1), vous avez 15 minutes de préparations entre vos assauts sous peine d'une suppression de vos assauts.
 * Si vous gagnez une attaque de base sur Falaise, vous repartez avec un avant-poste de moins. (Ex: Les US gagnent une attaque de base, il reparte sur avant-poste 1 et les Allemands sur vor posten 2.)
 * Une fois votre dernier avant poste pris par l'ennemis vous aurez 2 assaut sans vague de renfort pour tenter de reprendre le point. Si vous échouez une attaque de base pourra être réaliser.&#x20;
@@ -31,7 +32,6 @@
 * Posséder porte Est vous ouvre la possibilité d'attaquer la zone ennemie
 * Si vous contrôlez les 2 avants postes de la zone ennemie, la possibilité d'attaquer la base ennemie s'ouvre à vous ( Base US et Reichtag )
 * Après une attaque de base , 20 minutes de passif sont instaurées.
-* Lorsque le drapeau est blanc l'avant-poste est considéré comme perdu, vous devez refaire votre prise.
 
 
 
