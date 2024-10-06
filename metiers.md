@@ -283,7 +283,7 @@
 * Vous n'avez pas la possibilité d'être braqué
 * Vous ne pouvez pas mener d'activités illégales (par exemple : Printer , bitcoin etc).
 
-<mark style="color:blue;">Fermier</mark>
+### <mark style="color:blue;">Fermier</mark>
 
 * Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
 * Vous ne pouvez pas faire de l'illégale (printers / bitminers / etc ...)
