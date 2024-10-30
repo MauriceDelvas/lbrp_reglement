@@ -21,7 +21,6 @@
 * Un fairplay doit être mis en place entre les deux sous-factions.
 * Les mitrailleurs peuvent tirer des salves 5s toutes les 3s.&#x20;
 * En cas de feu sur votre char, vous pouvez l'éteindre à l'aide d'un /me et un /roll, ensuite le conduire, mais il est considéré comme inutilisable au combat.&#x20;
-* Vous pouvez rester sur votre AP/VP allié même si l'infanterie alliée n'est plus présente.
 * Il est autorisé de tirer des obus HE sur les panzerjäger/anti-tank ou Canonnier/ Kanoneer dès lors que ceux-ci ont été repérés.
 * Vous pouvez tirer une HE dans un bâtiment toutes les 3 minutes.&#x20;
 * Vous ne pouvez pas tirer à plus de 2 vp d'écarts (ex : depuis AP 2 vous ne pouvez pas tirer sur VP 4).
