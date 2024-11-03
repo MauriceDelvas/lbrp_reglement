@@ -118,6 +118,7 @@
 * Les Médecins / Sanitats ne peuvent utiliser leurs armes que si ils sont menacés , en danger ou si un de leur patient est menacé ou en danger .
 * Il vous est interdit de faire de la prise d'info.
 * Seuls les médecins des branches principales (les jobs ne commençant pas "médecin -"/ "Sanitäts" ) seront autorisés à faire des soins complets.
+* Réanimation interdite en attaque de base.
 
 ### <mark style="color:blue;">**Civil :**</mark>&#x20;
 
