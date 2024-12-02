@@ -87,6 +87,7 @@
 * Vous devez uniquement tirer accroupi et à l'extérieur des les bâtiments.
 * Un tir toutes les 15 secondes.
 * Le panzerjäger peut racheter ses panzerfaust sur le front en respectant les 4 munitions maximales.
+* Les Anti-Tank / PanzerJäger peuvent partir avec la Airborne / FSM dans l'unique but de détruire le tank adverse. Donc lors d'un départ, ils doivent avoir l'information de où est le tank ennemi. Faire une embuscade n'est pas autorisé, sauf si vous vous cachez car le tank arrive vers vous au moment où vous êtes parti pour le détruire.
 
 ### <mark style="color:blue;">Radioman / Funker</mark> :
 
