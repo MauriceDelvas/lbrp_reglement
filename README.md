@@ -24,10 +24,11 @@
 18. Vous avez interdiction de transmette des informations depuis Discord.
 19. Pour effectuer une demande d'unwarn, vous devez le faire maximum 5 jours après avoir pris le warn si vous pensez que celui-ci n'as pas lieu d'être, ne respecte pas la charte, ou est une erreur, sinon il ne pourras plus être retiré.
 20. Le phosphore est interdit.
-21. Il est interdit d'utiliser la matraque au combat dans le but d'assomer et capturer l'ennemi.
-22. Il est formellement interdit de dropper de manière volontaire une arme à quelqu'un de sa faction . La récupération d'arme de prisonnier reste autorisée tant qu'elle est cohérente . tout non respect entrainera un avertissement (warn) immédiat .
-23. Tout contournement d'une scène de capture grâce à l'usage d'une pilule de cyanure, grâce à un suicide par balle dans la tête ou autres ; équivaut à un Character Kill immédiat et Roleplay Kill si répété .
-24. Ce règlement s'applique uniquement si la faction qui a le gradé en otage possède un membre de sa police militaire.
+21. Interdiction de faire de la double communication (TS/Discord ect...).
+22. Il est interdit d'utiliser la matraque au combat dans le but d'assomer et capturer l'ennemi.
+23. Il est formellement interdit de dropper de manière volontaire une arme à quelqu'un de sa faction . La récupération d'arme de prisonnier reste autorisée tant qu'elle est cohérente . tout non respect entrainera un avertissement (warn) immédiat .
+24. Tout contournement d'une scène de capture grâce à l'usage d'une pilule de cyanure, grâce à un suicide par balle dans la tête ou autres ; équivaut à un Character Kill immédiat et Roleplay Kill si répété .
+25. Ce règlement s'applique uniquement si la faction qui a le gradé en otage possède un membre de sa police militaire.
 
     <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
@@ -39,6 +40,6 @@
 | 12 Warns   | Permanent             |
 
 {% hint style="info" %}
-* **Vous pouvez vous faire retirer vos avertissements à partir de **<mark style="color:red;">**3 mois**</mark>** en effectuant une demande sur le discord** [**centre d’aide**](https://discord.gg/jzMRKAGSWG)**.**
-* **Votre avertissement se retire **<mark style="color:red;">**168 heures de jeu**</mark>** sur le serveur après votre avertissement. (uniquement pour les avertissements après le 1er juillet 2023)**
+* **Vous pouvez vous faire retirer vos avertissements à partir de&#x20;**<mark style="color:red;">**3 mois**</mark>**&#x20;en effectuant une demande sur le discord** [**centre d’aide**](https://discord.gg/jzMRKAGSWG)**.**
+* **Votre avertissement se retire&#x20;**<mark style="color:red;">**168 heures de jeu**</mark>**&#x20;sur le serveur après votre avertissement. (uniquement pour les avertissements après le 1er juillet 2023)**
 {% endhint %}
