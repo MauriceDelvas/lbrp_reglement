@@ -1,6 +1,6 @@
 # 👨‍🌾 Action RP
 
-## <mark style="color:purple;">**Prise d’otage**</mark>** :**
+## <mark style="color:purple;">**Prise d’otage**</mark>**&#x20;:**
 
 * Il faut au minimum 4 forces de l’ordre
 * Vous devez être 3 au minimum pour engager celle-ci
@@ -8,6 +8,7 @@
 * Vous devez attendre 30 minutes avant de pouvoir refaire une prise d’otages (P-O).
 * Il est interdit d'ajouter un otage lorsque la prise d'otages a commencé.
 * _Il est interdit de prendre le négociateur en otage._
+* Préciser au Gendarme qu'il y a un sniper en dehors de la zone de prise d'otage ou braquage.
 
 ## <mark style="color:purple;">Cambrioler, racketter</mark> :
 
@@ -36,8 +37,9 @@
 * Vous devez attendre 30 minutes avant de pouvoir refaire un braquage de banque.
 * Vous devez être armés.
 * Il est obligé de demander une négociation dès le lancement du braquage de banque ( dans les deux sens : Illégale et Gendarmerie )
+* Préciser au Gendarme qu'il y a un sniper en dehors de la zone de prise d'otage ou braquage.
 
-## <mark style="color:purple;">**Braquage de supérette**</mark>** :**
+## <mark style="color:purple;">**Braquage de supérette**</mark>**&#x20;:**
 
 * Il faut au minimum 2 forces de l’ordre.
 * Il faut qu’il y ait 20 joueurs connectés minimum.
@@ -46,6 +48,7 @@
 *   Il est obligé de demander une négociation dès le lancement du braquage. ( dans les deux sens : Illégale et Gendarmerie )
 
 
+* Préciser au Gendarme qu'il y a un sniper en dehors de la zone de prise d'otage ou braquage.
 
 ## <mark style="color:purple;">Dictature</mark> :
 
