@@ -41,7 +41,8 @@
 * Vous ne pouvez bloquer aucun accès.
 * Il est le seul à pouvoir construire des échelles.
 * Lorsqu'un Sapeur / Pionnier pose une ou plusieurs mines, celui-ci doit s'assurer de les mettre hors service avant de changer de job sous peine de sanction.
-* Aucune mine ne doit être mise dans les bâtiments\
+* Aucune mine ne doit être mise dans les bâtiments
+* Vous ne pouvez pas poser de mines devant les portes des bâtiments.\
 
 
 ### <mark style="color:blue;">Flamethrower / Flammerwerfer</mark> :
