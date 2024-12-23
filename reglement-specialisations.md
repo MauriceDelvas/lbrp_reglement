@@ -79,6 +79,7 @@
 * Vous pouvez tirer 3 fois d’affilés sur un char avec un rechargement de 3 minutes.
 * Interdiction de mettre un canon dans un bâtiment.
 * Les cannoniers ont le droit à une salve de 4 tirs (d'artillerie indirecte) toutes les 1m30.
+* Vous ne pouvez cibler et tirer que sur l'AP/VP suivant à capturer.
 
 ### <mark style="color:blue;">Anti-Tank / PanzerJäger</mark> :
 
