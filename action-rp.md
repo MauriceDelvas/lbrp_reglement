@@ -4,7 +4,7 @@
 
 * Il faut au minimum 4 forces de l’ordre
 * Vous devez être 3 au minimum pour engager celle-ci
-* Les rançons sont de : 100 000€ pour les citoyens et de 250 000€ pour les personnes du gouvernement (gendarme, gign, maire, garde du maire, secrétaire du maire, juge, avocat )
+* Les rançons sont de : 250 000€ pour les citoyens et de 400 000€ pour les personnes du gouvernement (gendarme, gign, garde du maire, secrétaire du maire, juge, avocat ) et 500 000€ pour le maire.
 * Vous devez attendre 30 minutes avant de pouvoir refaire une prise d’otages (P-O).
 * Il est interdit d'ajouter un otage lorsque la prise d'otages a commencé.
 * _Il est interdit de prendre le négociateur en otage._
