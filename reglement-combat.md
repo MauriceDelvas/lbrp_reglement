@@ -1,6 +1,6 @@
 # ⚔️ Règlement Combat
 
-### <mark style="color:blue;">**Avant-poste**</mark>**  (Falaise/Linéaire) :**
+### <mark style="color:blue;">**Avant-poste**</mark>**&#x20; (Falaise/Linéaire) :**
 
 * Pour attaquer un avant poste , vous devez être 3 avec minimum un sous-officier ou un CPL / Gef ayant reçu la consigne de le faire
 * Vous devez attendre 10 minutes entre chaque avant poste .
@@ -32,6 +32,7 @@
 * Lors de la capture du checkpoint obligatoire (porte Est), à partir de là, vous devez attendre minimum 5 minutes sur l'avant-poste avant de pouvoir attaquer l'un des prochains avant-postes ennemis.
 * Si vous contrôlez les 2 avant-postes de la zone ennemie, la possibilité d'attaquer la base ennemie s'ouvre à vous si vous arrivez à tenir les deux points pendant 15 minutes. (Les deux points ennemis)
 * Les tanks sont obligés de rester dans les zones bleues d'un avant-poste tenu par leur armée, sauf quand ils se déplacent pour changer de zone. Il n'a pas le droit de prendre position hors des zones bleues, sauf si un combat s'engage.
+* Après avoir fait la prise d'un AP/VP vous devez attendre 5 minute avant de **partir** en capturer un autre
 
 
 
