@@ -29,6 +29,10 @@
 
     Un petit exemple pour mieux comprendre : Quand votre armée est sur l'avant-poste 3 vous avez le droit de vous mettre entre les lignes qui sont à gauche et à droite sur le plant.
 * Interdiction de mettre un tank dans un bâtiment.
+* La 36th A.I.R/ZZ Trupe doit rester autour de leurs propre(s) char, la seule exception à cette règle si vous êtes en repérage.
+* Le repérage de char ennemi doit se faire dans les limites de l’avant poste ( pas le droit de dépasser la limite) et sans armes si vous vous faites tirer dessus essayez d'abord de vous replier si ce n’est pas possible alors vous pouvez tirer.
+* La 36th A.I.R/ZZ Truppe ne peut être présentée hors limitation de la régulière seulement si un char allié est présent, sinon la 36th/Truppe devra soit se mettre en armored/Pz ou bien suivre la régulière
+* Il est interdit pour un 36th/Truppe de conduire ou bien tirer avec un char.
 
 <table><thead><tr><th width="319"> </th><th align="center">Américain</th><th align="center">Allemand </th></tr></thead><tbody><tr><td>1 Personne</td><td align="center"><mark style="background-color:green;">M3 Suart / M8 Greyhound</mark> </td><td align="center"><mark style="background-color:red;">Panzer 38T / Puma</mark></td></tr><tr><td>2 Personnes</td><td align="center"><mark style="background-color:green;">M18 Hellcat | M18 Blackcat</mark></td><td align="center"><mark style="background-color:red;">Hezter 38T / Panzer IV F1 / Panzer IV F2 / Stug III</mark> </td></tr><tr><td>3 Personnes</td><td align="center"><mark style="background-color:green;">M18 Super Hellcat</mark></td><td align="center"><mark style="background-color:red;">Panzer V Panther</mark></td></tr><tr><td>4 Personnes</td><td align="center"><mark style="background-color:green;">M26 Pershing</mark></td><td align="center"><mark style="background-color:red;">Panzer VI Tiger I E</mark></td></tr></tbody></table>
 
@@ -97,7 +101,7 @@
 
 ### <mark style="color:blue;">Military Police / Feldgendarmerie</mark> :
 
-* En dehors de la base vous devez obligatoirement rester avec votre armée régulière sur les AP | VP sauf événements spéciaux (négociations...).
+* Lorsque vous combattez et que vous êtes en dehors de la base vous devez obligatoirement rester avec votre armée régulière sur les AP | VP sauf événements spéciaux (négociations...)
 * Il est interdit d'aller au front avec les fusil à pompe sauf pour les officiers.
 
 ### <mark style="color:blue;">Airborne / FSM</mark> :
