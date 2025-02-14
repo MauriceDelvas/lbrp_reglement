@@ -12,7 +12,7 @@
 
 * _Vous avez la possibilité de porter des armes de poings / armes blanches ( seulement )._
 * _Vous devez avoir une licence d'armes pour utiliser votre arme de poing._
-* _Vous n’avez pas le droit de toucher à tout ce qui est illégal ( printers / bitminers )._
+* Vous pouvez utiliser les printers du F4 uniquement, cependant si la Gendarmerie les repère elle est en droit de les saisir et de procéder à la démarche d'amende, etc.
 * _Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )._
 * Vous pouvez être braquer
 *   Le métier de mineur de Bitcoin est une activité légale.
