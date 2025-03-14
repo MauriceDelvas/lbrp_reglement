@@ -41,7 +41,7 @@
 
 ## <mark style="color:purple;">Braquage de Bijouterie</mark> :
 
-* Il faut au minimum 6 forces de l’ordre.
+* Il faut au minimum 4 forces de l’ordre.
 * Vous devez être 2 au minimum pour engager celle-ci.
 * Vous devez attendre 20 minutes avant de pouvoir refaire un braquage de bijouterie.
 * Vous devez être armés.
