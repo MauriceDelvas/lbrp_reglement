@@ -283,17 +283,6 @@
 * Vous n'avez pas la possibilité d'être braqué
 * Vous ne pouvez pas mener d'activités illégales (par exemple : Printer , bitcoin etc).
 
-### <mark style="color:blue;">Fermier</mark>
-
-* Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
-* Vous ne pouvez pas faire de l'illégale (printers / bitminers / etc ...)
-* Vous pouvez travailler avec les autres fermiers.
-* Vous ne pouvez pas braquer.
-* Vous pouvez défendre votre production.
-* Vous ne pouvez pas voler les plantations / pots / des autres fermiers..
-*   Vous n'avez pas la possibilité d'être braqué.\
-
-
 
 
 ## <mark style="color:red;">Illégaux</mark> :
@@ -305,24 +294,7 @@
 * Vous devez neutraliser vos cibles dans des lieux discrets
 * Vous avez le droit de cacher votre profession ( /job citoyen … )
 
-### \*<mark style="color:yellow;">Premium</mark>\* <mark style="color:blue;">Trafiquant d'Organe</mark>
 
-* Vous avez la possibilité de porter des armes blanches ( seulement )
-* Vous n’avez pas le droit de faire de braquage, prises d’otages etc …
-* Vous devez neutraliser vos cibles dans des lieux discrets
-* Vous avez le droit de cacher votre profession ( /job citoyen … )
-
-### \*<mark style="color:yellow;">Premium</mark>\* <mark style="color:blue;">Rebelle</mark>
-
-* Vous avez la possibilité de porter seulement vos armes de spawn
-* Vous n’avez pas le droit de faire de braquage, prises d’otages etc …
-* Vous devez annoncer votre lieu d’attaque dans l'ano et 5 minutes avant l’attaque. (ex: /ano
-* Attaque parking-maire dans 5 minutes. Vous devez rappeler à chaque minute votre message + indiquer un message de l'attentat imminent)
-* Vous avez le droit de vous associez avec un autre rebelle
-* Si vous plantez une bombe dans un véhicule vous avez l’obligation de l’annoncer (ex: une voiture parking mairie est piégée (bombe))
-* Vous devez attendre 1h entre chaque attaque
-* Il faut au minimum 5 policiers pour faire un assaut
-* Vous ne pouvez en aucun cas faire d'alliance avec des mercenaires
 
 ### <mark style="color:blue;">Tueur à gage</mark>
 
@@ -358,11 +330,7 @@
 
 ## <mark style="color:red;">**Gang (Non Légal)**</mark>**&#x20;:**
 
-### <mark style="color:blue;">Gangster</mark>
 
-* Vous avez la possibilité de porter tous types d’armes
-* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Cripz, Bloodz, Russes et ms13.
-* Vous ne pouvez pas vous /job pour changer le nom du métier
 
 ### <mark style="color:blue;">Mafieux</mark>
 
@@ -376,17 +344,7 @@
 * Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Cripz, Bloodz, Russes et ms13.
 * Vous ne pouvez pas vous /job pour changer le nom du métier
 
-### <mark style="color:blue;">Cripz</mark>
 
-* Vous avez la possibilité de porter tout types d’armes
-* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Bloodz, Russes et ms13
-* Vous ne pouvez pas vous /job pour changer le nom du métier
-
-### <mark style="color:blue;">Bloodz</mark>
-
-* Vous avez la possibilité de porter tout types d’armes
-* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Cripz, Russes et ms13
-* Vous ne pouvez pas vous /job pour changer le nom du métier
 
 ### <mark style="color:blue;">Guetteur</mark>
 
