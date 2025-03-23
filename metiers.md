@@ -34,7 +34,15 @@
 * Vous n'avez pas le droit de faire des printers, Bitcoin, de la weed, etc. (uniquement la personne qui vous a adopté).
 * Il est interdit de parler, vous pouvez simplement aboyer
 
-## <mark style="color:red;">Services</mark> :
+## <mark style="color:red;">Services :</mark>
+
+### :moneybag:<mark style="color:purple;">Convoyeur de fonds</mark>
+
+* Vous avez la possibilité de porter des armes lourdes ( sauf sniper pour Sous-Lieutenant minimum / ( freedom autorisé)&#x20;
+* Vous n’avez pas le droit de faire de l’illégale ( printers )
+* Vous ne pouvez pas être corrompu
+* Votre rôle est de transporter de l'argent d'un point A à un point B en veillant à ne pas vous le faire voler !
+* Il est permis d'abattre un joueur uniquement s'il représente une menace pour votre survie.
 
 ### :closed\_lock\_with\_key:<mark style="color:purple;">Agent de sécurité</mark>
 
@@ -142,6 +150,22 @@
 
 ## <mark style="color:red;">Force de l'ordre</mark> :
 
+### <mark style="color:blue;">👮‍♂️E.R.I.</mark>
+
+* Vous avez la possibilité de porter des armes lourdes ( sauf sniper pour Sous-Lieutenant minimum / ( freedom autorisé)&#x20;
+* Vous n’avez pas le droit de faire de l’illégale ( printers )
+* Vous ne pouvez pas être corrompu
+* Vous devez respecter vos supérieurs
+* Vous devez protéger les citoyens
+* Votre rôle est de faire des contrôles de vitesse et barrages routiers. Vous devez également prendre en chasse les criminels avec vos véhicules.
+* Vous devez uniquement intervenir dans des actions RP impliquant un véhicule (course poursuite après braquage, délit de fuite, refus d'obtempérer…)
+* Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
+* Il est permis d'abattre un joueur uniquement s'il représente une menace pour la vie d'autrui.
+* Interdiction d'utiliser Gauss sabot (sauf à partir de sous-lieutenant)
+* Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende). Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.
+
+
+
 ### <mark style="color:blue;">🕵️‍♂️ \*Premium\* PSIG</mark>
 
 * Vous avez la possibilité de porter des armes lourdes ( sauf sniper / ( freedom autorisé) )
@@ -198,7 +222,7 @@
 
 
 
-### <mark style="color:blue;">Gendarme Corrompu</mark>&#x20;
+### <mark style="color:blue;">Gendarme Corrompu</mark>
 
 * Vous avez la possibilité de porter des armes lourdes sauf sniper.
 * Vous n’avez pas le droit de faire de l’illégale (printer,racket,cambriolage etc...)
