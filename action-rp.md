@@ -58,6 +58,15 @@
 * Il faut être minimum 2 pour l'engager
 * Préciser au Gendarme qu'il y a un sniper en dehors de la zone de prise d'otage ou braquage.
 
+## <mark style="color:purple;">**Braquage du fourgon de convoyage :**</mark>&#x20;
+
+* Il faut au minimum 3 forces de l’ordre
+* Vous devez être 2 au minimum pour engager celle-ci.
+* Vous devez attendre 30 minutes avant de pouvoir refaire un braquage de fourgon.
+* Vous devez être armés.
+* Il est obligé de demander une négociation dès le lancement du braquage de fourgon (dans les deux sens : Illégale et Gendarmerie)
+* Préciser au Gendarme qu'il y a un sniper en dehors de la zone de prise d'otage
+
 ## <mark style="color:purple;">Dictature</mark> :
 
 * Il faut au minimum 5 forces de l’ordre.
