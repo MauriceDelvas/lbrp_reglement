@@ -157,5 +157,6 @@
 * Il vous est autorisé d'avoir une armes uniquement pour votre défense.
 * Vous pouvez demander à un SA ou plus pour faire une action de collaboration active.
 
-\
-\
+### <mark style="color:blue;">QTM / Kraftfahrer :</mark>
+
+* Vous pouvez quitter la base seul pour un ravitaillement ou un transport de troupe.
