@@ -4,7 +4,8 @@
 
 * Pour attaquer un avant poste , vous devez être 3 avec minimum un sous-officier ou un CPL / Gef ayant reçu la consigne de le faire
 * Vous devez attendre 10 minutes entre chaque avant poste .
-* Il est nécessaire que votre avant-poste soit à vous afin d'effectuer votre prise avec /advert R-US/R-ALL Prise AP. Exemple : Vous devez maintenant faire une prise du style : _R-HEER/US_ : Prise de VP1 à XXhXX
+* Il est nécessaire que votre avant-poste soit à vous afin d'effectuer votre prise avec /advert R-US/R-ALL Prise AP.  \
+  Exemple : Vous devez maintenant faire une prise du style : _R-HEER/US_ : Prise de VP1)
 * Vous perdez votre avant-poste dès l'instant ou l'ennemie fait la prise de votre avant-poste en /advert
 * Vous devez prendre les avant-postes dans l'ordre AP/VP 1 -> AP/VP 2 -> AP/VP 3 -> AP/VP 4 -> AP/VP 5, sauf dérogation d'un staff où vous pouvez commencer sur AP 2 / VP 2.
 * Lorsque vous attaquez AP 5 / VP 5, vous allez le droit uniquement à 2 assaut sans aucune vague de renfort.

@@ -30,6 +30,10 @@
     Un petit exemple pour mieux comprendre : Quand votre armée est sur l'avant-poste 3 vous avez le droit de vous mettre entre les lignes qui sont à gauche et à droite sur le plant.
 * Interdiction de mettre un tank dans un bâtiment.
 * La 36th A.I.R/ZZ Trupe doit rester autour de leurs propre(s) char, la seule exception à cette règle si vous êtes en repérage.
+* Le repérage de char ennemi doit se faire dans les limites de l’avant poste ( pas le droit de dépasser la limite)
+* La 36th A.I.R/ZZ Truppe ne peut être présentée hors limitation de la régulière seulement si un char allié est présent, sinon la 36th/Truppe devra soit se mettre en armored/Pz ou bien suivre la régulière
+* Il est interdit pour un 36th/Truppe de conduire ou bien tirer avec un char.
+* La 36th A.I.R/ZZ Trupe doit rester autour de leurs propre(s) char, la seule exception à cette règle si vous êtes en repérage.
 * Le repérage de char ennemi doit se faire dans les limites de l’avant poste ( pas le droit de dépasser la limite) et sans armes si vous vous faites tirer dessus essayez d'abord de vous replier si ce n’est pas possible alors vous pouvez tirer.
 * La 36th A.I.R/ZZ Truppe ne peut être présentée hors limitation de la régulière seulement si un char allié est présent, sinon la 36th/Truppe devra soit se mettre en armored/Pz ou bien suivre la régulière
 * Il est interdit pour un 36th/Truppe de conduire ou bien tirer avec un char.
