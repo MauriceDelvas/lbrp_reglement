@@ -115,7 +115,26 @@
 * Vous avez la possibilité de porter des armes blanches ( seulement )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
-* Le bénéfice max est de 10 000€
+* Le bénéfice max est de 10 000€\
+
+
+### <mark style="color:purple;">DIR</mark>
+
+* Vous n’avez pas la possibilité de porter des armes.
+* Vous n’avez pas le droit de toucher à tout ce qui est illégal.
+* Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … ).
+* Vous ne pouvez pas vous faire braquer.
+* Votre rôle est de faire des travaux sur les routes (éboulement de rochers, canalisations à remplacer, installation de passage piéton, etc...).
+* Vous avez le droit de bloquer une route mais il faut que les citoyens aient la possibilité de contourner vos travaux par une autre route, vous n'avez donc pas le droit de bloquer une zone de la ville.
+
+### <mark style="color:purple;">Chez Pizzaïolo</mark>
+
+* Vous avez la possibilité de porter des armes blanches ( seulement ).
+* Vous n’avez pas le droit de faire de l’illégale ( printers ).
+* Vous pouvez travailler avec d’autres marchands.
+* Vous ne pouvez pas être braquer.
+* Vous devez nourrir toute la ville.
+* Voici le prix maximum pour chaque pizza vendu: 25000€.
 
 ## <mark style="color:red;">Gouvernement</mark> :
 
