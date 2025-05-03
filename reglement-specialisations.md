@@ -67,6 +67,7 @@
 * Vous ne pouvez pas rentrer sur un point de capture sans votre régulière.
 * Cible prioritaire obligatoire, sauf lors d'un assaut ou une défense d'avant-poste.
 * Vous pouvez être accompagné d'un ''spoteur'' (membre de la régulière 29th ou 916.) lors de votre reconnaissance . Celui-ci ne pourra tirer que pour assurer votre protection .
+* Vous pouvez éliminer et partir en reconnaissance au maximum un AP à l'avance.
 
 ### <mark style="color:blue;">Machine-Gunner / Maschinengewehr</mark> :
 
