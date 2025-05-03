@@ -127,7 +127,7 @@
 * Votre rôle est de faire des travaux sur les routes (éboulement de rochers, canalisations à remplacer, installation de passage piéton, etc...).
 * Vous avez le droit de bloquer une route mais il faut que les citoyens aient la possibilité de contourner vos travaux par une autre route, vous n'avez donc pas le droit de bloquer une zone de la ville.
 
-### <mark style="color:purple;">Chez Pizzaïolo</mark>
+### <mark style="color:purple;">Chef Pizzaïolo</mark>
 
 * Vous avez la possibilité de porter des armes blanches ( seulement ).
 * Vous n’avez pas le droit de faire de l’illégale ( printers ).
