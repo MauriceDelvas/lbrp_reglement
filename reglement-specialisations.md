@@ -63,7 +63,7 @@
 ### <mark style="color:blue;">Scharfschütze / Sniper</mark> :
 
 * Vous devez respecter les cibles prioritaires lorsque vous partez en reconnaissance. Si vous êtes dans une situation ou vous vous faites tirer dessus vous devez vous repliez immédiatement. (Warn)
-* Cibles prioritaires : Sous-officiers | Officiers | SS | FSM | 101st | 15th | Sniper/Scharfschütze | Tankiste | Canonnier/Kanoneer | Signal/Funker
+* Cibles prioritaires : Sous-officiers | Officiers | SS | FSM | 101st | 15th | Sniper/Scharfschütze | Tankiste | Canonnier/Kanoneer | Signal/Funker | Artilleur
 * Vous ne pouvez pas rentrer sur un point de capture sans votre régulière.
 * Cible prioritaire obligatoire, sauf lors d'un assaut ou une défense d'avant-poste.
 * Vous pouvez être accompagné d'un ''spoteur'' (membre de la régulière 29th ou 916.) lors de votre reconnaissance . Celui-ci ne pourra tirer que pour assurer votre protection .
