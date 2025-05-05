@@ -2,13 +2,11 @@
 
 ### <mark style="color:blue;">Artilleur / Artillerist</mark> :
 
-* Frappes navales : toutes les 15 minutes.
-* Frappes mortier : toutes les 10 minutes.
-* Frappes Aériennes : Toutes les 5 minutes.
-* En dehors de l'AP / VP vous devez être obligatoirement accompagné de deux personnes pour effectuer une frappe d'artillerie.
+* Vous ne pouvez utiliser uniquement le canon de 105mm
+* Vous n'avez le droit qu'à des tire en mode artillerie (interdiction aux tires directes)
+* Vous n'avez le droit qu'à une salve toute les 5 minutes (le temps commence au dernier obus envoyé.)
 * Vous pouvez lancer une frappe d'artillerie sur le VP suivant sans tenir compte du nombre de personnes.
-
-
+* Les munitions WP sont interdites
 
 ### <mark style="color:blue;">Armored Division / Panzerdivision</mark> :
 
@@ -83,12 +81,9 @@
 
 ### <mark style="color:blue;">Canonnier / Kanoneer</mark> :
 
-* Un tir toutes les 30 secondes.
-* Vous pouvez tirer sur l’infanterie que s’ils sont minimum 3.
-* Vous pouvez tirer 3 fois d’affilés sur un char avec un rechargement de 3 minutes.
-* Interdiction de mettre un canon dans un bâtiment.
-* Les cannoniers ont le droit à une salve de 4 tirs (d'artillerie indirecte) toutes les 1m30.
-* Vous ne pouvez cibler et tirer que sur l'AP/VP suivant à capturer.
+* Vous ne pouvez utiliser uniquement le canon de 50 mm, sauf lorsque que les tankistes ennemies sont en P3 ou P4, ce qui vous autorise à sortir les canon de 75mm.
+* Vous n'avez le droit qu'à des tires directes (interdiction d'utiliser le mode artillerie)
+* Vous avez le droit à un tire de HE toutes les 5 minutes.
 
 ### <mark style="color:blue;">Anti-Tank / PanzerJäger</mark> :
 
