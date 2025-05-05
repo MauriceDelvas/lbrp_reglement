@@ -29,8 +29,7 @@
 23. Il est formellement interdit de dropper de manière volontaire une arme à quelqu'un de sa faction . La récupération d'arme de prisonnier reste autorisée tant qu'elle est cohérente . tout non respect entrainera un avertissement (warn) immédiat .
 24. Tout contournement d'une scène de capture grâce à l'usage d'une pilule de cyanure, grâce à un suicide par balle dans la tête ou autres ; équivaut à un Character Kill immédiat et Roleplay Kill si répété .
 25. Une fois que vous vous êtes fait réanimé vous devez respecter une convalescence de 2 minutes minimum.
-26. Une fois que vous vous êtes fait réanimé vous devez respecter une convalescence de 2 minutes minimum.
-27. Ce règlement s'applique uniquement si la faction qui a le gradé en otage possède un membre de sa police militaire.
+26. Ce règlement s'applique uniquement si la faction qui a le gradé en otage possède un membre de sa police militaire.
 
     <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
