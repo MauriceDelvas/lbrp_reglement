@@ -14,6 +14,7 @@
 * Lorsque l'ennemie possède votre premier avant-poste (AP 1 / VP 1), vous avez 15 minutes de préparations entre vos assauts sous peine d'une suppression de vos assauts.
 * Si vous gagnez une attaque de base sur Falaise, vous repartez avec un avant-poste de moins. (Ex: Les US gagnent une attaque de base, il reparte sur avant-poste 1 et les Allemands sur vor posten 2.)
 * Une fois votre dernier avant poste pris par l'ennemis vous aurez 2 assaut sans vague de renfort pour tenter de reprendre le point. Si vous échouez une attaque de base pourra être réaliser.&#x20;
+* Lorsque vous avez prit deux assauts repoussés, vous pouvez désormais lancer un contre-assaut sans attendre les 10 minutes.
 
 ### <mark style="color:blue;">Avant-poste</mark>  (Coutances/Libre) :
 
