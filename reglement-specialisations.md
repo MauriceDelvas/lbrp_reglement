@@ -116,6 +116,7 @@
 * Si un canon est placé derrière le front ennemi , vous êtes autorisé à former une escouade entre 3-5 membres pour aller les déloger. Une fois délogé , vous devez immédiatement revenir dans votre zone de jeu réglementaire sans détour.
 * Un parachutage peut être réaliser si vous êtes au minimum trois.
 * Un parachutage peut être réaliser tout les 10 minutes
+* Vous pouvez monter sur un toit pour éliminer le sniper ennemie ( uniquement lorsque la position du sniper est connu, vous devez repartir immédiatement après l'avoir éliminé )
 
 ### <mark style="color:blue;">Médecin / Sanitat</mark> :
 
