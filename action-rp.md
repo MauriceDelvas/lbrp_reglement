@@ -39,15 +39,6 @@
 * Il est obligé de demander une négociation dès le lancement du braquage de banque (dans les deux sens : Illégale et Gendarmerie)
 * Préciser au Gendarme qu'il y a un sniper en dehors de la zone de prise d'otage ou braquage.
 
-## <mark style="color:purple;">Braquage de Bijouterie</mark> :
-
-* Il faut au minimum 4 forces de l’ordre.
-* Vous devez être 2 au minimum pour engager celle-ci.
-* Vous devez attendre 20 minutes avant de pouvoir refaire un braquage de bijouterie.
-* Vous devez être armés.
-* Il est obligé de demander une négociation dès le lancement du braquage de bijouterie (dans les deux sens : Illégale et Gendarmerie)
-* Préciser au Gendarme qu'il y a un sniper en dehors de la zone de prise d'otage ou braquage.
-
 ## <mark style="color:purple;">**Braquage de supérette**</mark>**&#x20;:**
 
 * Il faut au minimum 2 forces de l’ordre.
