@@ -79,19 +79,6 @@
 * Vos clients n’ont pas le droit de vous braquer pour ne pas payer.
 * Lorsqu'un véhicule est mal stationné, aucune personne ne peut interdire de remorquer le véhicule sauf les forces de l'ordre.
 
-
-
-### :cook:<mark style="color:purple;">Cuisinier</mark>
-
-* Vous avez la possibilité de porter des armes blanches ( seulement ).
-* Vous n’avez pas le droit de faire de l’illégale ( printers ).
-* Vous pouvez travailler avec d’autres marchands.
-* Vous ne pouvez pas être braquer.
-* Vous devez nourrir toute la ville.
-*   Voici les prix maximums pour chaque article vendu : Burger (35 000$) , Frites (20 000$) , Boisson (10 000$).
-
-
-
 ### :hospital:<mark style="color:purple;">Samu</mark>
 
 * Vous n’avez pas la possibilité de porter des armes
