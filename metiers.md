@@ -156,23 +156,21 @@
 
 ## <mark style="color:red;">Force de l'ordre</mark> :
 
-### <mark style="color:blue;">👮‍♂️E.R.I.</mark>
+### <mark style="color:blue;">👮‍♂️B.R.I.</mark>
 
-* Vous avez la possibilité de porter des armes lourdes ( sauf sniper pour Sous-Lieutenant minimum / ( freedom autorisé)&#x20;
+* Vous avez la possibilité de porter des armes lourdes y compris les snipers
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous ne pouvez pas être corrompu
 * Vous devez respecter vos supérieurs
 * Vous devez protéger les citoyens
-* Votre rôle est de faire des contrôles de vitesse et barrages routiers. Vous devez également prendre en chasse les criminels avec vos véhicules.
-* Vous devez uniquement intervenir dans des actions RP impliquant un véhicule (course poursuite après braquage, délit de fuite, refus d'obtempérer…)
+* En tant que BRI, vous passez en priorité sur les interventions ainsi que sur les négociations. Vous êtes une unité d’élite, formée pour cette occasion, donc faites preuve de sérieux.
+* Vous avez également le droit de participer aux guerres de familles, en CK les membres des familles rivales.
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
-* Il est permis d'abattre un joueur uniquement s'il représente une menace pour la vie d'autrui.
-* Interdiction d'utiliser Gauss sabot (sauf à partir de sous-lieutenant)
 * Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende). Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.
 
 
 
-### <mark style="color:blue;">🕵️‍♂️ \*Premium\* PSIG</mark>
+### <mark style="color:blue;">🕵️‍♂️ \*Premium\* BAC</mark>
 
 * Vous avez la possibilité de porter des armes lourdes ( sauf sniper / ( freedom autorisé) )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
@@ -194,7 +192,7 @@
 
 
 
-### <mark style="color:blue;">👮‍♂️ Gendarme</mark>
+### <mark style="color:blue;">👮‍♂️ Police national</mark>
 
 * Vous avez la possibilité de porter des armes lourdes ( sauf sniper pour Sous-Lieutenant minimum / ( freedom autorisé) )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
@@ -212,7 +210,7 @@
 
 
 
-### <mark style="color:blue;">👨‍💼 \*WL\* IGGN</mark>
+### <mark style="color:blue;">👨‍💼 \*WL\* IGPN</mark>
 
 * Vous avez la possibilité de porter des armes lourdes
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
@@ -228,7 +226,7 @@
 
 
 
-### <mark style="color:blue;">Gendarme Corrompu</mark>
+### <mark style="color:blue;">Police Corrompu</mark>
 
 * Vous avez la possibilité de porter des armes lourdes sauf sniper.
 * Vous n’avez pas le droit de faire de l’illégale (printer,racket,cambriolage etc...)
@@ -247,7 +245,7 @@
 
     Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.
 
-### <mark style="color:blue;">GIGN</mark>
+### <mark style="color:blue;">RAID</mark>
 
 * Vous avez la possibilité de porter des armes lourdes
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
