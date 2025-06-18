@@ -192,7 +192,7 @@
 
 
 
-### <mark style="color:blue;">👮‍♂️ Police national</mark>
+### <mark style="color:blue;">👮‍♂️ Police nationale</mark>
 
 * Vous avez la possibilité de porter des armes lourdes ( sauf sniper pour Lieutenant minimum / ( freedom autorisé) )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
