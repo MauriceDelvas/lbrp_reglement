@@ -254,7 +254,6 @@
 * Vous devez protéger les citoyens et encadrer les opérations ( Prise d’otage, braquage de banque etc … )
 * Il est interdit de patrouiller dans le métier RAID, sauf s'il n'y a pas de policier, ou une intervention lourde (Braquage de Banques, Prise d'otage)
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
-* Le sniper en RAID est autorisé à partir de Maréchal des logis chef.
 *   Vous pouvez tirer à vue dans une situation comme un attentat, car la situation représente un danger imminent et menace de tuer des civils. Dans ce cas, vous pouvez abattre l'individu sans sommations.
 
     Vous pouvez également tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
