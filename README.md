@@ -34,7 +34,7 @@
 
 <mark style="color:purple;">**16**</mark> - Le **Trashtalk** : C'est le fait d'<mark style="color:blue;">**insulter ou de provoquer**</mark> quelqu'un après l'avoir tué (cela fonctionne aussi pour le chat).
 
-<mark style="color:purple;">**17**</mark> - Le **Fear RP** : C'est le fait de <mark style="color:blue;">**simuler la peur**</mark> (_ex : Vous ne pouvez pas sortir d'arme quand vous êtes braqué_). Le FearRP consiste à simuler la peur. Exemple de situation : un gendarme avec un taser face à une arme à feu -> Le Gendarme doit jouer son FearRP et ranger son taser. Cependant, si quatre gendarmes avec des tasers font face à une personne armée, ils peuvent tenter une arrestation avec un taser.
+<mark style="color:purple;">**17**</mark> - Le **Fear RP** : C'est le fait de <mark style="color:blue;">**simuler la peur**</mark> (_ex : Vous ne pouvez pas sortir d'arme quand vous êtes braqué_). Le FearRP consiste à simuler la peur. Exemple de situation : un policier avec un taser face à une arme à feu -> Le policier doit jouer son FearRP et ranger son taser. Cependant, si quatre policiers avec des tasers font face à une personne armée, ils peuvent tenter une arrestation avec un taser.
 
 <mark style="color:purple;">**18**</mark> - Le **Pain RP** : C'est le fait de <mark style="color:blue;">**ressentir la douleur**</mark> infligé par une chute, après avoir reçu des balles, etc. Si vous êtes en incapacité physique de combattre (-15hp) vous ne pouvez donc pas engager / continuer un combat.
 
