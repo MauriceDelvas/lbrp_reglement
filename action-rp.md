@@ -4,11 +4,11 @@
 
 * Il faut au minimum 4 forces de l’ordre
 * Vous devez être 3 au minimum pour engager celle-ci
-* Les rançons sont de : 250 000€ pour les citoyens et de 400 000€ pour les personnes du gouvernement (gendarme, gign, garde du maire, secrétaire du maire, juge, avocat ) et 500 000€ pour le maire.
+* Les rançons sont de : 250 000€ pour les citoyens et de 400 000€ pour les personnes du gouvernement (Police, RAID, garde du maire, secrétaire du maire, juge, avocat ) et 500 000€ pour le maire.
 * Vous devez attendre 30 minutes avant de pouvoir refaire une prise d’otages (P-O).
 * Il est interdit d'ajouter un otage lorsque la prise d'otages a commencé.
 * _Il est interdit de prendre le négociateur en otage._
-* Préciser au Gendarme qu'il y a un sniper en dehors de la zone de prise d'otage ou braquage.
+* Préciser a la police qu'il y a un sniper en dehors de la zone de prise d'otage ou braquage.
 
 ## <mark style="color:purple;">Cambrioler, racketter</mark> :
 
@@ -28,7 +28,7 @@
 * Il faut qu’il y ait 20 joueurs connectés minimum
 * Lors d'un vol de voiture, il faut soit vendre la voiture au revendeur de voitures soit réclamer une rançon de 100 000€ maximum au propriétaire de la voiture
 * Il est interdit de voler des voitures en Job légal
-* Vous ne pouvez pas voler les véhicules de service de la gendarmerie, du SAMU ainsi que ceux du dépanneur, BRINKS, DIR, Chauffeur de bus et taxi.
+* Vous ne pouvez pas voler les véhicules de service de la Police National , du SAMU ainsi que ceux du dépanneur, BRINKS, DIR, Chauffeur de bus et taxi.
 
 ## <mark style="color:purple;">Braquage de Banque</mark> :
 
@@ -36,8 +36,8 @@
 * Vous devez être 2 au minimum pour engager celle-ci.
 * Vous devez attendre 30 minutes avant de pouvoir refaire un braquage de banque.
 * Vous devez être armés.
-* Il est obligé de demander une négociation dès le lancement du braquage de banque (dans les deux sens : Illégale et Gendarmerie)
-* Préciser au Gendarme qu'il y a un sniper en dehors de la zone de prise d'otage ou braquage.
+* Il est obligé de demander une négociation dès le lancement du braquage de banque (dans les deux sens : Illégale et Police National )
+* Préciser a la Police qu'il y a un sniper en dehors de la zone de prise d'otage ou braquage.
 
 ## <mark style="color:purple;">**Braquage de supérette**</mark>**&#x20;:**
 
@@ -45,9 +45,9 @@
 * Il faut qu’il y ait 20 joueurs connectés minimum.
 * Vous devez attendre 30 minutes avant de pouvoir refaire un braquage de supérette.
 * Vous devez être armés.
-* Il est obligé de demander une négociation dès le lancement du braquage. ( dans les deux sens : Illégale et Gendarmerie )
+* Il est obligé de demander une négociation dès le lancement du braquage. ( dans les deux sens : Illégale et Police National )
 * Il faut être minimum 2 pour l'engager
-* Préciser au Gendarme qu'il y a un sniper en dehors de la zone de prise d'otage ou braquage.
+* Préciser a la police qu'il y a un sniper en dehors de la zone de prise d'otage ou braquage.
 
 ## <mark style="color:purple;">**Braquage du fourgon de convoyage :**</mark>&#x20;
 
@@ -55,8 +55,8 @@
 * Vous devez être 2 au minimum pour engager celle-ci.
 * Vous devez attendre 30 minutes avant de pouvoir refaire un braquage de fourgon.
 * Vous devez être armés.
-* Il est obligé de demander une négociation dès le lancement du braquage de fourgon (dans les deux sens : Illégale et Gendarmerie)
-* Préciser au Gendarme qu'il y a un sniper en dehors de la zone du braquage / prise d'otage.
+* Il est obligé de demander une négociation dès le lancement du braquage de fourgon (dans les deux sens : Illégale et Police National)
+* Préciser a la police qu'il y a un sniper en dehors de la zone du braquage / prise d'otage.
 
 ## <mark style="color:purple;">Dictature</mark> :
 
