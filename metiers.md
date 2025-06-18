@@ -12,7 +12,7 @@
 
 * _Vous avez la possibilité de porter des armes de poings / armes blanches ( seulement )._
 * _Vous devez avoir une licence d'armes pour utiliser votre arme de poing._
-* Vous pouvez utiliser les printers du F4 uniquement, cependant si la Gendarmerie les repère elle est en droit de les saisir et de procéder à la démarche d'amende, etc.
+* Vous pouvez utiliser les printers du F4 uniquement, cependant si la Police National les repère elle est en droit de les saisir et de procéder à la démarche d'amende, etc.
 * _Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )._
 * Vous pouvez être braquer
 *   Le métier de mineur de Bitcoin est une activité légale.
@@ -75,7 +75,7 @@
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Le bénéfice max est de 80 000€.
 * Vous n’avez pas le droit de menacer vos clients pour qu’ils vous paient plus.
-* Vous ne pouvez pas mettre à la fourrière des véhicules de fonctions (Gendarme, Samu et PSIG).
+* Vous ne pouvez pas mettre à la fourrière des véhicules de fonctions (Police National, Samu et BAC).
 * Vos clients n’ont pas le droit de vous braquer pour ne pas payer.
 * Lorsqu'un véhicule est mal stationné, aucune personne ne peut interdire de remorquer le véhicule sauf les forces de l'ordre.
 
@@ -176,7 +176,7 @@
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Vous avez le droit de cacher votre profession ( /job citoyen … )
-* Les agents de la psig ne peuvent pas négocier pendant un braquage. (Banque, supérette)
+* Les agents de la BAC ne peuvent pas négocier pendant un braquage. (Banque, supérette)
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 * Il est permis d'abattre un joueur uniquement s'il représente une menace pour la vie d'autrui.
 * Vous avez l'obligation d'être le plus discret possible afin de ne pas rompre votre anonymat.
@@ -215,7 +215,7 @@
 * Vous avez la possibilité de porter des armes lourdes
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous ne pouvez pas être corrompu
-* Vous vérifier le bon fonctionnement de la gendarmerie
+* Vous vérifier le bon fonctionnement de la Police National
 * Vous devez protéger les citoyens
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 *   Vous pouvez tirer à vue dans une situation comme un attentat, car la situation représente un danger imminent et menace de tuer des civils. Dans ce cas, vous pouvez abattre l'individu sans sommations.
@@ -230,13 +230,13 @@
 
 * Vous avez la possibilité de porter des armes lourdes sauf sniper.
 * Vous n’avez pas le droit de faire de l’illégale (printer,racket,cambriolage etc...)
-* Vous avez le droit de vous /job en Policier seulement (pas de Gendarme Haut-Gradé, etc)
+* Vous avez le droit de vous /job en Policier seulement (pas de Police Haut-Gradé, etc)
 * Vous n'avez pas le droit d'abuser de votre job (freetaze, freekill vos collèges)
 * Vous avez le droit de faire payer des détenus pour les libérer (50 000€)
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 * Il est permis d'abattre un joueur uniquement s'il représente une menace pour la vie d'autrui.
 * Interdiction d'utiliser Gauss sabot.
-*   Le gendarme corrompu compte dans l'effectif des gendarmes pour les actions RP, Dictature.
+*   La police corrompu compte dans l'effectif de la police pour les actions RP, Dictature.
 
 
 *   Vous pouvez tirer à vue dans une situation comme un attentat, car la situation représente un danger imminent et menace de tuer des civils. Dans ce cas, vous pouvez abattre l'individu sans sommations.
@@ -252,9 +252,9 @@
 * Vous ne pouvez pas être corrompu
 * Vous devez respecter vos supérieurs
 * Vous devez protéger les citoyens et encadrer les opérations ( Prise d’otage, braquage de banque etc … )
-* Il est interdit de patrouiller dans le métier GIGN, sauf s'il n'y a pas de policier, ou une intervention lourde (Braquage de Banques, Prise d'otage)
+* Il est interdit de patrouiller dans le métier RAID, sauf s'il n'y a pas de policier, ou une intervention lourde (Braquage de Banques, Prise d'otage)
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
-* Le sniper en GIGN est autorisé à partir de Maréchal des logis chef.
+* Le sniper en RAID est autorisé à partir de Maréchal des logis chef.
 *   Vous pouvez tirer à vue dans une situation comme un attentat, car la situation représente un danger imminent et menace de tuer des civils. Dans ce cas, vous pouvez abattre l'individu sans sommations.
 
     Vous pouvez également tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
