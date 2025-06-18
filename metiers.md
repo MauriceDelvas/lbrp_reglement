@@ -194,14 +194,14 @@
 
 ### <mark style="color:blue;">👮‍♂️ Police national</mark>
 
-* Vous avez la possibilité de porter des armes lourdes ( sauf sniper pour Sous-Lieutenant minimum / ( freedom autorisé) )
+* Vous avez la possibilité de porter des armes lourdes ( sauf sniper pour Lieutenant minimum / ( freedom autorisé) )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous ne pouvez pas être corrompu
 * Vous devez respecter vos supérieurs
 * Vous devez protéger les citoyens
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 * Il est permis d'abattre un joueur uniquement s'il représente une menace pour la vie d'autrui.
-* Interdiction d'utiliser Gauss sabot (sauf à partir de sous-lieutenant)
+* Interdiction d'utiliser Gauss sabot (sauf à partir de lieutenant)
 *   Vous pouvez tirer à vue dans une situation comme un attentat, car la situation représente un danger imminent et menace de tuer des civils. Dans ce cas, vous pouvez abattre l'individu sans sommations.
 
     Vous pouvez également tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
