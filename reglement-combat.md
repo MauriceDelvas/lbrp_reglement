@@ -70,3 +70,5 @@
 <figure><img src=".gitbook/assets/Carte LBRP.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/VP1AP4_1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/k.png" alt=""><figcaption></figcaption></figure>
