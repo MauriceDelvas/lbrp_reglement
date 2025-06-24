@@ -34,8 +34,8 @@
 * Lors de la capture du checkpoint obligatoire (porte Est), à partir de là, vous devez attendre minimum 5 minutes sur l'avant-poste avant de pouvoir attaquer l'un des prochains avant-postes ennemis.
 * Si vous contrôlez les 2 avant-postes de la zone ennemie, la possibilité d'attaquer la base ennemie s'ouvre à vous si vous arrivez à tenir les deux points pendant 15 minutes. (Les deux points ennemis)
 * Les tanks sont obligés de rester dans les zones bleues d'un avant-poste tenu par leur armée, sauf quand ils se déplacent pour changer de zone. Il n'a pas le droit de prendre position hors des zones bleues, sauf si un combat s'engage.
-* Après avoir fait la prise d'un AP/VP vous devez attendre 5 minute avant de **partir** en capturer un autre
-* Après avoir fait la prise d'un AP/VP vous devez attendre 5 minute avant de **partire** en capturer un autre
+* Vous devez attendre 5 minutes lors d'une capture d'un AP suivant avant de partir sur l'AP/VP suivant ( Quartier Marai / Kommandantur ) - ( Village / Poste radio ).
+* Une fois Porte Est capturé, vous devez attendre 10 minutes dessus avant d'attaquer le VP supérieur.&#x20;
 
 
 
