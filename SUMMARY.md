@@ -2,5 +2,5 @@
 
 * [📄 Général](README.md)
 * [👨‍🌾 Action RP](action-rp.md)
-* [👮 Métiers](metiers.md)
+* [👮 Métiers](reglements/metiers.md)
 * [☠️ Famille](famille.md)
