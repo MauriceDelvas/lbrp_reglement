@@ -16,3 +16,5 @@
 14. Aucune fortification n'est autorisé dans les greniers.
 15. Avant de fortifier un avant-poste vous devez attendre la prise de celui-ci. (/advert Prise...)
 16. Interdiction de mettre de fortification à coté d'un char ( pour défendre le char , les camouflages sont donc autorisé ) Le camouflage doit être traversable.
+17. Les constructions en plastiques sont interdites avec ou sans texture
+18. Seul les pionner peuvent poser des échelle, ainsi que le sniper si c'est pour accéder à un toit.

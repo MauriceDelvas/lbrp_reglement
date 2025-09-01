@@ -31,11 +31,10 @@
 * Si votre Faction possède ses 2 avants poste , celle-ci peut attaquer le poste Porte Est de Berlin (checkpoint obligatoire)
 * Si votre faction ne possède pas ses 2 avants postes , celle-ci doit se focaliser sur leur récupération
 * Posséder porte Est vous ouvre la possibilité d'attaquer la zone ennemie
-* Lors de la capture du checkpoint obligatoire (porte Est), à partir de là, vous devez attendre minimum 5 minutes sur l'avant-poste avant de pouvoir attaquer l'un des prochains avant-postes ennemis.
 * Si vous contrôlez les 2 avant-postes de la zone ennemie, la possibilité d'attaquer la base ennemie s'ouvre à vous si vous arrivez à tenir les deux points pendant 15 minutes. (Les deux points ennemis)
 * Les tanks sont obligés de rester dans les zones bleues d'un avant-poste tenu par leur armée, sauf quand ils se déplacent pour changer de zone. Il n'a pas le droit de prendre position hors des zones bleues, sauf si un combat s'engage.
 * Vous devez attendre 5 minutes lors d'une capture d'un AP suivant avant de partir sur l'AP/VP suivant ( Quartier Marai / Kommandantur ) - ( Village / Poste radio ).
-* Une fois Porte Est capturé, vous devez attendre 10 minutes dessus avant d'attaquer le VP supérieur.&#x20;
+* Lors de la capture du checkpoint obligatoire (porte Est), à partir de là, vous devez attendre minimum 10 minutes sur l'avant-poste avant de pouvoir attaquer l'un des prochains avant-postes ennemis.
 
 
 
@@ -66,6 +65,8 @@
 
 
 ## Délimitation map
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Carte LBRP.png" alt=""><figcaption></figcaption></figure>
 

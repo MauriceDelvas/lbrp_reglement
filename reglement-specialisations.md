@@ -7,7 +7,9 @@
 * Vous n'avez le droit qu'à une salve toute les 5 minutes (le temps commence au dernier obus envoyé.)
 * Vous pouvez lancer une frappe d'artillerie sur le VP suivant sans tenir compte du nombre de personnes.
 * Les munitions WP sont interdites
-* Le job artilleur est maintenant interdit en attaque et en défense de base
+* Le job artilleur est maintenant interdit en attaque et en défense de base.
+* Vous pouvez être accompagné d'un ''spoteur'' (membre de la régulière 29th ou 916.) lors de votre reconnaissance . Celui-ci ne pourra tirer que pour assurer votre protection.
+* L'artilleur peut quitter la base seul.
 
 ### <mark style="color:blue;">Armored Division / Panzerdivision</mark> :
 
@@ -22,32 +24,31 @@
 * En cas de feu sur votre char, vous pouvez l'éteindre à l'aide d'un /me et un /roll, ensuite le conduire, mais il est considéré comme inutilisable au combat.&#x20;
 * Il est autorisé de tirer des obus HE sur les panzerjäger/anti-tank ou Canonnier/ Kanoneer dès lors que ceux-ci ont été repérés.
 * Vous pouvez tirer une HE dans un bâtiment toutes les 3 minutes.&#x20;
-* Les tanks ne peuvent désormais plus tirer sur un Avant-Poste supérieur (HE/mitrailleuse), sauf lorsque celui-ci est en assaut ou en combat de chars.
 * Vous ne pouvez sortir qu'un char du Tier équivalent ou inférieur au nombre de Tankiste dans la faction adverse ( ex : Si 2 armored sont connectés , vous ne sortez que des chars de tier II)
 *   Voici la carte officielle où les tankistes pourront placer leurs chars. Vous avez donc l'autorisation de vous mettre dans tout l'espace entre les lignes qui entoure l'avant-poste tenu par votre armée.
 
     Un petit exemple pour mieux comprendre : Quand votre armée est sur l'avant-poste 3 vous avez le droit de vous mettre entre les lignes qui sont à gauche et à droite sur le plant.
 * Interdiction de mettre un tank dans un bâtiment.
 * La 36th A.I.R/ZZ Trupe doit rester autour de leurs propre(s) char, la seule exception à cette règle si vous êtes en repérage.
-* Le repérage de char ennemi doit se faire dans les limites de l’avant poste ( pas le droit de dépasser la limite)
 * La 36th A.I.R/ZZ Truppe ne peut être présentée hors limitation de la régulière seulement si un char allié est présent, sinon la 36th/Truppe devra soit se mettre en armored/Pz ou bien suivre la régulière
 * Il est interdit pour un 36th/Truppe de conduire ou bien tirer avec un char.
 * La 36th A.I.R/ZZ Trupe doit rester autour de leurs propre(s) char, la seule exception à cette règle si vous êtes en repérage.
-* Le repérage de char ennemi doit se faire dans les limites de l’avant poste ( pas le droit de dépasser la limite) et sans armes si vous vous faites tirer dessus essayez d'abord de vous replier si ce n’est pas possible alors vous pouvez tirer.
 * La 36th A.I.R/ZZ Truppe ne peut être présentée hors limitation de la régulière seulement si un char allié est présent, sinon la 36th/Truppe devra soit se mettre en armored/Pz ou bien suivre la régulière
 * Il est interdit pour un 36th/Truppe de conduire ou bien tirer avec un char.
-* Les tanks peuvent utiliser les MG (toutes) tant qu'ils ont des troupes sur l'attaque de base, lorsqu'ils en ont plus, ils doivent quitter leur char et se battre à pied
+* Les tanks peuvent utiliser les MG (toutes) tant qu'ils ont des troupes sur l'attaque de base, lorsqu'ils en ont plus, ils doivent quitter leur char et se battre à pied.
+* Interdiction de mettre un camouflage sur le char ou autour.
+* Les tanks ne peuvent désormais plus tirer sur la zone de régulière (HE/mitrailleuse) hormis s'il y a un cannonier/AT/artilleur et sauf lorsque celui ci est en assaut ou en combat de chars.
+* Les chars de type P1 et P2 peuvent se déplacer dans les limites de l'avant poste supérieur dans l'unique but de combattre le char ennemi. Ils sont autorisés uniquement à tirer sur le char ennemi et les unités qui peuvent détruire le char (AT/Canonnier). Une fois le char ennemi battu, le char doit rejoindre ses limites respectives.
 
 <table><thead><tr><th width="319"> </th><th align="center">Américain</th><th align="center">Allemand </th></tr></thead><tbody><tr><td>1 Personne</td><td align="center"><mark style="background-color:green;">M3 Suart / M8 Greyhound</mark> </td><td align="center"><mark style="background-color:red;">Panzer 38T / Puma</mark></td></tr><tr><td>2 Personnes</td><td align="center"><mark style="background-color:green;">M18 Hellcat | M18 Blackcat</mark></td><td align="center"><mark style="background-color:red;">Hezter 38T / Panzer IV F1 / Panzer IV F2 / Stug III</mark> </td></tr><tr><td>3 Personnes</td><td align="center"><mark style="background-color:green;">M18 Super Hellcat</mark></td><td align="center"><mark style="background-color:red;">Panzer V Panther</mark></td></tr><tr><td>4 Personnes</td><td align="center"><mark style="background-color:green;">M26 Pershing</mark></td><td align="center"><mark style="background-color:red;">Panzer VI Tiger I E</mark></td></tr></tbody></table>
 
 ### <mark style="color:blue;">Sapeur / Pionner</mark> :
 
 * Les ingénieurs peuvent poser un total de 4 mines et seulement à l'extérieur&#x20;
-* Obligation de mettre un panneau “miné” pour chaque mine. Il n'est pas obligatoirement visible par l'ennemie.
+* Obligation de mettre un panneau “miné” pour chaque champ de mine. Il est obligatoirement visible par l'ennemie.
 * Vous pouvez faire des fortifications plus poussées.&#x20;
 * Limitation des fortification en extérieur augmentée ( props en extérieur illimités ) et limites classiques en intérieur.
 * Vous ne pouvez bloquer aucun accès.
-* Il est le seul à pouvoir construire des échelles.
 * Lorsqu'un Sapeur / Pionnier pose une ou plusieurs mines, celui-ci doit s'assurer de les mettre hors service avant de changer de job sous peine de sanction.
 * Aucune mine ne doit être mise dans les bâtiments
 * Vous ne pouvez pas poser de mines devant les portes des bâtiments.\
@@ -76,7 +77,6 @@
 
 ### <mark style="color:blue;">Grenadier / PanzerGrenadier</mark> :
 
-* Interdit de spam les grenades en même temps. Une grenade toutes les 30 secondes.
 * Vous avez le droit d’utiliser au maximum 5 grenades, après quoi il faudra se ravitailler à l’aide d’un Quartermaster ou par le biais d’un retour à la base.
 * Vous ne pouvez utiliser votre lance-grenades que pour lancer votre grenade.
 * Il est interdit d'utiliser les lance grenade (sur l'arme) dans les bâtiments. Vous pouvez cependant tirer de l'extérieur vers l'intérieur du bâtiment.
@@ -108,8 +108,8 @@
 
 ### <mark style="color:blue;">Airborne / FSM</mark> :
 
-* Les FSM et Airborne peuvent quitter leur base à 2 minimums&#x20;
-* Vous ne pouvez pas partir faire de l'harcèlement lorsque l'ennemi possède AP 5/VP 5. (ex : ALL VP 4, interdiction à la SS d’aller faire de l’harcèlement sur VP 5)
+* Les FSM et Airborne peuvent quitter leur base à 2 minimums.
+* Vous ne pouvez pas partir faire de l'harcèlement lorsque l'ennemi possède AP 5/VP 5. (ex : ALL VP 4)
 * Vous ne pouvez pas rentrer sur le point de capture sans régulière.
 * Vous ne pouvez partir faire de l'harcèlement qu'une fois toutes les 10 minutes, le reste du temps vous vous contentez de rester derrière les lignes ou alors en défense aux alentours de votre l'avant-poste pour tendre des embuscades lors des assauts, mais vous restez aux alentours.
 * Lorsque vous êtes AP5 ou VP5 , vous devez rester sur votre avant-poste ou derrière.
@@ -140,7 +140,6 @@
 * Vous devez rester sur l'avant-poste.
 * Vous ne pouvez pas faire de l'harcèlement.
 * Vous devez agir avec votre armée régulière pas seul.
-* Les SS ne peuvent dorénavant plus tuer les médecins volontairement.
 * Ces 2 unités sont autorisé à faire des postes de défenses avancer tout en restant dans la limite rose de leur avant poste.
 * Vous devez respecter le règlement Pionnier/Sapeur.
 
