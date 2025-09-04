@@ -30,6 +30,7 @@
 24. Une fois que vous vous êtes fait réanimé vous devez respecter une convalescence de 2 minutes minimum.
 25. Ce règlement s'applique uniquement si la faction qui a le gradé en otage possède un membre de sa police militaire.
 26. La double communication (TS/Discord ect.) est autorisée, tant que vous n'y échangez pas d'information RP, et que le chanel où vous êtes est accessible par l'ensemble des Super-Admin et plus.
+27. Il est interdit d'avoir plusieurs personnages RP dans une même sous faction sauf pour les personnes ayant un grade supérieur ou équivalent à Lieutenant-colonel / Oberstleutnant
 
 
 
