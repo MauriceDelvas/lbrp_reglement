@@ -129,6 +129,7 @@
 * Il vous est interdit de faire de la prise d'info.
 * Seuls les médecins des branches principales (les jobs ne commençant pas "médecin -"/ "Sanitäts" ) seront autorisés à faire des soins complets.
 * Réanimation interdite en attaque de base.
+* Vous ne pouvez effectuer / recevoir un premier soins qu'une fois toutes les 2 minutes 30.
 
 ### <mark style="color:blue;">**Civil :**</mark>&#x20;
 

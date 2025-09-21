@@ -61,6 +61,7 @@
 * Il est interdit de tuer volontairement dans une infirmerie.
 * Toute personne ne participant pas de façon active à la guerre (prisonnier, soldat qui se rend, médecin, civil ect.) est protégé par la convention de Genève. (Ex : Une personne qui range son arme pour aller sur un AP/VP participe toujours à la guerre, étant donné qu'elle apporte du soutient armé à son camp, elle n'est donc pas protégé.)
 * Il est formellement interdit de tuer un parachutiste tant qu'il n'a pas toucher le sol
+* Les non respect de la convention de genève doivent être sanctionner prioritairement en RP au lieu d'en HRP. (Si la sanction est mise en RP mais que vous avez déjà été warn, vous pouvez vous le faire retirer.)
 
 
 
