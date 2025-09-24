@@ -291,7 +291,13 @@
 * Vous n'avez pas la possibilité d'être braqué
 * Vous ne pouvez pas mener d'activités illégales (par exemple : Printer , bitcoin etc).
 
+### **🤵‍♂️**<mark style="color:blue;">Homme d'Affaires</mark>
 
+* Vous avez la possibilité de porter des armes de poing et des armes blanches (uniquement).
+* Vous n’avez pas le droit d’organiser des braquages, des prises d’otages, etc.
+* **Légal :** Vous pouvez vous défendre en cas de cambriolage (retenez toutefois que la police peut intervenir). Si vous êtes braqué, les braqueurs ne peuvent prendre **qu’une moitié** de vos ressources.
+* **Illégal :** En Business illégal, vous pouvez vous défendre en cas de cambriolage (attention à la police). Si vous êtes braqué, les braqueurs ne peuvent prendre **qu’une moitié** de vos ressources. Vous pouvez également faire des printers ; toutefois, si vous êtes contrôlé par la police, vous risquez de tout perdre y compris vos employés illégaux.
+* En tant que business **légal**, vous pouvez créer et afficher votre entreprise au grand jour. En revanche, en tant que business **illégal**, vous devez rester discret et ne pas exposer votre empire criminel.
 
 ## <mark style="color:red;">Illégaux</mark> :
 
