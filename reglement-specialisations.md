@@ -118,6 +118,7 @@
 * Un parachutage peut être réaliser si vous êtes au minimum trois.
 * Un parachutage peut être réaliser tout les 10 minutes
 * Vous pouvez monter sur un toit pour éliminer le sniper ennemie ( uniquement lorsque la position du sniper est connu, vous devez repartir immédiatement après l'avoir éliminé )
+* Vous pouvez patrouiller sur l'ensemble du territoire où peut aller votre tanks, sauf si vous êtes interdit de combattre vous ne pourrez patrouiller que derrière votre avant poste et ne pourrez pas participer à la défense de celui-ci.
 
 ### <mark style="color:blue;">Médecin / Sanitat</mark> :
 
