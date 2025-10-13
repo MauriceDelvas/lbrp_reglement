@@ -408,7 +408,7 @@
 * Vous pouvez créer des complots pour que l'ordre soit renversé.
 * **Vous devez être discret !**
 
-### <mark style="color:blue;">Louo-Garou :</mark>
+### <mark style="color:blue;">Loup-Garou :</mark>
 
 * Vous pouvez utiliser uniquement le SWEP fourni.,
 * Vous n’avez pas le droit d’organiser des braquages, prises d’otages, etc.,
