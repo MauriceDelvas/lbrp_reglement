@@ -345,8 +345,6 @@
 
 ## <mark style="color:red;">**Gang (Non Légal)**</mark>**&#x20;:**
 
-
-
 ### <mark style="color:blue;">Racailles</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
@@ -373,8 +371,6 @@
 * Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Gitans et ms13, Guetteurs.&#x20;
 * Vous ne pouvez pas vous /job pour changer le nom du métier
 
-
-
 ### <mark style="color:blue;">Guetteur</mark>
 
 * Vous avez la possibilité de porter tout types d’armes&#x20;
@@ -388,3 +384,33 @@
 * Vous avez la possibilité de porter tout types d’armes
 * Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Gitans , Racailles.
 * Vous ne pouvez pas vous /job pour changer le nom du métier
+
+## <mark style="color:red;">**Halloween (EXCLUSIF) :**</mark>&#x20;
+
+### <mark style="color:blue;">Tueur en série :</mark>
+
+* Vous avez la possibilité de porter uniquement les armes fournies (seringue, couteau de boucher),
+* Vous n’avez pas le droit de faire de braquage, prises d’otages etc …,
+* Votre rôle est d'endormir vos cibles discrètement avec votre seringue et de les trainer sur votre table d'exécution afin de les découper dans un endroit discret.,
+* Vous avez le droit de cacher votre profession ( /job citoyen … )
+
+### <mark style="color:blue;">Lapin enragé :</mark>
+
+* Vous avez la possibilité de porter des armes blanches (uniquement).,
+* Votre but est de terroriser les citoyens.,
+* Vous devez vous faire discret et rester dans des lieux reculés pour agresser les gens (ruelles, forêts etc..).
+
+### <mark style="color:blue;">La Secte :</mark>
+
+* Vous pouvez utiliser l'arme fourni et en extrême nécessité une arme de poing.,
+* Vous n’avez pas le droit de faire de braquage, prises d’otages etc …,
+* Vous devez vous réunir, formez un groupe, trouvez des victimes pour accomplir vos rituels
+* Vous pouvez créer des complots pour que l'ordre soit renversé.
+* **Vous devez être discret !**
+
+### <mark style="color:blue;">Louo-Garou :</mark>
+
+* Vous pouvez utiliser uniquement le SWEP fourni.,
+* Vous n’avez pas le droit d’organiser des braquages, prises d’otages, etc.,
+* Vous devez rester discret et attaquer vos victimes au moment opportun.,
+* Vous ne pouvez pas rester en zone de Mass RP sinon vous vous ferez chasser.
