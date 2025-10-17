@@ -189,7 +189,7 @@
     Vous pouvez également tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
 
     Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.
-*   Ils ne sont pas habilités à intervenir lors de braquages (banques, supérettes, etc.). Leur mission consiste à s’infiltrer au sein de gangs ou d’organisations pour collecter des renseignements et les communiquer aux forces de l’ordre.
+*   En cas de besoin, ils sont habilités à intervenir lors de braquages (banques, supérettes, etc.) à condition d'enfiler l'uniforme de police.
 
 
 
