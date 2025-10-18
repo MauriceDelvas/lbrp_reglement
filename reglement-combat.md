@@ -50,7 +50,6 @@
 ### <mark style="color:blue;">Conventions de Genève</mark> :
 
 * Ne pas abattre les prisonniers. (Vous pouvez abattre les prisonniers qui ne sont pas coopératifs).
-* Ne pas abattre les médecins ou soldats qui ne représentent pas une menace. (Vous pouvez abattre les médecins et soldats qui prennent et donnent des informations sur les positions des troupes sur le front).
 * Vous ne devez pas vous montrer non coopératif lors de votre capture. (Sous peine de CK)
 * Vous ne devez pas refuser une demande d'un détenu s'il requiert des soins.
 * Vous pouvez détenir un prisonnier pendant un maximum de 15 minutes à partir du moment où vous l'avez capturé.( sauf sous-officier / officier ou sous l’accord d’un staff)
