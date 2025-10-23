@@ -100,6 +100,8 @@
 ### <mark style="color:blue;">Radioman / Funker</mark> :
 
 * Interdiction de faire du balayage radio.&#x20;
+* Il peut créer un poste radio mais doit le nommer.
+* Lorsqu’un poste radio est installé toutes les personnes a proximité peuvent utiliser la radio textuelle “/advert \[Radio Nom] _R-all/us_ message".
 
 ### <mark style="color:blue;">Military Police / Feldgendarmerie</mark> :
 
