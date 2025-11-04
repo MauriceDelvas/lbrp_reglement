@@ -26,7 +26,7 @@
 
 <mark style="color:purple;">**12**</mark> - Le **Travers** : C'est le fait de tirer à travers une surface opaque telle que des murs ou bien des props. (il est cependant autorisé de tirer à travers les surfaces transparentes) (<mark style="color:red;">**Il est interdit de tirer à travers les vitres de la Banque et de l'ascenseur**</mark>)
 
-<mark style="color:purple;">**13**</mark> - Le **NLR ( New Life Rule )** : C'est le fait de revenir sur une même position/action alors que vous êtes mort durant celle-ci. Ainsi que de vous souvenir de tout ce qu’il s’est passé avant votre mort **(Vous pourrez revenir sur le lieu au bout d'une quinzaine de minutes)**
+<mark style="color:purple;">**13**</mark> - Le **NLR ( New Life Rule )** : C'est le fait de revenir sur une même position/action alors que vous êtes mort durant celle-ci. Ainsi que de vous souvenir de tout ce qu’il s’est passé avant votre mort <mark style="color:blue;">**(Vous pourrez revenir sur le lieu au bout d'une quinzaine de minutes)**</mark>
 
 <mark style="color:purple;">**14**</mark> - Le **Freedemote** : C'est le fait de démote (retirer le grade d’une personne) sans raison rp <mark style="color:blue;">**valable**</mark>.
 
