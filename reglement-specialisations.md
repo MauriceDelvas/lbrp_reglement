@@ -139,7 +139,7 @@
 * Vous ne pouvez pas avoir d'arme sauf sous accord d'un administrateur ou + .
 * Vous pouvez faire de la résistance passive ou de la collaboration passive .
 
-### <mark style="color:blue;">SS Kompanie / Royal Engineer</mark>  <mark style="color:blue;"></mark><mark style="color:blue;">**:**</mark>&#x20;
+### <mark style="color:blue;">Marrines / Royal Engineer</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**:**</mark>&#x20;
 
 * Vous devez rester sur l'avant-poste.
 * Vous ne pouvez pas faire de l'harcèlement.
