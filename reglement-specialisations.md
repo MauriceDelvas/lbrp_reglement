@@ -78,14 +78,13 @@
 ### <mark style="color:blue;">Grenadier / PanzerGrenadier</mark> :
 
 * Vous avez le droit d’utiliser au maximum 5 grenades, après quoi il faudra se ravitailler à l’aide d’un Quartermaster ou par le biais d’un retour à la base.
-* Vous ne pouvez utiliser votre lance-grenades que pour lancer votre grenade.
 * Il est interdit d'utiliser les lance grenade (sur l'arme) dans les bâtiments. Vous pouvez cependant tirer de l'extérieur vers l'intérieur du bâtiment.
 
 ### <mark style="color:blue;">Canonnier / Kanoneer</mark> :
 
 * Vous ne pouvez utiliser uniquement le canon de 50 mm, sauf lorsque que les tankistes ennemies sont en P3 ou P4, ce qui vous autorise à sortir les canon de 75mm.
 * Vous n'avez le droit qu'à des tires directes (interdiction d'utiliser le mode artillerie)
-* Vous avez le droit à un tire de HE toutes les 5 minutes.
+* Vous avez le droit à un tire de HE toutes les 40 secondes.
 
 ### <mark style="color:blue;">Anti-Tank / PanzerJäger</mark> :
 
