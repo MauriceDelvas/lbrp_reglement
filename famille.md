@@ -5,17 +5,18 @@
 1. _Les familles ne sont pas à confondre avec les gangs de base sur le serveur (mafieux, gangsters, MS13, etc ...)_
 2. _Il y a une limitation de slots par job, par conséquent vous n'avez pas le droit aux alliances entre job, pas d'autres jobs illégaux (sauf productions)_
 3. _Vous avez la possibilité de travailler avec seulement 1 mercenaire par famille._ **(sauf en guerre de famille)**
-4. En dehors des action (Braquage / supérette ainsi que Prise d'otage, ect ...), vous pouvez effectué des contrat à 500 000 € minimum pour un soutien, pour une protection de territoire ou quelconque information.
-5. _Vous avez obligatoirement votre carte d'identités sur vous_
-6. _Interdit d'appartenir à deux familles différentes_
-7. _Lorsque vous êtes dans une famille il est interdit de changer de nom RP sans l'accord d'un Gérant DarkWeb_
-8. _Il est interdit de trash les autres familles, seulement la provocation est accepté, les insultes en anonymes sont formellement interdit._
-9. Il est désormais interdit de communiquer et/ou d'utiliser des informations transmises/obtenues par vocal sur discord. Vous devez utiliser le système de Radio. ( Achetable à la station service )
-10. Vous pouvez capturer un nombre de 3 drapeaux maximum (interdiction de capturer des points en étant dans un véhicule).
-11. Vous pouvez faire des échanges de biens entre familles, par exemple : Printer , drogue etc.
-12. Chaque famille, qu'elle soit créée auparavant ou à l'avenir, est considérée comme une famille et non comme un job personnalisé. Elles doivent donc respecter l'ensemble du règlement applicable aux familles.
-13. Vous ne pouvez être inscrit sur liste blanche (whitelist) que dans une seule famille. Les doubles inscriptions sur liste blanche (whitelist) seront sanctionnables. Veuillez contacter au moins un SuperAdmin en cas de nécessité de suppression.
-14. Les sommations textuelle (/ano, /advert) sont autoriser seulement sur les territoires de job famille à job famille.\
+4. Les contrats entre familles sont strictement réservés pour des informations.
+5. Les alliances entre familles sont autorisées mais il faut passer par un Gérant DarkWeb afin qu'elle soit acceptée ( 1 alliance maximum ).
+6. _Vous avez obligatoirement votre carte d'identités sur vous_
+7. _Interdit d'appartenir à deux familles différentes_
+8. _Lorsque vous êtes dans une famille il est interdit de changer de nom RP sans l'accord d'un Gérant DarkWeb_
+9. _Il est interdit de trash les autres familles, seulement la provocation est accepté, les insultes en anonymes sont formellement interdit._
+10. Il est désormais interdit de communiquer et/ou d'utiliser des informations transmises/obtenues par vocal sur discord. Vous devez utiliser le système de Radio. ( Achetable à la station service )
+11. Vous pouvez capturer un nombre de 3 drapeaux maximum (interdiction de capturer des points en étant dans un véhicule).
+12. Vous pouvez faire des échanges de biens entre familles, par exemple : Printer , drogue etc.
+13. Chaque famille, qu'elle soit créée auparavant ou à l'avenir, est considérée comme une famille et non comme un job personnalisé. Elles doivent donc respecter l'ensemble du règlement applicable aux familles.
+14. Vous ne pouvez être inscrit sur liste blanche (whitelist) que dans une seule famille. Les doubles inscriptions sur liste blanche (whitelist) seront sanctionnables. Veuillez contacter au moins un SuperAdmin en cas de nécessité de suppression.
+15. Les sommations textuelle (/ano, /advert) sont autoriser seulement sur les territoires de job famille à job famille.\
 
 
 ### <mark style="color:blue;">Les relations entre Familles :</mark> <a href="#les-relations-entre-gangs" id="les-relations-entre-gangs"></a>
