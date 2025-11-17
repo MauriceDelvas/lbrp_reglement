@@ -56,6 +56,8 @@
 
 <mark style="color:purple;">**27**</mark>**&#x20;- Le double compte est strictement interdit.**
 
+<mark style="color:purple;">**28**</mark>**&#x20;-** Il est **interdit de gérer les printers et bitminers** qui ne sont pas les sien&#x73;**. Seul le banquier** peut s'occuper de cette tache !
+
 \
 :french\_bread: <mark style="color:yellow;">Règles Inclus sur le serveur</mark> :french\_bread:
 -----------------------------------------------------------------------------------------------
