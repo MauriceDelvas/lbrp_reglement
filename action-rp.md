@@ -70,6 +70,6 @@
 * Un nombre de 3 somations sont obligatoires afin de défendre votre drapeau (Obligatoire de faire les sommations en face à face)
 * Il faut être minimum 2 présent au niveau du drapaux (actifs) et dans la même famille pour capturer un drapeau (Il faut être dans le même job pour commencer la capture)
 * Toutes les règles ci-dessus sont applicables aussi pour les défenseurs.
-* Vous pouvez au maximum capturer 3 drapeaux
-* Lors d'une guerre, vous pouvez capturer les drapeaux de l'ennemie en plus de la limite (3).
+* Vous pouvez au maximum capturer 2 drapeaux
+* Le gagnant de la guerre remporte un drapeau suplementaire de la famille ennemie durant 1 semaine (cela signifie que votre limite passe de 2 ---> 3). Il est donc interdit de refaire une guerre ou de reprendre les drapeaux de la famille gagnant durant 1 semaine.
 * Lorsque que vous capturer un drapeau d'une famille ennemie, vous êtes obligé de le capturer, vous ne pouvez pas capturer un drapeau juste pour le rendre libre vous êtes donc dans l'obligation de le prendre.

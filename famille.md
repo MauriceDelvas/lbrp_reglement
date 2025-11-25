@@ -16,8 +16,7 @@
 12. Vous pouvez faire des échanges de biens entre familles, par exemple : Printer , drogue etc.
 13. Chaque famille, qu'elle soit créée auparavant ou à l'avenir, est considérée comme une famille et non comme un job personnalisé. Elles doivent donc respecter l'ensemble du règlement applicable aux familles.
 14. Vous ne pouvez être inscrit sur liste blanche (whitelist) que dans une seule famille. Les doubles inscriptions sur liste blanche (whitelist) seront sanctionnables. Veuillez contacter au moins un SuperAdmin en cas de nécessité de suppression.
-15. Les sommations textuelle (/ano, /advert) sont autoriser seulement sur les territoires de job famille à job famille.\
-
+15. Les sommations textuelle (/ano, /advert) sont autoriser seulement sur les territoires de job famille à job famille.<br>
 
 ### <mark style="color:blue;">Les relations entre Familles :</mark> <a href="#les-relations-entre-gangs" id="les-relations-entre-gangs"></a>
 
@@ -32,7 +31,7 @@
 2. _Lorsque que vous êtes CK durant la guerre, vous ne pouvez plus vous mettre dans le job famille le temps de la guerre._
 3. _Durant la guerre, si une ou plusieurs erreurs RP sont commises, vous serez ban 12 heures. (à vous de faire attention à votre RP, vous devez être irréprochable.)_
 4. Les armes de type "UNBOX" ou "Boutique" sont autorisées lors d'une guerre de famille
-5. Le gagnant de la guerre remporte tous les drapeaux de la famille ennemie durant 1 semaine (cela signifie que votre limite passe de 3 ---> 6). Il est donc interdit de refaire une guerre ou de reprendre les drapeaux de la famille gagnant durant 1 semaine.
+5. Le gagnant de la guerre remporte tous les drapeaux de la famille ennemie durant 1 semaine (cela signifie que votre limite passe de 2 ---> 3). Il est donc interdit de refaire une guerre ou de reprendre les drapeaux de la famille gagnant durant 1 semaine.
 
 ### <mark style="color:blue;">Le character kill (CK) :</mark> <a href="#le-character-kill-ck" id="le-character-kill-ck"></a>
 
