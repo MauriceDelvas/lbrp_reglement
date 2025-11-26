@@ -3,7 +3,7 @@
 1. 30 HP ou plus : Cette blessure a un impact léger qui doit toutefois être pris en compte. Mais vous pouvez vous battre plus ou moins normalement.
 2. Entre 29 et 11 HP : La blessure est grave, vous ne pouvez plus utiliser votre arme principale, courir, lancer des grenades, conduire des véhicules, conduire ou poser des mines ni même construire. Vous avez 15 minutes pour être soigné sinon vous mourrez.
 3. 10 HP ou moins : La blessure est très grave vous avez 5 minutes pour être soigné sinon vous mourrez, vous n'avez plus le droit de combattre uniquement de ramper.
-4. (+) Vous êtes toujours censés connaître votre nombre de points de vie avant d'entamer une action (échange de tir, déplacement, etc.), les excuses du type "Je n'ai pas vu mes points de vie" ne sont pas tolérée.
+4. Vous êtes toujours censés connaître votre nombre de points de vie avant d'entamer une action (échange de tir, déplacement, etc.), les excuses du type "Je n'ai pas vu mes points de vie" ne sont pas tolérée.
 5. Vous devez avoir un nom RP correct, cohérent et complet. Les jeux de mots et propos insultants sont interdits, il vous ait cependant autorisé de mettre un nom de code en plus de votre nom RP si celui-ci est également cohérant.
 6. En cas de non coopération lors de sa capture, le joueur en question peut être CK avec validation d'un responsable staff.
 7. Il est interdit de rush une personne avec un couteau, une pelle ou même une mine. (No Fear)

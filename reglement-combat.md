@@ -21,8 +21,7 @@
 * Être en présence d’un sous-officier au minimum.
 * Vous avez le droit d'attaquer n'importe quel avant-poste et le nombre de fois que vous le souhaiter. (Seul le NLR et la présence d'un sous-officier sont votre frein).
 * Lorsque vous prenez un avant-poste annoncez le en /advert _R-US_ Prise AP ? à ??h??.
-* Vous devez résister 15 minutes avec tous les avant-postes pris et annoncés pour débloquer une attaque de base.\
-
+* Vous devez résister 15 minutes avec tous les avant-postes pris et annoncés pour débloquer une attaque de base.<br>
 
 ### <mark style="color:blue;">Avant-poste</mark> (Berlin) :&#x20;
 
@@ -49,18 +48,21 @@
 
 ### <mark style="color:blue;">Conventions de Genève</mark> :
 
-* Ne pas abattre les prisonniers. (Vous pouvez abattre les prisonniers qui ne sont pas coopératifs).
-* Vous ne devez pas vous montrer non coopératif lors de votre capture. (Sous peine de CK)
-* Vous ne devez pas refuser une demande d'un détenu s'il requiert des soins.
-* Vous pouvez détenir un prisonnier pendant un maximum de 15 minutes à partir du moment où vous l'avez capturé.( sauf sous-officier / officier ou sous l’accord d’un staff)
-* Les abus de conventions de Genève seront gérés par le staff, mais les petites infractions par la Military Police et la Feldgendarmerie.
-* Une fois sur le front, vous êtes exposé à la mort.
-* En cas de non coopération ou transgression de cette convention lors d'une scène RP vous vous exposez à une sanction administrative et ou Roleplay (CK-PK). Pour qu'une sanction soit légitime il faut que le joueur fasse preuve de NoFearRP, NoPainRP grave, etc. Vous ne pouvez pas demander un CK ou PK si la faction ne souhaite pas négocier le joueur.
-* Il est interdit de prendre son arme dans une infirmerie.
-* Il est interdit de tuer volontairement dans une infirmerie.
-* Toute personne ne participant pas de façon active à la guerre (prisonnier, soldat qui se rend, médecin, civil ect.) est protégé par la convention de Genève. (Ex : Une personne qui range son arme pour aller sur un AP/VP participe toujours à la guerre, étant donné qu'elle apporte du soutient armé à son camp, elle n'est donc pas protégé.)
-* Il est formellement interdit de tuer un parachutiste tant qu'il n'a pas toucher le sol
-* Les non respect de la convention de genève doivent être sanctionner prioritairement en RP au lieu d'en HRP. (Si la sanction est mise en RP mais que vous avez déjà été warn, vous pouvez vous le faire retirer.)
+1. Ne pas abattre les prisonniers. (Vous pouvez abattre les prisonniers qui ne sont pas coopératifs).
+2. Vous ne devez pas vous montrer non coopératif lors de votre capture. (Sous peine de CK)
+3. Vous ne devez pas refuser une demande d'un détenu s'il requiert des soins.
+4. Vous pouvez détenir un prisonnier pendant un maximum de 15 minutes à partir du moment où vous l'avez capturé.( sauf sous-officier / officier ou sous l’accord d’un staff)
+5. Les abus de conventions de Genève seront gérés par le staff, mais les petites infractions par la Military Police et la Feldgendarmerie.
+6. Une fois sur le front, vous êtes exposé à la mort.
+7. En cas de non coopération ou transgression de cette convention lors d'une scène RP vous vous exposez à une sanction administrative et ou Roleplay (CK-PK). Pour qu'une sanction soit légitime il faut que le joueur fasse preuve de NoFearRP, NoPainRP grave, etc. Vous ne pouvez pas demander un CK ou PK si la faction ne souhaite pas négocier le joueur.
+8. Il est interdit de prendre son arme dans une infirmerie.
+9. Il est interdit de tuer volontairement dans une infirmerie.
+10. Toute personne ne participant pas de façon active à la guerre (prisonnier, soldat qui se rend, médecin, civil ect.) est protégé par la convention de Genève. (Ex : Une personne qui range son arme pour aller sur un AP/VP participe toujours à la guerre, étant donné qu'elle apporte du soutient armé à son camp, elle n'est donc pas protégé.)
+11. Il est formellement interdit de tuer un parachutiste tant qu'il n'a pas toucher le sol
+12. Les non respect de la convention de Genève doivent être sanctionner prioritairement en RP au lieu d'en HRP. (Si la sanction est mise en RP mais que vous avez déjà été warn, vous pouvez vous le faire retirer.)
+13. Vous ne pouvez pas tuer une personne au sol qui est dans l'incapacité de ce battre, sauf dans les deux cas suivant :
+    * &#x20;La personne ne se montre pas à vous, elle reste de dos et sa situation est trop ambigüe pour prendre le risque.
+    * La personne s'éloigne de vous ou refuse de se rapprocher malgré des tires de sommation fait à coté, où un signe clair lui demandant de se rapprocher
 
 
 
