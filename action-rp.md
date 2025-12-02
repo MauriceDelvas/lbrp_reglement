@@ -64,7 +64,7 @@
 * Il faut demander l’autorisation à un Administrateur minimum.
 * Vous devez avoir un plan de dictature déjà prêt.
 
-## <mark style="color:purple;">Prise de drapeaux (famille) :</mark>
+## <mark style="color:purple;">Prise de drapeaux :</mark>
 
 * Afin d'effectuer une capture de drapeau vous devez annoncer la capture de celui-ci en anonyme en précisant le lieu de la capture
 * Un nombre de 3 somations sont obligatoires afin de défendre votre drapeau (Obligatoire de faire les sommations en face à face)
