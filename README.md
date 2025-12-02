@@ -156,15 +156,11 @@ Le UseButton en action RP est interdit.
 
 ### &#x20;🏗️ <mark style="color:yellow;">Règles de construction</mark> 🏗️
 
-Les constructions avec un sens RP sont obligatoires ! Interdiction aux énormes constructions ou fluorescentes qui pique les yeux des autres joueurs sauf en cas d'un événement particulier annoncé à l'avance sur le Discord du serveur (basewars ou autres sont interdites).
+Les constructions avec un sens RP sont obligatoires !&#x20;
 
-Toute entrée (porte garage etc...) effectué par un mappeur doit être accessible au public ou susceptible d'être ouvert avec un Lockpick, un Keypad ou un bouton. Celle-ci doit être accessible des deux côtés comme entrée / sortie (les balcons doivent comporté une entrée)
-
-Les bâtiments que vous concevez doivent être réalistes, c'est-à-dire qu'ils doivent être situés sur un support solide plutôt que dans les airs, et leurs matériaux et couleurs doivent être cohérents avec la réalité plutôt que fantaisistes.\
+Toute entrée (porte garage etc...) effectué par un mappeur doit être accessible au public ou susceptible d'être ouvert avec un Lockpick, un Keypad ou un bouton. Celle-ci doit être accessible des deux côtés comme entrée / sortie (les balcons doivent comporté une entrée)\
 \
 Il est interdit de créer des sols, des échelles, des ascenseurs et des plateformes disparaissantes (via fading door).
-
-Les props invisibles sont interdit
 
 Il est interdit de faire des constructions avec juste un petit espace pour rentrer accroupie.
 
@@ -174,25 +170,17 @@ Le nombre de SAS maximum dans une construction est de 3. ( Tout membre compris )
 
 Il est interdit de mettre plus de 2 keypads pour un seul fading door !
 
-Il est interdit de mettre un délais d'ouverture / fermeture sur les fadings door.
-
 Les boutons/keypads doivent être proches de l'objet qu'ils contrôlent et être facilement visibles.
 
 Les meurtrières sont interdites, c’est le fait de faire une construction avec juste un petit passage ou un petit écart de props ou de véhicules pour tirer. Pour que cela ne compte pas comme une meurtrière, il faut pouvoir passer accroupie et que l'on voit plus de la moitié de votre corps.
 
 <div><figure><img src=".gitbook/assets/image_2023-04-11_185344110.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image_2023-04-11_185510649.jpg" alt=""><figcaption></figcaption></figure></div>
 
-Vous ne pouvez pas poser plusieurs keypads au même endroit dans le but de tromper l'assaillant.
-
-Il est interdit de faire des boites / des pièces totalement noires (ou une construction qui a comme objectif qu'on ne voit rien) !
-
 Il est interdit de faire des constructions en forme de labyrinthe.
 
 Il est interdit de construire de longs couloirs avec trois sas alignés et consécutifs. (couloir de la mort)
 
 Il est interdit de mettre un matériau sur quelconque keypad / bouton
-
-Il est interdit de faire un périmètre de construction supérieur à un bâtiment.
 
 Il est interdit de privatiser un ou plusieurs étages dans les HLM (taco Bell/mairie), votre construction doit commencer à partir de la porte d'entrée.
 
