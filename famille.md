@@ -12,11 +12,10 @@
 8. _Lorsque vous êtes dans une famille il est interdit de changer de nom RP sans l'accord d'un Gérant DarkWeb_
 9. _Il est interdit de trash les autres familles, seulement la provocation est accepté, les insultes en anonymes sont formellement interdit._
 10. Il est désormais interdit de communiquer et/ou d'utiliser des informations transmises/obtenues par vocal sur discord. Vous devez utiliser le système de Radio. ( Achetable à la station service )
-11. Vous pouvez capturer un nombre de 3 drapeaux maximum (interdiction de capturer des points en étant dans un véhicule).
-12. Vous pouvez faire des échanges de biens entre familles, par exemple : Printer , drogue etc.
-13. Chaque famille, qu'elle soit créée auparavant ou à l'avenir, est considérée comme une famille et non comme un job personnalisé. Elles doivent donc respecter l'ensemble du règlement applicable aux familles.
-14. Vous ne pouvez être inscrit sur liste blanche (whitelist) que dans une seule famille. Les doubles inscriptions sur liste blanche (whitelist) seront sanctionnables. Veuillez contacter au moins un SuperAdmin en cas de nécessité de suppression.
-15. Les sommations textuelle (/ano, /advert) sont autoriser seulement sur les territoires de job famille à job famille.<br>
+11. Vous pouvez capturer un nombre de 2 drapeaux maximum (interdiction de capturer des points en étant dans un véhicule).
+12. Chaque famille, qu'elle soit créée auparavant ou à l'avenir, est considérée comme une famille et non comme un job personnalisé. Elles doivent donc respecter l'ensemble du règlement applicable aux familles.
+13. Vous ne pouvez être inscrit sur liste blanche (whitelist) que dans une seule famille. Les doubles inscriptions sur liste blanche (whitelist) seront sanctionnables. Veuillez contacter au moins un SuperAdmin en cas de nécessité de suppression.
+14. Les sommations textuelle (/ano, /advert) sont autoriser seulement sur les territoires de job famille à job famille.<br>
 
 ### <mark style="color:blue;">Les relations entre Familles :</mark> <a href="#les-relations-entre-gangs" id="les-relations-entre-gangs"></a>
 
