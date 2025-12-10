@@ -57,8 +57,7 @@
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Vous gardez les printers des clients en sûreté.
 * Vous pouvez faire de l'argent pour votre compte avec 8 printers maximum (Menu F4) ou deux imprimantes de gang maximum (!gang).
-* Vous pouvez faire une marge de 30% maximum sur les printers.\
-
+* Vous pouvez faire une marge de 30% maximum sur les printers.<br>
 
 ### :taxi:<mark style="color:purple;">Chauffeur de taxi</mark>
 
@@ -102,8 +101,7 @@
 * Vous avez la possibilité de porter des armes blanches ( seulement )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
-* Le bénéfice max est de 10 000€\
-
+* Le bénéfice max est de 10 000€<br>
 
 ### <mark style="color:purple;">DIR</mark>
 
