@@ -373,32 +373,22 @@
 * Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Gitans , Racailles.
 * Vous ne pouvez pas vous /job pour changer le nom du métier
 
-## <mark style="color:red;">**Halloween (EXCLUSIF) :**</mark>&#x20;
+## <mark style="color:red;">**Noël (EXCLUSIF) :**</mark>&#x20;
 
-### <mark style="color:blue;">Tueur en série :</mark>
+### &#x20;Gang des Pères Noël <mark style="color:blue;">:</mark>
 
-* Vous avez la possibilité de porter uniquement les armes fournies (seringue, couteau de boucher),
-* Vous n’avez pas le droit de faire de braquage, prises d’otages etc …,
-* Votre rôle est d'endormir vos cibles discrètement avec votre seringue et de les trainer sur votre table d'exécution afin de les découper dans un endroit discret.,
-* Vous avez le droit de cacher votre profession ( /job citoyen … )
+* Vous êtes un gang criminel utilisant Noël comme couverture.
+* Vous pouvez porter toutes les armes et commettre des braquages, prises d’otages.
+* Vous ne pouvez pas vous alliez avec : Mafieux, Yakuza, MS13, Gitans, Racailles, Familles.
+* Interdit de changer le nom du métier via /job.
+* Vous pouvez collaborer avec des producteurs de weed et meth afin de distribuer des cadeaux... spéciaux..
 
-### <mark style="color:blue;">Lapin enragé :</mark>
+### Le Grinch <mark style="color:blue;">:</mark>
 
-* Vous avez la possibilité de porter des armes blanches (uniquement).,
-* Votre but est de terroriser les citoyens.,
-* Vous devez vous faire discret et rester dans des lieux reculés pour agresser les gens (ruelles, forêts etc..).
+* Vous êtes **le Grinch**, ennemi juré de Noël et des Pères Noël.
+* Vous agissez **seul**, discrètement, en semant le chaos pendant les fêtes.
+* Vous pouvez voler, saboter et perturber les activités liées à Noël.
+* Votre objectif est de **gâcher l’esprit de Noël**, pas de faire du carnage gratuit.
+* Interdit de faire partie d’un gang ou d’une organisation.
+* Interdit de s’allier avec les Pères Noël ou les forces de l’ordre.
 
-### <mark style="color:blue;">La Secte :</mark>
-
-* Vous pouvez utiliser l'arme fourni et en extrême nécessité une arme de poing.,
-* Vous n’avez pas le droit de faire de braquage, prises d’otages etc …,
-* Vous devez vous réunir, formez un groupe, trouvez des victimes pour accomplir vos rituels
-* Vous pouvez créer des complots pour que l'ordre soit renversé.
-* **Vous devez être discret !**
-
-### <mark style="color:blue;">Loup-Garou :</mark>
-
-* Vous pouvez utiliser uniquement le SWEP fourni.,
-* Vous n’avez pas le droit d’organiser des braquages, prises d’otages, etc.,
-* Vous devez rester discret et attaquer vos victimes au moment opportun.,
-* Vous ne pouvez pas rester en zone de Mass RP sinon vous vous ferez chasser.
