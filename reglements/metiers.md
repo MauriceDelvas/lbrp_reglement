@@ -101,16 +101,7 @@
 * Vous avez la possibilité de porter des armes blanches ( seulement )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
-* Le bénéfice max est de 10 000€<br>
-
-### <mark style="color:purple;">DIR</mark>
-
-* Vous n’avez pas la possibilité de porter des armes.
-* Vous n’avez pas le droit de toucher à tout ce qui est illégal.
-* Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … ).
-* Vous ne pouvez pas vous faire braquer.
-* Votre rôle est de faire des travaux sur les routes (éboulement de rochers, canalisations à remplacer, installation de passage piéton, etc...).
-* Vous avez le droit de bloquer une route mais il faut que les citoyens aient la possibilité de contourner vos travaux par une autre route, vous n'avez donc pas le droit de bloquer une zone de la ville.
+* Le bénéfice max est de 10 000€
 
 ### <mark style="color:purple;">Chef Pizzaïolo</mark>
 
@@ -154,17 +145,17 @@
 
 ## <mark style="color:red;">Force de l'ordre</mark> :
 
-### <mark style="color:blue;">👮‍♂️B.R.I.</mark>
+### <mark style="color:blue;">👮‍♂️O.P.J ( Officier de Police Judiciaire )</mark>&#x20;
 
-* Vous avez la possibilité de porter des armes lourdes y compris les snipers
-* Vous n’avez pas le droit de faire de l’illégale ( printers )
-* Vous ne pouvez pas être corrompu
-* Vous devez respecter vos supérieurs
-* Vous devez protéger les citoyens
-* En tant que BRI, vous passez en priorité sur les interventions ainsi que sur les négociations. Vous êtes une unité d’élite, formée pour cette occasion, donc faites preuve de sérieux.
+* Vous avez la possibilité de porter des armes lourdes y compris les snipers.
+* Vous n’avez pas le droit de faire de l’illégale ( printers, etc.. )
+* Vous ne pouvez pas être corrompu.
+* Vous devez respecter vos supérieurs.
+* Vous devez protéger les citoyens.
+* En tant que OPJ, votre but est d'enquêter sur les organisations de la ville, récolter des informations, monter un dossier qui aboutira sur une arrestation et un jugement !
 * Vous avez également le droit de participer aux guerres de familles, en CK les membres des familles rivales.
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
-* Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende). Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.
+* Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende). <mark style="color:red;">**Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.**</mark><br>
 
 
 
