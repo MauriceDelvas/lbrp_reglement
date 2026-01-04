@@ -279,6 +279,43 @@
 * En tant que business **légal**, vous pouvez créer et afficher votre entreprise au grand jour. En revanche, en tant que business **illégal**, vous devez rester discret et ne pas exposer votre empire criminel.
 * Le placement de vos PNJ doit respecter un cadre RP (interdit de les suspendre contre un mur, de renverser leur bureau, de les empiler etc).,
 
+### **‍⛏️**<mark style="color:blue;">Mineur</mark>
+
+* Vous êtes un métier légal de production.
+* Vous pouvez travailler seul ou avec d’autres mineurs.
+* Vous pouvez vous défendre uniquement pour protéger votre production.
+* Vous ne pouvez pas braquer ni participer à des actions criminelles (braquage de banque/superette etc..).
+* Vous ne pouvez pas voler les ressources des autres joueurs.
+* Vous ne pouvez pas mener d’activités illégales (printer, drogue, bitcoin, etc.).
+* Vous ne pouvez pas vous associer avec des organisations criminelles.
+* Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
+
+### <mark style="color:blue;">🍺Fabricant d’alcool</mark>
+
+* Vous êtes un métier illégal de production.
+* Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
+* Vous pouvez travailler seul ou avec d’autres fabricants.
+* Vous pouvez vous défendre uniquement pour protéger votre production.
+* Vous ne pouvez pas braquer ni participer à des actions criminelles (braquage de banque/superette etc..).
+* Vous pouvez vous associer avec des organisations criminelles.
+
+### &#x20;✂️<mark style="color:blue;">Couturier</mark>
+
+* Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
+* Votre but est de créer vos propres vêtements, les vendre, les livrer.
+* Vous ne pouvez pas braquer ni participer à des actions criminelles (braquage de banque/superette etc..).
+* Vous pouvez vous défendre uniquement pour protéger votre production.
+* Vous ne pouvez pas vous associer avec des organisations criminelles.
+
+### 🗑️<mark style="color:blue;">Eboueur</mark>
+
+* Vous n’avez pas la possibilité de porter des armes.
+* Votre but est de nettoyer la ville en aspirant les déchets et en les recyclant
+* Vous ne pouvez pas braquer ni participer à des actions criminelles (braquage de banque/superette etc..)
+* Vous ne pouvez pas vous associer avec des organisations criminelles.
+
+<br>
+
 ## <mark style="color:red;">Illégaux</mark> :
 
 ### \*<mark style="color:yellow;">Premium</mark>\* <mark style="color:blue;">Psychopathe</mark>
