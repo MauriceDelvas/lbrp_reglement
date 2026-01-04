@@ -260,16 +260,6 @@
 * Vous pouvez engager de la sécurité pour votre production ( mercenaire )
 * Vous n’avez pas le droit de faire de braquage, prises d'otages etc …
 
-### <mark style="color:blue;">Cultivateur d'Or</mark>
-
-* Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
-* Vous pouvez travailler avec les autres cultivateurs
-* Vous ne pouvez pas braquer
-* Vous pouvez défendre votre production
-* Vous ne pouvez pas voler les ressources des autres
-* Vous n'avez pas la possibilité d'être braqué
-* Vous ne pouvez pas mener d'activités illégales (par exemple : Printer , bitcoin etc).
-
 ### **🤵‍♂️**<mark style="color:blue;">Homme d'Affaires</mark>
 
 * Vous avez la possibilité de porter des armes de poing et des armes blanches (uniquement).
@@ -361,13 +351,6 @@
 
 ## <mark style="color:red;">**Gang (Non Légal)**</mark>**&#x20;:**
 
-### <mark style="color:blue;">Racailles</mark>
-
-* Vous avez la possibilité de porter tout types d’armes
-* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuzas, MS13 et Gitans
-* Vous ne pouvez pas vous /job pour changer le nom du métier
-* Votre rôle est de semer le trouble dans la ville.
-
 ### <mark style="color:blue;">Gitans</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
@@ -394,12 +377,6 @@
 * Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Ms13 , Gitans , Racailles, famille etc.&#x20;
 * Vous ne pouvez pas vous /job pour changer le nom du métier&#x20;
 * Vous pouvez faire alliance avec les producteurs de weed et meth afin de vendre leur produit ensuite.
-
-### <mark style="color:blue;">MS13</mark>
-
-* Vous avez la possibilité de porter tout types d’armes
-* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Gitans , Racailles.
-* Vous ne pouvez pas vous /job pour changer le nom du métier
 
 ## <mark style="color:red;">**Noël (EXCLUSIF) :**</mark>&#x20;
 
