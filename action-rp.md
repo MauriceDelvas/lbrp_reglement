@@ -13,13 +13,13 @@
 ## <mark style="color:purple;">Cambrioler, racketter</mark> :
 
 * Vous devez être discret
-* faut au minimum 2 forces de l'ordre
+* Il faut au minimum 2 forces de l'ordre
 * Vous pouvez racketter 100K € maximum.
 * Vous devez attendre 15 minutes avant de pouvoir rebraquer la même personne et recambrioler la même maison.
-* Lorsque que vous braquez une personne et que celle-ci coopère vous n'avez le droit de voler que la moitié de ses ressources (Métier de production : Weed / Meth / Alcool... , printers et biminers non pris en compte) dans le cas contraire, vous avez le libre droit de lui prendre l'entièreté de ses ressources, de plus, il est interdit de détruire les ressources si celle-ci coopère (n'oubliez pas qu'il faut toujours rester fair-play).
-*   Vous pouvez voler les imprimantes de quelqu'un uniquement si la personne ne coopère pas. Si la personne coopère, alors vous ne pouvez pas lui voler ses imprimantes.
-
-
+* Lorsque que vous braquez une personne et que celle-ci coopère vous n'avez pas le droit de voler ses ressources de production : Weed / Meth / Alcool... (printers et biminers non pris en compte) vous avez donc seulement la possibilité de récupérer l'argent des Printeur/Bitminer  \
+  dans le cas contraire, vous avez le libre droit de lui prendre l'entièreté de ses ressources,  \
+  de plus, il est interdit de détruire les ressources si celle-ci coopère **(n'oubliez pas qu'il faut toujours rester fair-play).**
+* Vous pouvez voler (partir avec) les imprimantes de quelqu'un dans le but de les vendre au PNJ uniquement si la personne ne coopère pas. Si la personne coopère, alors vous ne pouvez pas lui voler ses imprimantes (printer).
 
 ## <mark style="color:purple;">Vol de voiture</mark> :
 
