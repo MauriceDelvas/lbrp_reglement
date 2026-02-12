@@ -58,7 +58,8 @@
 * Vous gardez les printers des clients en sûreté.
 * Vous pouvez faire de l'argent pour votre compte avec 8 printers maximum (Menu F4) ou deux imprimantes de gang maximum (!gang).
 * Vous pouvez faire une marge de 30% maximum sur les printers.
-* Bitminers interdit / printer gang limite de 10 printer
+* Il est interdit d'utiliser les bitminers.
+* La limite de printer gang est de 10 printers.
 
 ### :taxi:<mark style="color:purple;">Chauffeur de taxi</mark>
 
