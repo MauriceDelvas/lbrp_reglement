@@ -57,7 +57,8 @@
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Vous gardez les printers des clients en sûreté.
 * Vous pouvez faire de l'argent pour votre compte avec 8 printers maximum (Menu F4) ou deux imprimantes de gang maximum (!gang).
-* Vous pouvez faire une marge de 30% maximum sur les printers.<br>
+* Vous pouvez faire une marge de 30% maximum sur les printers.
+* Bitminers interdit / printer gang limite de 10 printer
 
 ### :taxi:<mark style="color:purple;">Chauffeur de taxi</mark>
 
