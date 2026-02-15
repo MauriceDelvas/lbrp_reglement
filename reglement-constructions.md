@@ -1,21 +1,20 @@
 # 🛠️ Règlement Constructions
 
-1. Chaque soldat peut déployer seulement deux props de sac de sable à l'extérieur uniquement. Les sacs de sable sont interdits en intérieur. Il est considéré comme « en intérieur » : les maisons, bâtiment et structure.
-2. Il est interdit de poser des props lorsque vous êtes en combat.
-3. Les grandes constructions (plusieurs mètres) cubique ( ex : Bunker en cube, ect…) nécessite 2 entré minimum obligatoirement
-4. Seul les Pionniers/Sapeur ainsi que la 17th et la 4eSS peuvent utiliser des plaques de métal et faire des fortification plus avancées mais uniquement en extérieur.
-5. Pas de murs, de sas de sécurité , des slaloms , des couloirs de la mort , des slaloms de poteaux ou des labyrinthes. Uniquement des fortifications primitives.
-6. Les constructions doivent être RP et cohérantes.  Par exemple, dans une maison, vous pouvez utiliser des meubles (bureau, armoire etc). Toutefois, la fortification intérieure doit être mesurée et surtout logique : une maison ne contient pas des meubles en illimités.
-7. Vous pouvez mettre 2 props de caisses en bois par pièces du bâtiments sauf les grandes pièces (exemple : tribunal , hangar , ...) qui peuvent compter 5 caisses + les meubles .
-8. Plaques de bois illimitées mais uniquement pour les fenêtres .
-9. Vous pouvez fortifier avec 2 meubles par pièce dont 1 piano maximum.
-10. **Interdiction de construire autour de la trappe d'un grenier, le passage doit être fluide et accessible, les staffs sanctionnent sans aucun avertissement oral.**
-11. Interdiction de construire dans les escaliers
-12. Il est interdit de mettre des sacs de sable et des grillages dans les bâtiments.
-13. Il est interdit d'empiler des sacs de sable sauf pour les sapeurs (avec construction pour maintenir les sacs).
-14. Aucune fortification n'est autorisé dans les greniers.
-15. Avant de fortifier un avant-poste vous devez attendre la prise de celui-ci. (/advert Prise...)
-16. Interdiction de mettre de fortification à coté d'un char ( pour défendre le char , les camouflages sont donc autorisé ) Le camouflage doit être traversable.
-17. Vous pouvez poser des construction en plastique mais uniquement en extérieurs, si elles restent cohérente et possèdent une texture.
-18. Seul les pionner peuvent poser des échelle, ainsi que le sniper si c'est pour accéder à un toit.
-19. Les RS et plus peuvent maintenant supprimer vos construction même si elle n'enfreigne pas de règle si il juge que celle-ci pose problème ou qu'elle n'est pas cohérente, il doit cependant prendre le temps de vous l'expliquer.
+1. Interdiction de construire dans la cage d'escaliers, sauf part-grenade (planche et grillage uniquement). Il est également interdit de construire autour des échelle, ainsi que dans les grenier ayant pour seul accès une ou des échelles.
+2. Seul les pionneer/sapeur peuvent construire des fortification avancé (props imbriqué/fusionné), les autres ne peuvent que poser des props et les positionner à leurs guise sans réaliser de construction plus complexe avec plusieurs props.
+3. Les pionner peuvent poser des élément décoratif ayant pour bute de rendre une construction RP sans que cela soit compter dans un meuble, à condition ça ne serve pas de défense, et que la présence ou non du props n'influe pas sur la vision de l'attaquant et ne sert pas de support.
+4. Vous ne pouvez poser que 3 meubles et 2 caisses par pièces, sauf dans les grandes pièce où vous pouvez poser 7 meubles et 3 caisses.
+5. Les constructions doivent être RP et cohérentes. Par exemple, dans une maison, vous pouvez utiliser des meubles (bureau, armoire etc). Toutefois, la fortification intérieure doit être mesurée et surtout logique (demandez vous si un tracteur ou des bottes de foins à l'intérieur c'est vraiment cohérant).
+6. Seul les pionner/sapeur peuvent poser des plaques de métaux (textures métalliques interdites)
+7. Pas de murs et de grillage de plus de 5 mètre, de sas de sécurité , des slaloms , des couloirs de la mort , des slaloms de poteaux ou des labyrinthes.
+8. Avant de fortifier un avant-poste vous devez attendre la prise de celui-ci. (/advert Prise...)
+9. Il est autorisé de faire un mur sur mur de berlin (AP checkpoints) à condition qu'il se fonde dans le décors (même texture que le mur d'origine) ou si c'est sous forme de grillage, la construction doit rester cohérente et ne doit pas déborder du mur.
+10. Les RS et plus peuvent maintenant supprimer vos construction même si elle n'enfreigne pas de règle si il juge que celle-ci pose problème ou qu'elle n'est pas cohérente, il doit cependant prendre le temps de vous l'expliquer.
+11. A l'extérieur, chaque soldat peut déployer uniquement deux props de sac de sable . Les sapeurs et pionners peuvent cependant poser les props qu'ils veulent et autant qu'ils le peuvent, dans la limites du reste des règles, et de la cohérence RP. Les sacs de sable sont interdits en intérieur. Il est considéré comme « en intérieur » : les maisons, bâtiment et structure.
+12. Les buissons et les plantation de manière général sont interdite sauf les buisson de type "domestic" qui font moins de 5 mètres, ainsi que des troncs d'arbre couché (RP parlant : abattue).
+13. Les grandes constructions (plusieurs mètres) cubique ( ex : Bunker en cube, ect…) nécessite 2 entré minimum obligatoirement.
+
+## <mark style="color:blue;">Définitions :</mark>
+
+* SAS : Un SAS est un couloir où le point d'entré et de sortie est plus petit que le couloir en lui même.
+* Couloir de la morts : Un couloir est considéré comme "de la mort" quand ils est impossible de s'y mettre en sécurité du fait des soldat armé en face et sa sortie.

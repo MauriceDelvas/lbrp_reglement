@@ -16,7 +16,7 @@
 * Les chars peuvent être sortis lorsqu'il y a au minimum un tankiste, anti-tank  ou un Kanoneer/Canonnier.
 * Il faut au minimum 3 soldats d’infanterie de la régulière pour qu'un char puisse avancer ou rester sur un AP.&#x20;
 * Il est interdit de tirer un obus HE sur une seul personne.
-* Vous pouvez réparer complètement votre blindé uniquement sur vos bases respectives.
+* Pour réparer votre blindé il faut être impérativement sur votre base, vous pouvez cependant éteindre les flames de celui-ci n'importe où.
 * Après l'explosion de votre tank, vous devez attendre 5 minutes avant d'en ressortir un.
 * Vous pouvez sortir 2 tanks uniquement si la faction adverse à 2 tanks de sortie.&#x20;
 * Un fairplay doit être mis en place entre les deux sous-factions.
@@ -51,8 +51,9 @@
 * Vous ne pouvez bloquer aucun accès.
 * Lorsqu'un Sapeur / Pionnier pose une ou plusieurs mines, celui-ci doit s'assurer de les mettre hors service avant de changer de job sous peine de sanction.
 * Aucune mine ne doit être mise dans les bâtiments
-* Vous ne pouvez pas poser de mines devant les portes des bâtiments.\
-
+* Vous ne pouvez pas poser de mines devant les portes des bâtiments.
+* Vous avez le droit de vous positionner partout dans les limites tankistes.
+* Vous devez vous situer à une trentaines de mètres de votre AP au maximum.
 
 ### <mark style="color:blue;">Flamethrower / Flammerwerfer</mark> :
 
@@ -69,11 +70,12 @@
 * Cible prioritaire obligatoire, sauf lors d'un assaut ou une défense d'avant-poste.
 * Vous pouvez être accompagné d'un ''spoteur'' (membre de la régulière 29th ou 916.) lors de votre reconnaissance . Celui-ci ne pourra tirer que pour assurer votre protection .
 * Vous pouvez éliminer et partir en reconnaissance au maximum un AP à l'avance.
+* Vous devez faire un call radio avant d'abattre une cible prioritaire.
 
 ### <mark style="color:blue;">Machine-Gunner / Maschinengewehr</mark> :
 
 * Les mitrailleurs peuvent tirer des salves 5s toutes les 3s.&#x20;
-* Vous pouvez tirer debout et accroupi avec un support.
+* Vous pouvez tirer debout et accroupi uniquement avec un support.
 
 ### <mark style="color:blue;">Grenadier / PanzerGrenadier</mark> :
 
@@ -95,6 +97,7 @@
 * Un tir toutes les 15 secondes.
 * Le panzerjäger peut racheter ses panzerfaust sur le front en respectant les 4 munitions maximales.
 * Les Anti-Tank / PanzerJäger peuvent partir avec la Airborne / FSM dans l'unique but de détruire le tank adverse. Donc lors d'un départ, ils doivent avoir l'information de où est le tank ennemi. Faire une embuscade n'est pas autorisé, sauf si vous vous cachez car le tank arrive vers vous au moment où vous êtes parti pour le détruire.
+* Il est interdit d'utiliser la grenade anti tank (collante) contre de l'infanterie.
 
 ### <mark style="color:blue;">Radioman / Funker</mark> :
 
@@ -120,6 +123,9 @@
 * Un parachutage peut être réaliser tout les 10 minutes
 * Vous pouvez monter sur un toit pour éliminer le sniper ennemie ( uniquement lorsque la position du sniper est connu, vous devez repartir immédiatement après l'avoir éliminé )
 * Vous pouvez patrouiller sur l'ensemble du territoire où peut aller votre tanks, sauf si vous êtes interdit de combattre vous ne pourrez patrouiller que derrière votre avant poste et ne pourrez pas participer à la défense de celui-ci.
+* Le TE doit respecter le règlement FSM + celui de sharfshutze/sniper, cependant en cas de conflit dans le règlement celui de FSM est prioritaire.
+* Si un TE FSM/Airborne se fait tirer dessus en étend en harcèlement, il n'est pas obligé de reculé.
+* Les TE ont les même règles de déplacement que le reste de leurs régiments.
 
 ### <mark style="color:blue;">Médecin / Sanitat</mark> :
 
@@ -161,3 +167,4 @@
 ### <mark style="color:blue;">QTM / Kraftfahrer :</mark>
 
 * Vous pouvez quitter la base seul pour un ravitaillement ou un transport de troupe.
+* Vous êtes autorisé à faire un poste de réparation avancé un AP avant le votre, dessus vous pourrez réparer tout véhicules, il doit cependant être composé d'un filet de cammouflage, d'une rampe et de props tels que caisse ect. afin de le rendre crédible. Les véhicules doivent être en réparation pendant au moin une minutes dessus avant de pouvoir repartir.
