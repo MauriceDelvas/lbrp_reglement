@@ -36,14 +36,6 @@
 
 ## <mark style="color:red;">Services :</mark>
 
-### :moneybag:<mark style="color:purple;">Convoyeur de fonds</mark>
-
-* Vous avez la possibilité de porter des armes lourdes ( sauf sniper pour Sous-Lieutenant minimum / ( freedom autorisé)&#x20;
-* Vous n’avez pas le droit de faire de l’illégale ( printers )
-* Vous ne pouvez pas être corrompu
-* Votre rôle est de transporter de l'argent d'un point A à un point B en veillant à ne pas vous le faire voler !
-* Il est permis d'abattre un joueur uniquement s'il représente une menace pour votre survie.
-
 ### :closed\_lock\_with\_key:<mark style="color:purple;">Agent de sécurité</mark>
 
 * _Vous avez la possibilité de porter des armes lourdes ( sauf sniper )._
@@ -379,23 +371,4 @@
 * Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Ms13 , Gitans , Racailles, famille etc.&#x20;
 * Vous ne pouvez pas vous /job pour changer le nom du métier&#x20;
 * Vous pouvez faire alliance avec les producteurs de weed et meth afin de vendre leur produit ensuite.
-
-## <mark style="color:red;">**Noël (EXCLUSIF) :**</mark>&#x20;
-
-### &#x20;Gang des Pères Noël <mark style="color:blue;">:</mark>
-
-* Vous êtes un gang criminel utilisant Noël comme couverture.
-* Vous pouvez porter toutes les armes et commettre des braquages, prises d’otages.
-* Vous ne pouvez pas vous alliez avec : Mafieux, Yakuza, MS13, Gitans, Racailles, Familles.
-* Interdit de changer le nom du métier via /job.
-* Vous pouvez collaborer avec des producteurs de weed et meth afin de distribuer des cadeaux... spéciaux..
-
-### Le Grinch <mark style="color:blue;">:</mark>
-
-* Vous êtes **le Grinch**, ennemi juré de Noël et des Pères Noël.
-* Vous agissez **seul**, discrètement, en semant le chaos pendant les fêtes.
-* Vous pouvez voler, saboter et perturber les activités liées à Noël.
-* Votre objectif est de **gâcher l’esprit de Noël**, pas de faire du carnage gratuit.
-* Interdit de faire partie d’un gang ou d’une organisation.
-* Interdit de s’allier avec les Pères Noël ou les forces de l’ordre.
 
