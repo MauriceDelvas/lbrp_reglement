@@ -39,6 +39,7 @@
 * Interdiction de mettre un camouflage sur le char ou autour.
 * Les tanks ne peuvent désormais plus tirer sur la zone de régulière (HE/mitrailleuse) hormis s'il y a un cannonier/AT/artilleur et sauf lorsque celui ci est en assaut ou en combat de chars.
 * Les chars de type P1 et P2 peuvent se déplacer dans les limites de l'avant poste supérieur dans l'unique but de combattre le char ennemi. Ils sont autorisés uniquement à tirer sur le char ennemi et les unités qui peuvent détruire le char (AT/Canonnier). Une fois le char ennemi battu, le char doit rejoindre ses limites respectives.
+* Pour vous réparer vous devez être à proximité du PNJ où vous sortez vôtres tank ou sur une station de réparation de la QTM.
 
 <table><thead><tr><th width="319"> </th><th align="center">Américain</th><th align="center">Allemand </th></tr></thead><tbody><tr><td>1 Personne</td><td align="center"><mark style="background-color:green;">M3 Suart / M8 Greyhound</mark> </td><td align="center"><mark style="background-color:red;">Panzer 38T / Puma</mark></td></tr><tr><td>2 Personnes</td><td align="center"><mark style="background-color:green;">M18 Hellcat | M18 Blackcat</mark></td><td align="center"><mark style="background-color:red;">Hezter 38T / Panzer IV F1 / Panzer IV F2 / Stug III</mark> </td></tr><tr><td>3 Personnes</td><td align="center"><mark style="background-color:green;">M18 Super Hellcat</mark></td><td align="center"><mark style="background-color:red;">Panzer V Panther</mark></td></tr><tr><td>4 Personnes</td><td align="center"><mark style="background-color:green;">M26 Pershing</mark></td><td align="center"><mark style="background-color:red;">Panzer VI Tiger I E</mark></td></tr></tbody></table>
 
@@ -65,12 +66,11 @@
 ### <mark style="color:blue;">Scharfschütze / Sniper</mark> :
 
 * Vous devez respecter les cibles prioritaires lorsque vous partez en reconnaissance. Si vous êtes dans une situation ou vous vous faites tirer dessus vous devez vous repliez immédiatement. (Warn)
-* Cibles prioritaires : Sous-officiers | Officiers | SS | FSM | 101st | 15th | Sniper/Scharfschütze | Tankiste | Canonnier/Kanoneer | Signal/Funker | Artilleur
+* Cibles prioritaires : Sous-officiers | Officiers | FSM | 101st | Sniper/Scharfschütze | Tankiste | Canonnier/Kanoneer | Signal/Funker | Artilleur.
 * Vous ne pouvez pas rentrer sur un point de capture sans votre régulière.
 * Cible prioritaire obligatoire, sauf lors d'un assaut ou une défense d'avant-poste.
 * Vous pouvez être accompagné d'un ''spoteur'' (membre de la régulière 29th ou 916.) lors de votre reconnaissance . Celui-ci ne pourra tirer que pour assurer votre protection .
 * Vous pouvez éliminer et partir en reconnaissance au maximum un AP à l'avance.
-* Vous devez faire un call radio avant d'abattre une cible prioritaire.
 
 ### <mark style="color:blue;">Machine-Gunner / Maschinengewehr</mark> :
 
@@ -87,6 +87,7 @@
 * Vous ne pouvez utiliser uniquement le canon de 50 mm, sauf lorsque que les tankistes ennemies sont en P3 ou P4, ce qui vous autorise à sortir les canon de 75mm.
 * Vous n'avez le droit qu'à des tires directes (interdiction d'utiliser le mode artillerie)
 * Vous avez le droit à un tire de HE toutes les 40 secondes.
+* Vous pouvez faire spawn votre canon uniquement sur votre base (sauf en cas de bug).
 
 ### <mark style="color:blue;">Anti-Tank / PanzerJäger</mark> :
 

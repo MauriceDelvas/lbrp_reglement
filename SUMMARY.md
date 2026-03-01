@@ -1,6 +1,7 @@
 # Table of contents
 
-* [📄 Général](README.md)
-* [👨‍🌾 Action RP](action-rp.md)
-* [👮 Métiers](reglements/metiers.md)
-* [☠️ Famille](famille.md)
+* [📝 Règlement Général](README.md)
+* [⚜️ Règlement Roleplay](reglement-roleplay.md)
+* [🛠️ Règlement Constructions](reglement-constructions.md)
+* [🔰 Règlement Spécialisations](reglement-specialisations.md)
+* [⚔️ Règlement Combat](reglement-combat.md)
