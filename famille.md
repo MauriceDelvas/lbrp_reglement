@@ -31,8 +31,23 @@
 3. _Durant la guerre, si une ou plusieurs erreurs RP sont commises, vous serez ban 12 heures. (à vous de faire attention à votre RP, vous devez être irréprochable.)_
 4. Les armes de type "UNBOX" ou "Boutique" sont autorisées lors d'une guerre de famille
 5. Le gagnant de la guerre remporte tous les drapeaux de la famille ennemie durant 1 semaine (cela signifie que votre limite passe de 2 ---> 3). Il est donc interdit de refaire une guerre ou de reprendre les drapeaux de la famille gagnant durant 1 semaine.
+6. Règle de contrebraguage  : Pendant une guerre famille, les familles auront le droit de faire des contrebraquages (banque, supérette) qu'à la famille ennemie, celle avec laquelle elles sont en guerre. Les familles avec un contrat "alliances ou aide" n'ont aucun droit d'y participer. Les sommations doivent être écrites, claires, précises et elles seront prises en compte aussi pour les forces de l'ordre.
 
-### <mark style="color:blue;">Le character kill (CK) :</mark> <a href="#le-character-kill-ck" id="le-character-kill-ck"></a>
+### <mark style="color:blue;">**Règle des Territoires :**</mark>
+
+&#x20;Un territoire attribué à une famille est conservé pour une durée maximale de 2 mois. Si une autre famille souhaite récupérer ce territoire, elle peut :
+
+* déclarer une guerre.
+* attendre l’expiration des 2 mois.
+
+Une fois le délai de 2 mois dépassé (avec une tolérance maximale d’1 semaine), la famille occupant le territoire a l’obligation de le libérer. Si la famille refuse de céder le territoire :
+
+* elle sera rendue inaccessible pendant 3 jours.
+* une sanction écrite sera adressée au responsable de la famille concernée.
+
+Le rachat d’un territoire est fixé à 500 millions minimum. À défaut de paiement, la prise du territoire devra se faire par une guerre.
+
+### <mark style="color:blue;">**Le character kill (CK) :**</mark> <a href="#le-character-kill-ck" id="le-character-kill-ck"></a>
 
 1. Pour effectuer un character kill, vous devez avoir une preuve (un rec ou un screen) que vous connaissez (de façon RP) l'identité du membre de la famille ennemi, vous devez également être munis d'une preuve vidéo de la mort de la personne en question.
 2. _La famille qui a le plus de CK remporte la guerre._
