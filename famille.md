@@ -53,7 +53,43 @@ Le rachat d’un territoire est fixé à 500 millions minimum. À défaut de pai
 2. _La famille qui a le plus de CK remporte la guerre._
 3. _Remarques : Les CK doivent être absolument être validé par un Gérant DarkWeb.En cas de manquement au règlement, les Gérants du DarkWeb ou les staffs vous sanctionneront à la hauteur de l'infraction (attention cela peut aller jusqu'à la suppression du gang)._
 
-### <mark style="color:blue;">Discord Famille :</mark> <a href="#regle-general" id="regle-general"></a>
+### <mark style="color:blue;">**Discord Famille :**</mark> <a href="#regle-general" id="regle-general"></a>
 
 1. Le règlements de votre discord est soumis au même règles que le Discord DarkWEB (cela signifie que vous pourrez vous faire ban du discord DarkWEB si vous enfreigniez une règle sur le discord famille voir discord DARKRP si cela se répète à plusieurs reprises)
 2. Il est obligatoire pour les Haute Instance d'avoir accès à la totalité de votre discord (il doit au minimum voir tous les salons de votre discord sans exception.) Si cette règle n'est pas respecté et que vous refusez de passer l'accès au Haute Instance vous vous exposez a un ban du discord DarkWeb et vous serez banni de faire toutes action par rapport au famille IG (prise de drapeau, guerre etc).
+
+### <mark style="color:blue;">**Alliance de Famille :**</mark>
+
+Une alliance de famille permet d’aider une autre famille (sécurisation de territoire, escortes). Les familles alliées n’ont pas le droit de participer à la production (drogue, printers).
+
+Une alliance ne peut pas être changée pendant une guerre.
+
+Une famille alliée peut capturer un ennemi, mais un membre minimum de la famille en guerre doit être présent.
+
+Si une alliance souhaite participer officiellement à une guerre, elle doit contacter la Gérance Dark Web afin d’être déclarée en guerre et soumise au règlement.
+
+### <mark style="color:blue;">**Guerre de Territoire :**</mark>
+
+Une guerre de territoire peut être déclarée après une enchère pour obtenir le territoire.
+
+**Durée :** 1 semaine
+
+**Alliances autorisées :** 1 contrat maximum
+
+**Récompense :** le territoire concerné uniquement (pas de drapeau supplémentaire).
+
+### <mark style="color:blue;">**Guerre de Puissance :**</mark>
+
+**Durée :** 1 à 2 semaines
+
+**Alliances autorisées :** 1 contrat maximum
+
+**Récompense :** la famille gagnante peut capturer les drapeaux ennemis pendant 1 semaine. La famille perdante ne peut plus capturer ces drapeaux durant cette période.
+
+### <mark style="color:blue;">**Enchères de Territoire :**</mark>
+
+Prix minimum : _Grands territoires : 50 millions_ (Quartier Riche, Tierquar, Chalet, Zone Industrielle, Manoir / Église, Zone Tacos Bell, HLM Tacos Bell) _Petits territoires : 25 millions_
+
+Après paiement, la famille peut déclarer la guerre pour le territoire si elle le souhaite. \
+⚠️ **L’argent n’est pas remboursable (RP).**
+
