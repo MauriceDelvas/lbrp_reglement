@@ -30,7 +30,7 @@
 2. _Lorsque que vous êtes CK durant la guerre, vous ne pouvez plus vous mettre dans le job famille le temps de la guerre._
 3. _Durant la guerre, si une ou plusieurs erreurs RP sont commises, vous serez ban 12 heures. (à vous de faire attention à votre RP, vous devez être irréprochable.)_
 4. Les armes de type "UNBOX" ou "Boutique" sont autorisées lors d'une guerre de famille
-5. Le gagnant de la guerre remporte tous les drapeaux de la famille ennemie durant 1 semaine (cela signifie que votre limite passe de 2 ---> 3). Il est donc interdit de refaire une guerre ou de reprendre les drapeaux de la famille gagnant durant 1 semaine.
+5. Le gagnant de la guerre remporte tous les drapeaux de la famille ennemie durant 1 semaine (cela signifie que votre limite passe de 2 ---> 4). Il est donc interdit de refaire une guerre ou de reprendre les drapeaux de la famille gagnant durant 1 semaine.
 6. Règle de contrebraguage  : Pendant une guerre famille, les familles auront le droit de faire des contrebraquages (banque, supérette) qu'à la famille ennemie, celle avec laquelle elles sont en guerre. Les familles avec un contrat "alliances ou aide" n'ont aucun droit d'y participer. Les sommations doivent être écrites, claires, précises et elles seront prises en compte aussi pour les forces de l'ordre.
 
 ### <mark style="color:blue;">**Règle des Territoires :**</mark>
