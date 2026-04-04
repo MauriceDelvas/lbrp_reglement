@@ -330,7 +330,8 @@
 * Vous n’avez pas le droit de braquer pour votre compte
 * Vous pouvez rompre des contrats dans le but d’aider des opposants
 * Vous avez la possibilité de travaillé pour une famille (1 seul mercenaire par famille)
-* _En tant que mercenaire, vous ne pouvez pas faire d'activités illégales si vous n'êtes pas engagé pour un travail illégal ou si vous êtes sans employeur._
+* _En tant que mercenaire, vous ne pouvez pas faire d'activités illégales si vous n'êtes pas engagé pour un travail illégal._
+* _Vous ne pouvez pas vous faire engager par un métier légal (Banquier /_ Maire (sans dictature) / etc ...)
 
 ### <mark style="color:blue;">Voleur</mark>
 
