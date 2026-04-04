@@ -41,6 +41,7 @@
 * _Vous avez la possibilité de porter des armes lourdes ( sauf sniper )._
 * _Vous n’avez pas le droit de toucher à tout ce qui est illégal ( printers )._
 * _Vous devez trouver un employeur._
+* Vous n’êtes pas un représentant des forces de l’ordre et vous n’êtes pas autorisé à collaborer avec la police.
 
 ### :bank:<mark style="color:purple;">Banquier</mark>
 
