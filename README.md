@@ -174,7 +174,7 @@ Le nombre de SAS maximum dans une construction est de 3. ( Tout membre compris )
 
 Il est interdit de mettre plus de 2 keypads pour un seul fading door !
 
-Les boutons/keypads doivent être proches de l'objet qu'ils contrôlent et être facilement visibles.
+Votre bouton/keypad doit obligatoirement être placé dans la même pièce et proche du fading door, il n'est pas possible qu'il soit caché.
 
 Les meurtrières sont interdites, c’est le fait de faire une construction avec juste un petit passage ou un petit écart de props ou de véhicules pour tirer. Pour que cela ne compte pas comme une meurtrière, il faut pouvoir passer accroupie et que l'on voit plus de la moitié de votre corps.
 
