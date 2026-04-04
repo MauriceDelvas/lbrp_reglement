@@ -1,3 +1,6 @@
 # Table of contents
 
-* [Règlement de LaBaguetteRP-Community Gmod](README.md)
+* [📄 Général](README.md)
+* [👨‍🌾 Action RP](action-rp.md)
+* [👮 Métiers](reglements/metiers.md)
+* [☠️ Famille](famille.md)

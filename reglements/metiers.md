@@ -129,13 +129,14 @@
 * Vous n’avez pas le droit de faire de l’illégale ( printers ) \[Démocratie]
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Votre bénéfice pour les licences est de 2000€
-* Vous pouvez engager des mercenaires
+* Vous ne pouvez pas engager des mercenaires
 
 #### |<mark style="color:purple;">Dictature</mark>]
 
 * Vous avez la possibilité de porter des armes lourdes ( sauf sniper )
 * Vous avez le droit de faire de l’illégale ( printers seulement )
 * Vous avez le droit de braquer ( prise d’otage seulement )
+* Vous pouvez engager des mercenaires
 
 ## <mark style="color:red;">Force de l'ordre</mark> :
 
