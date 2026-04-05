@@ -38,6 +38,8 @@
 * Vous devez être armés.
 * Il est obligé de demander une négociation dès le lancement du braquage de banque (dans les deux sens : Illégale et Police National )
 * Préciser a la Police qu'il y a un sniper en dehors de la zone de prise d'otage ou braquage.
+* Vous êtes dans l'obligation de braquer les coffres de la banque
+* Vous ne pouvez pas détruire les printers des clients si les banquiers + la sécurité coopère
 
 ## <mark style="color:purple;">**Braquage de supérette**</mark>**&#x20;:**
 
