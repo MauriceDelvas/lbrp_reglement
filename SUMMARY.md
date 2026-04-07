@@ -5,4 +5,4 @@
 * [🛠️ Règlement Constructions](reglement-constructions.md)
 * [🔰 Règlement Spécialisations](reglement-specialisations.md)
 * [⚔️ Règlement Combat](reglement-combat.md)
-* [🗺️ Carte de la MAP](carte-de-la-map.md)
+* [🗺️ Liste Des Cartes](liste-des-cartes.md)
