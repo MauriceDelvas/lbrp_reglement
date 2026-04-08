@@ -4,7 +4,7 @@
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-## **Falaise 1 :**&#x20;
+## **Lapadite :**&#x20;
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
