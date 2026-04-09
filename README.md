@@ -58,7 +58,7 @@
 
 <mark style="color:purple;">**28**</mark>**&#x20;-** Il est **interdit de gérer les printers et bitminers** qui ne sont pas les sien&#x73;**. Seul le banquier** peut s'occuper de cette tache !
 
-<mark style="color:purple;">**29**</mark>**&#x20;-** Le **Usebug :** C'est le fait d'utiliser une faille d'un système pour en profiter (ex : avoir plus d'armes permanentes équipé que le maximum possible / trouver une commande qui permet de ce give)
+<mark style="color:purple;">**29**</mark>**&#x20;-** Le **Usebug :** C'est le fait d'utiliser une faille d'un système pour en profiter (ex : avoir plus d'armes permanentes équipé que le maximum possible / trouver une commande qui permet de ce give / ... )
 
 \
 :french\_bread: <mark style="color:yellow;">Règles Inclus sur le serveur</mark> :french\_bread:
