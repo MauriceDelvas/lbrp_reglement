@@ -20,6 +20,7 @@
   dans le cas contraire, vous avez le libre droit de lui prendre l'entièreté de ses ressources,  \
   de plus, il est interdit de détruire les ressources si celle-ci coopère **(n'oubliez pas qu'il faut toujours rester fair-play).**
 * Vous pouvez voler (partir avec) les imprimantes de quelqu'un dans le but de les vendre au PNJ uniquement si la personne ne coopère pas. Si la personne coopère, alors vous ne pouvez pas lui voler ses imprimantes (printer).
+* Vous pouvez demander à la victime d'aller retirer l'argent à l'ATM si celui-ci n'a pas l'argent sur lui.
 
 ## <mark style="color:purple;">Vol de voiture</mark> :
 
