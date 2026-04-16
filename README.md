@@ -110,6 +110,8 @@ Lorsqu'un véhicule blindé est à l'arrêt ou à une vitesse faible (moins de 2
 
 Les propos racistes, xénophobes, homophobes, ou tout autre propos à caractère haineux est strictement interdit (pas de ramassage de savonnette)
 
+Le RP sex est strictement interdit et passible de ban !
+
 Les insultes parentales / familiales sont formellement interdites (ainsi que les insultes à titre de dénigrement d'un genre)
 
 Le /me assomme quelqu'un, ne fonctionne pas vous avez un outil spécial pour cela, lorsque vous vous faites assommer, vous oublier tous ceux qu'il sait passer durant 5 minutes après ce laps de temps vous vous rappelez de toute la scène (Cet outil n'est accessible qu'aux gangs.)
