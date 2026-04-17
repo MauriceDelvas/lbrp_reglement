@@ -71,10 +71,10 @@
 
 * Afin d'effectuer une capture de drapeau, vous devez annoncer la capture de celui-ci en anonyme en précisant le lieu de la capture.
 * Un nombre de 3 sommations est obligatoire afin de défendre votre drapeau. Elles peuvent être textuelles ou en face à face, mais il est obligatoire de venir parler. Un minimum de discussion est obligatoire, vous ne pouvez pas juste tirer.
-* Il faut être minimum 2 présents au niveau du drapeau (actifs) et dans le même job et même menu (!gang).
+* Il faut être minimum 3 présents au niveau du drapeau (actifs) et dans le même job et même menu (!gang).
 *   Toutes les règles ci-dessus sont applicables aussi pour les défenseurs.
 
-    Vous pouvez capturer 2 drapeaux au maximum. Attention --> (Le gagnant de la guerre remporte un drapeau supplémentaire de la famille ennemie durant 1 semaine "cela signifie que votre limite passe de 2 ---> 3").
+    Vous pouvez capturer 2 drapeaux au maximum. Attention --> (Le gagnant de la guerre remporte deux drapeau supplémentaire de la famille ennemie durant 1 semaine "cela signifie que votre limite passe de 2 ---> 4").
 * Il est donc interdit de refaire une guerre ou de reprendre les drapeaux de la famille gagnante durant 1 semaine.
 * Lorsque vous capturez un drapeau d'une famille ennemie, vous êtes obligés de le capturer, vous ne pouvez pas capturer un drapeau juste pour le rendre libre, vous êtes donc dans l'obligation de le prendre.
 * Il est interdit de défendre un drapeau qui n'est pas le vôtre.
