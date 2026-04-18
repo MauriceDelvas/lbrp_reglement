@@ -64,7 +64,7 @@
 
 ### :convenience\_store:<mark style="color:purple;">Dépanneur</mark>
 
-* Vous n’avez pas la possibilité de porter des armes.
+* Vous avez la possibilité de porter des armes de poing et armes blanches à des fins de légitime défense.
 * Vous n’avez pas le droit de faire de l’illégale ( printers ).
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Le bénéfice max est de 150 000€.
