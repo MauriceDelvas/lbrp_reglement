@@ -41,7 +41,7 @@
 * Préciser a la Police qu'il y a un sniper en dehors de la zone de prise d'otage ou braquage.
 * Vous êtes dans l'obligation de braquer les coffres de la banque
 * Vous ne pouvez pas détruire les printers des clients si les banquiers + la sécurité coopère
-* Les forces de l'ordre ne peuvent pas détruire le mur arrière de la banque. Celui-ci ne peut être utilisé comme point d'entrée que si les braqueurs l'ont préalablement démoli.
+* Les forces de l'ordre (BAC/Raid/Police) ne peuvent pas détruire le mur arrière de la banque. Celui-ci ne peut être utilisé comme point d'entrée que si les braqueurs l'ont préalablement démoli.
 
 ## <mark style="color:purple;">**Braquage de supérette**</mark>**&#x20;:**
 
