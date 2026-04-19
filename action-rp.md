@@ -42,6 +42,7 @@
 * Vous êtes dans l'obligation de braquer les coffres de la banque
 * Vous ne pouvez pas détruire les printers des clients si les banquiers + la sécurité coopère
 * Les forces de l'ordre (BAC/Raid/Police) ne peuvent pas détruire le mur arrière de la banque. Celui-ci ne peut être utilisé comme point d'entrée que si les braqueurs l'ont préalablement démoli.
+* Dans le cas où vous ne prenez pas d'otage, si vous négociez une part du butin (max 50%), vous avez la possibilité d'effectuer une course-poursuite pour vous enfuir. (Vous devez avoir votre propre véhicule)
 
 ## <mark style="color:purple;">**Braquage de supérette**</mark>**&#x20;:**
 
@@ -52,15 +53,7 @@
 * Il est obligé de demander une négociation dès le lancement du braquage. ( dans les deux sens : Illégale et Police National )
 * Il faut être minimum 2 pour l'engager
 * Préciser a la police qu'il y a un sniper en dehors de la zone de prise d'otage ou braquage.
-
-## <mark style="color:purple;">**Braquage du fourgon de convoyage :**</mark>&#x20;
-
-* Il faut au minimum 3 forces de l’ordre
-* Vous devez être 2 au minimum pour engager celle-ci.
-* Vous devez attendre 30 minutes avant de pouvoir refaire un braquage de fourgon.
-* Vous devez être armés.
-* Il est obligé de demander une négociation dès le lancement du braquage de fourgon (dans les deux sens : Illégale et Police National)
-* Préciser a la police qu'il y a un sniper en dehors de la zone du braquage / prise d'otage.
+* Dans le cas où vous ne prenez pas d'otage, si vous négociez une part du butin (max 50%), vous avez la possibilité d'effectuer une course-poursuite pour vous enfuir. (Vous devez avoir votre propre véhicule)
 
 ## <mark style="color:purple;">Dictature</mark> :
 
