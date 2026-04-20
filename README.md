@@ -6,7 +6,7 @@
 
 <mark style="color:purple;">**02**</mark> - Le **Freeshoot** : Tirer sur une personne sans raison <mark style="color:blue;">**valable**</mark>.&#x20;
 
-<mark style="color:purple;">**03**</mark> - Le **Teamkill** : Tirer ou tuer l'un de <mark style="color:blue;">**ses coéquipiers**</mark> ou une personne du <mark style="color:blue;">**même métier que vous**</mark>. Si vous avez besoin d'abattre un concurrent ou bien un ami faite appelle à un tueur à gages.
+<mark style="color:purple;">**03**</mark> - Le **Teamkill** : Tirer ou tuer l'un de <mark style="color:blue;">**ses coéquipiers**</mark> ou une personne du <mark style="color:blue;">**même métier que vous**</mark>. (Ils sont autorisés à se tuer mutuellement s'ils engagent une scène entre membres de leur propre faction (ex : cambriolage)). Si vous avez besoin d'abattre un concurrent ou bien un ami faite appelle à un tueur à gages.
 
 <mark style="color:purple;">**04**</mark> - Le **Freepunch** : Taper une personne sans raison <mark style="color:blue;">**valable**</mark>.
 
@@ -22,7 +22,7 @@
 
 <mark style="color:purple;">**10**</mark> - Le **Powergaming** : C'est le fait de faire <mark style="color:blue;">**une action qui n'est pas réalisable**</mark> en temps normale (_ex : S'asseoir pour éviter les balles, sauter d'une falaise en voiture_)
 
-<mark style="color:purple;">**11**</mark> - Le **MassRP** : C'est le fait de simuler la présence d'habitants et de civils partout en ville. Celle-ci n'est pas remplie **seulement de joueurs mais bien de milliers de citoyens.** (Le MassRP s'applique partout en ville, celle-ci est indiquée par des panneaux "Vous entrez en ville". Bien sûr, une action comme, par exemple, le **braquage de banque** est toujours possible.) Une personne en dehors de la zone de MassRP n'a pas le droit d'interagir avec une scène qui se passe dans la zone de MassRP. Si vous vous faites attaquer par des personnes autres que les forces de l'ordre, vous avez le droit de sortir votre arme pour vous défendre. Vous pouvez sortir vos armes pour une **action comme un braquage** **de banque**, une **prise d'otage** (**banque**), ou une **prise d'otage** (**en tant que dictateur**). À part ces deux situations, vous ne pouvez pas sortir votre arme pour une quelconque action RP. Les petites rues, par exemple, derrière la banque, derrière le concessionnaire, et derrière l'hôpital, sont comprises dans la zone du MassRP. Vous ne pouvez pas sortir votre arme pour effectuer une action RP.
+<mark style="color:purple;">**11**</mark> - Le **MassRP** : C'est le fait de simuler la présence d'habitants et de civils partout en ville. Celle-ci n'est pas remplie **seulement de joueurs mais bien de milliers de citoyens.** (Le MassRP s'applique partout en ville, celle-ci est indiquée par des panneaux "LBRP City". Bien sûr, une action comme, par exemple, le **braquage de banque** est toujours possible.) Une personne en dehors de la zone de MassRP n'a pas le droit d'interagir avec une scène qui se passe dans la zone de MassRP. Si vous vous faites attaquer par des personnes autres que les forces de l'ordre, vous avez le droit de sortir votre arme pour vous défendre. Vous pouvez sortir vos armes pour une **action comme un braquage** **de banque**, une **prise d'otage** (**banque**), ou une **prise d'otage** (**en tant que dictateur**). À part ces deux situations, vous ne pouvez pas sortir votre arme pour une quelconque action RP. Les petites rues, par exemple, derrière la banque, derrière le concessionnaire, et derrière l'hôpital, sont comprises dans la zone du MassRP. Vous ne pouvez pas sortir votre arme pour effectuer une action RP.
 
 <mark style="color:purple;">**12**</mark> - Le **Travers** : C'est le fait de tirer à travers une surface opaque telle que des murs, des props, des smokes, etc.. Il est cependant autorisé de tirer à travers les surfaces transparentes. Si un joueur pose un textscreen sur une surface transparente indiquant qu'elle est blindé, il est interdit de tirer à travers. De plus, <mark style="color:red;">**il est interdit de tirer à travers les vitres de la Banque et de l'ascenseur. (**</mark>texscreen de mis que tu peut pas tiré a travers le props)
 
@@ -58,141 +58,155 @@
 
 <mark style="color:purple;">**28**</mark>**&#x20;-** Il est **interdit de gérer les printers et bitminers** qui ne sont pas les sien&#x73;**. Seul le banquier** peut s'occuper de cette tache !
 
-<mark style="color:purple;">**29**</mark>**&#x20;-** Le **Usebug :** C'est le fait d'utiliser une faille d'un système pour en profiter (ex : avoir plus d'armes permanentes équipé que le maximum possible / trouver une commande qui permet de ce give / ... )
+<mark style="color:purple;">**29**</mark>**&#x20;-** Le **Usebug :** C'est le fait d'utiliser une faille d'un système pour en profiter (ex : trouver une commande qui permet de ce give / Empiler les printers de gang les uns sur les autres ... )
 
 \
 :french\_bread: <mark style="color:yellow;">Règles Inclus sur le serveur</mark> :french\_bread:
 -----------------------------------------------------------------------------------------------
 
-
-
 <mark style="color:red;">**Il est formellement interdit de vendre ou de trade des armes permanentes à des prix qui ne respectent pas ceux du !vente In-Game ou dans la catégorie Communauté>Unbox sur le site.**</mark>
+
+#### 🚗 Conduite & Véhicules
+
+La conduite de façon RP est obligatoire (en ville on roule à 50 km/h).
+
+Lorsqu'un véhicule blindé ou non blindé est à l'arrêt ou à une vitesse faible (moins de 25 km/h), vous êtes obligé de jouer votre FearRP.
 
 Attention, lorsque vous achetez des voitures dans l'unbox, vous ne pouvez pas les accumuler dans le concessionnaire.
 
-Interdiction de faire des activités illégales dans les endroits inaccessibles ou accessibles avec un grappin seulement
+#### ⚔️ Combat & Actions RP
 
-Pas de tirs sans sommations, et les boosts et grappins ne sont pas des armes
+Privilégiez toujours le dialogue avant le combat. Pour engager un combat, 3 sommations orales claires et distinctes ou écrites (/ano 3 fois) sont nécessaires avant de tuer une personne armée. Pas de tirs sans sommations, les boosts et grappins ne sont pas des armes.
 
-La police doit faire une course-poursuite pendant 5 minutes minimums avant de pouvoir tirer en cas de délit de fuite, sauf si les fuyards ouvrent le feu dans ce cas-là vous pourrez directement riposter
+Lors des affrontements à courte portée (dans le même batiment), il est interdit de changer d'arme (sauf arme légère). Vous ne pouvez utiliser de sniper que sur de la longue distance.&#x20;
 
-Lorsqu’un joueur lève les mains en l’air ça veut dire qu’il se rend donc vous devez l’arrêter ou le prendre en otage mais vous ne pouvez plus le tuer !
+Il est interdit de faire des sommations pour une autre personne (pour les personnes menottées ou braquées).
 
-Les printers, les racks et les Bitminers sont illégals, le maire ne peut pas les rendre légaux
+Lorsqu'un joueur lève les mains en l'air, cela signifie qu'il se rend : vous devez l'arrêter ou le prendre en otage, mais vous ne pouvez plus le tuer.
 
-Les pubs sont interdites sur le serveur
+Pour le taser, vous n'avez pas besoin de faire de sommations. Attention à votre FearRP, car un taser ne fait pas le poids face à une ou plusieurs armes à feu.
 
-Interdiction de braquer un vendeur d'arme pour éviter de payer
+Vous n'avez pas le droit de vous redonner du kevlar ou de la vie (de quelconque manière) durant une action RP.
 
-Il est impossible de vendre ou d’échanger de l’argent IG contre des avantages boutique (crédits, pack, etc….).
+Vous ne pouvez en aucun cas vous procurer des objets ou des armes pendant une action RP.
 
-Vous n’avez pas le droit de vous redonner du kevlar ou de la vie (de quelconque manière) durant une action RP !
+Vous n'avez pas le droit de construire durant une action.
 
-Vous n’avez pas le droit de construire durant une action.
+Il est impossible de participer ou d'influencer une action qui a déjà commencé avant votre connexion ou votre changement de métier.
 
-Si vous voulez construire votre maison sans être braqué, vous devez mettre un textscreen au-dessus de la porte stipulant que vous êtes en construction, de ce fait vous n'aurez pas le droit de farm durant la période de construction (l'abus est interdit)
+Interdiction de faire des activités illégales dans des endroits inaccessibles ou accessibles uniquement avec un grappin.
 
-Privilégiez toujours le dialogue avant le combat. Pour engager un combat, 3 sommations orales claires et distinctes ou écrites (/ano 3 fois) sont nécessaires avant de tuer une personne armée.
+#### 🚔 Règles Police
 
-Pour le taser (pistolet taser), vous n'avez pas besoin de faire de sommations. Attention à votre FearRP, car un taser ne fait pas le poids face à une ou plusieurs armes à feu.
+La police doit effectuer une course-poursuite d'au moins 5 minutes avant de pouvoir ouvrir le feu en cas de délit de fuite, sauf si les fuyards ouvrent le feu en premier, auquel cas vous pouvez directement riposter.
 
-Il est interdit de faire des sommations pour une autre personne (pour les personnes menottés ou braqués)
+Le personnage de policier et le personnage de famille sont totalement distincts : il est interdit de transférer des informations obtenues en tant que policier pour les réutiliser en famille.
 
-Vous ne pouvez en aucun cas vous procurer des objets et des armes pendant une action RP.
+#### 💰 Économie & Transactions
 
-Les licences d’armes autorisent uniquement les armes de poing, mais interdisent de les utiliser sans raisons valables
+Les printers, les racks et les bitminers sont illégaux ; le maire ne peut pas les légaliser.
 
-La conduite de façon RP est obligatoire (En ville on roule à 50 hein)
+Les règlements de plus de 10 000 000 € avec le terminal de paiement sont interdits.
 
-Quand vous mourrez ou changez de job vous oubliez tout ce qu’il s’est passé avant.
+Il est impossible de vendre ou d'échanger de l'argent IG contre des avantages boutique (upoints, pack, etc.).
 
-Lorsqu'un véhicule blindé est à l'arrêt ou à une vitesse faible (moins de 25 km/h), vous êtes obligé de jouer votre fear RP.
+Vous pouvez échanger vos armes contre d'autres armes permanentes en faisant l'équivalent en upoints (les arnaques sont interdites et passibles d'un ban permanent).
 
-Les propos racistes, xénophobes, homophobes, ou tout autre propos à caractère haineux est strictement interdit (pas de ramassage de savonnette)
+Il est interdit de braquer un vendeur d'armes pour éviter de payer.
 
-Le RP sex est strictement interdit et passible de ban !
+Il est interdit de braquer ou de tuer un cuisinier.
 
-Les insultes parentales / familiales sont formellement interdites (ainsi que les insultes à titre de dénigrement d'un genre)
+Les licences d'armes autorisent uniquement les armes de poing, mais interdisent de les utiliser sans raison valable.
 
-Le /me assomme quelqu'un, ne fonctionne pas vous avez un outil spécial pour cela, lorsque vous vous faites assommer, vous oublier tous ceux qu'il sait passer durant 5 minutes après ce laps de temps vous vous rappelez de toute la scène (Cet outil n'est accessible qu'aux gangs.)
+#### 👥 Jobs & Alliances
 
-Il est interdit d'utiliser des logiciels ou des bugs, qui fournissent un avantage sur d'autres joueurs (triche, UseBug).
+Il y a une limitation de slots par job. Les alliances entre jobs sont interdites, tout comme le recours à des mercenaires ou à d'autres jobs illégaux (sauf productions).
+
+Quand vous mourez ou changez de job, vous oubliez tout ce qu'il s'est passé avant.
+
+#### 🤜 Braquage & Contre-braquage
+
+Vous pouvez faire un contre-braquage uniquement dans le but de sauver un ami d'un racket ou d'un cambriolage (attention à respecter votre FearRP). Vous ne pouvez pas faire de contre-braquage lors d'une prise d'otage, d'un braquage de banque ou d'un braquage de supérette (sauf dans le cadre d'une guerre de famille).
+
+#### 💊 Drogues
+
+Vous ne pouvez pas utiliser de drogues dans le but d'obtenir un avantage pendant une action ou un combat. Mais aussi pour récupérerune lootbox sur la map
+
+#### 🛠️ Outils & Mécaniques
+
+Le /me assomme quelqu'un ne fonctionne pas : un outil spécial est prévu à cet effet. Lorsque vous vous faites assommer, vous oubliez tout ce qu'il s'est passé pendant 5 minutes, après quoi vous vous souvenez de toute la scène.
+
+#### 🔒 Comportement & Règles Générales
+
+Les propos racistes, xénophobes, homophobes ou tout autre propos haineux sont strictement interdits.
+
+Les insultes parentales, familiales ou à titre de dénigrement d'un genre sont formellement interdites.
+
+Le RP sex est strictement interdit et passible de ban.
+
+Il est interdit d'avoir un jeu de mots avec son nom RP, ainsi que d'utiliser le nom d'une personnalité publique.
+
+Il est obligatoire d'avoir un micro pour jouer sur le serveur.
+
+Les publicités sont interdites sur le serveur.
+
+Il est interdit d'utiliser des logiciels ou des bugs fournissant un avantage sur d'autres joueurs (triche, UseBug, etc ...).
 
 Il est interdit de contourner le bannissement d'un compte.
 
 Il est interdit de divulguer tout type d'informations privées sur d'autres joueurs (nom réel, lieu, photo, etc.).
 
-Il y a une limitation de slots par job, par conséquent vous n'avez pas le droit aux alliances entre job, pas de mercenaires, pas d'autres jobs illégaux (sauf productions)
 
-Il est impossible pour vous de participer ou d'influencer une action qui a déjà commencé avant votre connexion ou votre changement de métier.
 
-Il est interdit d’arnaquer ses clients d’une quelconque manière en tant que Banquier
+## &#x20;🏗️ <mark style="color:yellow;">Règles de construction</mark> 🏗️
 
-Il est interdit de braquer ni de tuer un cuisinier.
+Les constructions avec un sens RP sont obligatoires.
 
-Les règlements de plus de 1,000,000€ avec le terminal de paiement sont interdits.
+Si vous souhaitez construire votre maison sans être braqué, vous devez placer un textscreen au-dessus de la porte indiquant que vous êtes en construction. Durant cette période, vous n'avez pas le droit de farmer (l'abus est interdit).
 
-Le personnage de policier et le personnage de famille et totalement diffèrent l'un de l'autre, il est interdit de prendre des informations en policier pour les réutiliser en famille
-
-Il est interdit de mettre des matériaux sur les entités (printers / bitminers / farm / etc...)
-
-Il est interdit de vendre vos armes permanentes contre de l'argent IG.
-
-Vous devez respecter les prix des armes indiqué sur le site ou via la commande !vente .
-
-Vous pouvez échanger vos armes contre d'autres armes perms en faisant l'équivalent en upoints.
-
-Les arnaques sont interdites et punisable d'un ban permenant !
-
-Il est interdit d'avoir un jeu de mots avec son nom Rp, ainsi que le nom d'une personnalité publique
-
-Il est obligatoire d'avoir un micro pour jouer sur le serveur&#x20;
-
-Il est interdit d'utiliser de la méth ou toute autre substance dans le but de courir vite pour récupérer une lootbox sur la map.
-
-Lors des affrontements à courte portée (dans la même pièce), il est interdit de changer d'arme (Sauf arme légère). | Vous ne pouvez pas utiliser de sniper au corps à corps.
-
-Vous pouvez faire un contre-braquage uniquement dans le but de sauver votre ami d'un racket ou d'un cambriolage (attention à respecter votre FearRP : si votre ami est menacé avec une arme, vous devez jouer votre peur et ne pas tenter de le sauver en prenant le risque de le tuer). Vous ne pouvez pas faire un contre-braquage lors d'une prise d'otage, d'un braquage de banque ou d'un braquage de supérette (sauf dans le cadre d'une guerre de famille, voir règlement associé)
-
-Vous ne pouvez pas utiliser de drogues dans le but d'obtenir un avantage pendant une action, un combat, etc. Pour rappel, vous n'avez pas le droit de prendre de la drogue pour courir plus vite et récupérer une lootbox.
-
-Le UseButton en action RP est interdit.
-
-### &#x20;🏗️ <mark style="color:yellow;">Règles de construction</mark> 🏗️
-
-Les constructions avec un sens RP sont obligatoires !&#x20;
-
-Toute entrée (porte garage etc...) effectué par un mappeur doit être accessible au public ou susceptible d'être ouvert avec un Lockpick, un Keypad ou un bouton. Celle-ci doit être accessible des deux côtés comme entrée / sortie (les balcons doivent comporté une entrée)\
-\
-Il est interdit de créer des sols, des échelles, des ascenseurs et des plateformes disparaissantes (via fading door).
-
-Il est interdit de faire des constructions avec juste un petit espace pour rentrer accroupie.
-
-Les fadings doors ne peuvent pas être de la même couleur une fois ouvertes. (Exemple Bleu ouvert, bleu fermé)
-
-Le nombre de SAS maximum dans une construction est de 3. ( Tout membre compris )
-
-Il est interdit de mettre plus de 2 keypads pour un seul fading door !
-
-Votre bouton/keypad doit obligatoirement être placé dans la même pièce et proche du fading door, il n'est pas possible qu'il soit caché.
-
-Les meurtrières sont interdites, c’est le fait de faire une construction avec juste un petit passage ou un petit écart de props ou de véhicules pour tirer. Pour que cela ne compte pas comme une meurtrière, il faut pouvoir passer accroupie et que l'on voit plus de la moitié de votre corps.
-
-<div><figure><img src=".gitbook/assets/image_2023-04-11_185344110.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image_2023-04-11_185510649.jpg" alt=""><figcaption></figcaption></figure></div>
+Il est interdit de mettre des matériaux sur les entités (printers, bitminers, farm, etc.).
 
 Il est interdit de faire des constructions en forme de labyrinthe.
 
-Il est interdit de construire de longs couloirs avec trois sas alignés et consécutifs. (couloir de la mort)
+Il est interdit de construire de longs couloirs avec trois SAS alignés et consécutifs (couloir de la mort).
 
-Il est interdit de mettre un matériau sur quelconque keypad / bouton
+Il est interdit d'intégrer des couleurs (outil couleur, et non matériaux) à vos props lors de constructions en solo destinées à être importées sur le serveur via Advanced Duplicator 2.
 
-Il est interdit de privatiser un ou plusieurs étages dans les HLM (taco Bell/mairie), votre construction doit commencer à partir de la porte d'entrée.
+#### 🚪 Portes & Accès
 
-Il est interdit d'intégrer des couleurs (outils couleurs et non matériaux) à vos props quand vous faites des constructions en solo pour les implémenter sur le serveur avec l'advanced duplicator 2.
+Toute entrée (porte, garage, etc.) effectuée par un mappeur doit être accessible au public ou susceptible d'être ouverte avec un lockpick, un keypad ou un bouton. Elle doit être accessible des deux côtés (entrée/sortie). Les balcons doivent comporter une entrée.
 
-Règle Discothèque : Votre construction doit commencer à partir de **l'entrée du bâtiment** et doit se terminer à la **fin des escaliers**. Toutes les constructions au sous-sol doivent être uniquement décoratives ou dédiées à un métier de production (ex : étagère pour pots de plantation etc), mais en **aucun cas défensives ou offensives**.
+Il est interdit de créer des sols, des échelles, des ascenseurs et des plateformes disparaissantes via fading door.
 
-Il est interdit de construire dans le sous-sol du bar devant la mairie, vous n'êtes pas autorisé à posé que des entités de farm.
+Il est interdit de faire des constructions avec seulement un petit espace pour entrer accroupi.
+
+#### ⚙️ Fading Doors & Keypads
+
+Les fading doors ne peuvent pas être de la même couleur une fois ouvertes (exemple : bleu fermé → bleu ouvert, interdit).
+
+Il est interdit de mettre plus de 2 keypads pour une seule fading door.
+
+Votre bouton/keypad doit obligatoirement être placé dans la même pièce et à proximité de la fading door. Il ne peut pas être caché.
+
+Il est interdit de mettre un matériau sur un keypad ou un bouton.
+
+Le UseButton en action RP est interdit.
+
+#### 🏠 SAS, Hauteur & Défense
+
+Le nombre maximum de SAS dans une construction est de 3, tous membres confondus.
+
+Il est interdit de construire des bases plus hautes que les bâtiments environnants.
+
+Les meurtrières sont interdites : il s'agit de toute construction ne laissant qu'un petit passage ou écart entre props ou véhicules pour tirer. Pour ne pas être considéré comme une meurtrière, il faut pouvoir passer accroupi et que plus de la moitié du corps soit visible.
+
+#### 🏢 Bâtiments Spécifiques
+
+Il est interdit de privatiser un ou plusieurs étages dans les HLM (Taco Bell/mairie) : votre construction doit commencer à partir de la porte d'entrée.
+
+Règle Discothèque : votre construction doit commencer à partir de l'entrée du bâtiment et se terminer à la fin des escaliers. Toutes les constructions au sous-sol doivent être uniquement décoratives ou dédiées à un métier de production (ex : étagère pour pots de plantation). Elles ne peuvent en aucun cas être défensives ou offensives.
+
+<div><figure><img src=".gitbook/assets/image_2023-04-11_185344110.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image_2023-04-11_185510649.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ### Application du bannissement en cas d'infractions
 

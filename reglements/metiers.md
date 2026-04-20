@@ -53,6 +53,7 @@
 * Il est interdit d'utiliser les bitminers.
 * Vous pouvez faire de l'argent pour votre compte printers + printer gang
 * Vous pouvez prendre un totale de 4 printers gang et 6 rack à printers complet
+* Il est interdit d’arnaquer ses clients d’une quelconque manière en tant que Banquier
 
 ### :taxi:<mark style="color:purple;">Chauffeur de taxi</mark>
 
