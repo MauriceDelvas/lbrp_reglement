@@ -68,8 +68,6 @@
 
 #### 🚗 Conduite & Véhicules
 
-La conduite de façon RP est obligatoire (en ville on roule à 50 km/h).
-
 Lorsqu'un véhicule blindé ou non blindé est à l'arrêt ou à une vitesse faible (moins de 25 km/h), vous êtes obligé de jouer votre FearRP.
 
 Attention, lorsque vous achetez des voitures dans l'unbox, vous ne pouvez pas les accumuler dans le concessionnaire.
