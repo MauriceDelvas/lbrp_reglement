@@ -1,5 +1,7 @@
 # 📝 Règlement Général
 
+<figure><img src=".gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+
 ## :blue\_book: _<mark style="color:yellow;">**Les Bases**</mark>_ :blue\_book:
 
 1. Interdiction de <mark style="color:blue;">**TeamKill**</mark> (tuer quelqu'un de votre camp).
