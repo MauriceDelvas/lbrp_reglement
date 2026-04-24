@@ -1,6 +1,6 @@
 # 📝 Règlement Général
 
-## :blue\_book: _<mark style="color:yellow;">**Les Bases**</mark>_ :blue\_book:
+
 
 1. Interdiction de <mark style="color:blue;">**TeamKill**</mark> (tuer quelqu'un de votre camp).
 2. Interdiction de <mark style="color:blue;">**Freekill**</mark> (tuer quelqu'un sans raisons RP).
