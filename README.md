@@ -168,6 +168,8 @@ Il est interdit de mettre des matériaux sur les entités (printers, bitminers, 
 
 Il est interdit de faire des constructions en forme de labyrinthe.
 
+Votre construction doit être suffisamment large pour permettre à 2 personnes de se tenir côte à côte.
+
 Il est interdit de construire de longs couloirs avec trois SAS alignés et consécutifs (couloir de la mort).
 
 Il est interdit d'intégrer des couleurs (outil couleur, et non matériaux) à vos props lors de constructions en solo destinées à être importées sur le serveur via Advanced Duplicator 2.
