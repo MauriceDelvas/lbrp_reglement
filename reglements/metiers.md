@@ -319,7 +319,7 @@
 * Vous avez la possibilité de porter tout types d’armes
 * Vous n’avez pas le droit de faire de braquage, prises d’otages etc …
 * Vous devez neutraliser vos cibles depuis un lieu discret
-* Vous devez avoir une raison RP valable pour accepter un contrat
+* Vous devez avoir une raison RP valable pour accepter un contrat. **Si la raison est cependant erronée mais que vous avez quand même effectué le contrat, la faute vous revient. A vous de prendre des mesures pour vérifier la véracité de la demande !**
 *   Vous avez le droit de cacher votre profession ( /job citoyen … )
 
 
