@@ -38,7 +38,7 @@
 
 <mark style="color:purple;">**18**</mark> - Le **Pain RP** : C'est le fait de <mark style="color:blue;">**ressentir la douleur**</mark> infligé par une chute, après avoir reçu des balles, etc. Si vous êtes en incapacité physique de combattre (-15hp) vous ne pouvez donc pas engager / continuer un combat.
 
-<mark style="color:purple;">**19**</mark> - Le **Metagaming** : C'est le fait de connaître des informations HRP sans les connaître dans un contexte RP (_ex : lire le nom d’une personne au-dessus de sa tête_)
+<mark style="color:purple;">**19**</mark> - Le **Metagaming** : C'est le fait de connaître des informations HRP sans les connaître dans un contexte RP (_ex : lire le nom d’une personne au-dessus de sa tête, entendre des bruits de printers pour faire un assaut /_ vol / etc ...)
 
 <mark style="color:purple;">**20**</mark> - Le **soundboard** : C'est le fait d'<mark style="color:blue;">**utiliser des sons externes au serveur**</mark> (_ex : des musiques non incluses dans la boombox ou bien la radio dans les véhicules_)
 
