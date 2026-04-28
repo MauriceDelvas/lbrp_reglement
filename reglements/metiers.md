@@ -170,11 +170,9 @@
 * Vous ne devez pas griller votre couverture pour de petits délits. (bagarre, code de la route, etc...)
 * Interdiction d'utiliser Gauss sabot.
 * Vous êtes comptabilisé comme une force de l'ordre
-*   Vous pouvez tirer à vue dans une situation comme un attentat, car la situation représente un danger imminent et menace de tuer des civils. Dans ce cas, vous pouvez abattre l'individu sans sommations.
+*   Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
 
-    Vous pouvez également tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
-
-    Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.
+    **Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.**
 *   En cas de besoin, ils sont habilités à intervenir lors de braquages (banques, supérettes, etc.) à condition d'enfiler l'uniforme de police.
 
 
@@ -189,11 +187,9 @@
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 * Il est permis d'abattre un joueur uniquement s'il représente une menace pour la vie d'autrui.
 * Interdiction d'utiliser Gauss sabot (sauf à partir de lieutenant)
-*   Vous pouvez tirer à vue dans une situation comme un attentat, car la situation représente un danger imminent et menace de tuer des civils. Dans ce cas, vous pouvez abattre l'individu sans sommations.
+*   Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
 
-    Vous pouvez également tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
-
-    Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.
+    **Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.**
 
 
 
@@ -205,11 +201,9 @@
 * Vous vérifier le bon fonctionnement de la Police National
 * Vous devez protéger les citoyens
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
-*   Vous pouvez tirer à vue dans une situation comme un attentat, car la situation représente un danger imminent et menace de tuer des civils. Dans ce cas, vous pouvez abattre l'individu sans sommations.
+*   Vous pouvez  tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
 
-    Vous pouvez également tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
-
-    Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.
+    **Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.**
 
 
 
@@ -221,16 +215,11 @@
 * Vous n'avez pas le droit d'abuser de votre job (freetaze, freekill vos collèges)
 * Vous avez le droit de faire payer des détenus pour les libérer (50 000€)
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
-* Il est permis d'abattre un joueur uniquement s'il représente une menace pour la vie d'autrui.
 * Interdiction d'utiliser Gauss sabot.
-*   La police corrompu compte dans l'effectif de la police pour les actions RP, Dictature.
+* La police corrompu compte dans l'effectif de la police pour les actions RP, Dictature.
+*   Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
 
-
-*   Vous pouvez tirer à vue dans une situation comme un attentat, car la situation représente un danger imminent et menace de tuer des civils. Dans ce cas, vous pouvez abattre l'individu sans sommations.
-
-    Vous pouvez également tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
-
-    Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.
+    _Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre._
 
 ### <mark style="color:blue;">RAID</mark>
 
@@ -241,11 +230,8 @@
 * Vous devez protéger les citoyens et encadrer les opérations ( Prise d’otage, braquage de banque etc … )
 * Il est interdit de patrouiller dans le métier RAID, sauf s'il n'y a pas de policier, ou une intervention lourde (Braquage de Banques, Prise d'otage)
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
-*   Vous pouvez tirer à vue dans une situation comme un attentat, car la situation représente un danger imminent et menace de tuer des civils. Dans ce cas, vous pouvez abattre l'individu sans sommations.
-
-    Vous pouvez également tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
-
-    Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.
+* Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).\
+  **Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.**
 
 ## <mark style="color:red;">Production</mark> :
 
