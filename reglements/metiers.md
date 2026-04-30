@@ -152,7 +152,7 @@
 * En tant que OPJ, votre but est d'enquêter sur les organisations de la ville, récolter des informations, monter un dossier qui aboutira sur une arrestation et un jugement !
 * Vous avez également le droit de participer aux guerres de familles, en CK les membres des familles rivales.
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
-* Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende). <mark style="color:red;">**Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.**</mark><br>
+* Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).<br>
 
 
 
@@ -170,9 +170,7 @@
 * Vous ne devez pas griller votre couverture pour de petits délits. (bagarre, code de la route, etc...)
 * Interdiction d'utiliser Gauss sabot.
 * Vous êtes comptabilisé comme une force de l'ordre
-*   Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
-
-    **Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.**
+* Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
 *   En cas de besoin, ils sont habilités à intervenir lors de braquages (banques, supérettes, etc.) à condition d'enfiler l'uniforme de police.
 
 
@@ -187,9 +185,7 @@
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 * Il est permis d'abattre un joueur uniquement s'il représente une menace pour la vie d'autrui.
 * Interdiction d'utiliser Gauss sabot (sauf à partir de lieutenant)
-*   Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
-
-    **Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.**
+*   Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
 
 
 
@@ -201,9 +197,7 @@
 * Vous vérifier le bon fonctionnement de la Police National
 * Vous devez protéger les citoyens
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
-*   Vous pouvez  tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
-
-    **Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.**
+* Vous pouvez  tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
 
 
 
@@ -217,9 +211,7 @@
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 * Interdiction d'utiliser Gauss sabot.
 * La police corrompu compte dans l'effectif de la police pour les actions RP, Dictature.
-*   Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
-
-    _Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre._
+* Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
 
 ### <mark style="color:blue;">RAID</mark>
 
@@ -230,8 +222,7 @@
 * Vous devez protéger les citoyens et encadrer les opérations ( Prise d’otage, braquage de banque etc … )
 * Il est interdit de patrouiller dans le métier RAID, sauf s'il n'y a pas de policier, ou une intervention lourde (Braquage de Banques, Prise d'otage)
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
-* Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).\
-  **Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.**
+* Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
 
 ## <mark style="color:red;">Production</mark> :
 
