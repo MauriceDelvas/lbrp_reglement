@@ -188,7 +188,7 @@ Les fading doors ne peuvent pas être de la même couleur une fois ouvertes (exe
 
 Il est interdit de mettre plus de 2 keypads pour une seule fading door.
 
-Votre bouton/keypad doit obligatoirement être placé dans la même pièce et à proximité de la fading door. Il ne peut pas être caché.
+Votre bouton/keypad doit obligatoirement être placé dans la même pièce et à proximité de la fading door. Il ne peut pas être caché. Il doit cependant être protégé d'un mur/palissade afin que la personne crackant le keypad ne puisse pas être atteinte.
 
 Il est interdit de mettre un matériau sur un keypad ou un bouton.
 
