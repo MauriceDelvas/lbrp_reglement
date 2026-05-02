@@ -15,9 +15,16 @@
 * Vous pouvez utiliser les printers du F4 uniquement, cependant si la Police National les repère elle est en droit de les saisir et de procéder à la démarche d'amende, etc.
 * _Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )._
 * Vous pouvez être braquer
-*   Le métier de mineur de Bitcoin est une activité légale.
+* Le métier de mineur de Bitcoin est une activité légale.
 
+### <mark style="color:$warning;">\[LEGENDAIRE]</mark> <mark style="color:blue;">SDF :</mark>
 
+* &#x20;Vous avez la possibilité de porter des armes de poings / armes blanches ( seulement ).
+* Vous n’avez pas le droit de toucher à tout ce qui est illégal ( printers ). Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … ).
+* Vous pouvez voler dans les printers / bitminers des gens lorsqu'ils sont facilement accessibles.
+* Vous pouvez demander de l'argent ou pickpocket des gens (vous prenez 50 % de l'argent sur eux). <mark style="color:$danger;">**Il est interdit de voler les joueurs qui sont en chargement du serveur ou afk.**</mark>
+* Vous pouvez lancer des boules d'excréments. Il est interdit de spam le lancer d'excréments.
+* Interdiction d'utiliser la fonctionnalité MonkeyClimb plusieurs fois de suite afin de se donner un avantage.
 
 ### :no\_bell:<mark style="color:purple;">**SDF**</mark>
 
@@ -54,6 +61,16 @@
 * Vous pouvez faire de l'argent pour votre compte printers + printer gang
 * Vous pouvez prendre un totale de 4 printers gang et 6 rack à printers complet
 * Il est interdit d’arnaquer ses clients d’une quelconque manière en tant que Banquier
+
+### <mark style="color:$warning;">\[LEGENDAIRE]</mark> <mark style="color:blue;">Gérant de bitminers  :</mark>
+
+* Vous pouvez utiliser une arme de poing et une arme blanche.
+* Vous gérez votre data-center et vous pouvez recruter des agents de sécurité.
+* Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
+* Vous gardez les bitminers des clients en sûreté.
+* Vous pouvez faire une marge de 30% maximum sur les bitminers
+* Vous pouvez héberger vos bitminers.
+* Il est interdit d’arnaquer ses clients d’une quelconque manière.
 
 ### :taxi:<mark style="color:purple;">Chauffeur de taxi</mark>
 
@@ -106,24 +123,33 @@
 * Vous pouvez travailler avec d’autres marchands.
 * Vous ne pouvez pas être braquer.
 * Vous devez nourrir toute la ville.
-* Voici le prix maximum pour chaque pizza vendu: 25000€.
+* Voici le prix maximum pour chaque pizza vendu: 25 000€.
+
+### <mark style="color:$warning;">\[LEGENDAIRE]</mark> <mark style="color:blue;">Cuisinier  :</mark>
+
+* &#x20;Vous avez la possibilité de porter des armes blanches ( seulement ).
+*  Vous n’avez pas le droit de faire de l’illégale ( printers ).
+* Vous pouvez travailler avec d’autres marchands.
+* Vous ne pouvez pas être braquer.
+* Vous devez nourrir toute la ville.
+* Le prix maximum pour un aliment est de 40 000€.
 
 ## <mark style="color:red;">Gouvernement</mark> :
 
-### :house\_with\_garden:<mark style="color:blue;">Garde du Maire</mark>
+### :house\_with\_garden:<mark style="color:blue;">Garde du Maire:</mark>
 
 * Vous avez la possibilité de porter des armes lourdes ( sauf sniper )
 * Vous n’avez pas le droit de faire de l’illégale ( printers sauf dictature )
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 
-### <mark style="color:blue;">👩‍🦰 Secrétaire du Maire</mark>
+### <mark style="color:blue;">👩‍🦰 Secrétaire du Maire:</mark>
 
 * Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Vous prenez en charge le planning du Maire
 
-### <mark style="color:blue;">🤴 Maire</mark>
+### <mark style="color:blue;">🤴 Maire :</mark>
 
 #### \[<mark style="color:purple;">Démocratie</mark>]
 
@@ -140,9 +166,25 @@
 * Vous avez le droit de braquer ( prise d’otage seulement )
 * Vous pouvez engager des mercenaires
 
+### <mark style="color:$warning;">\[LEGENDAIRE]</mark> <mark style="color:blue;">Collecteur d'impôts  :</mark>
+
+* Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
+* Vous n’avez pas le droit de faire de l’illégale ( printers ).
+* Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
+* Vous pouvez prélevez les impôts fixés par le maire toutes les 20 minutes.
+* La montant maximum d'un impôt est de 100 000 $.
+
+### <mark style="color:$warning;">\[LEGENDAIRE]</mark> <mark style="color:blue;">Sécurité privée  :</mark>
+
+* Vous avez la possibilité de porter des armes lourdes ( sauf sniper )
+* Vous n’avez pas le droit de faire de l’illégale ( printers sauf dictature )
+* Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
+* Vous accompagnez et vous accordez la sécurité du collecteur d'impôts lors de ses missions.
+* Vous pouvez demander une commision auprès du collecteur d'impôts
+
 ## <mark style="color:red;">Force de l'ordre</mark> :
 
-### <mark style="color:blue;">👮‍♂️O.P.J ( Officier de Police Judiciaire )</mark>&#x20;
+### <mark style="color:blue;">👮‍♂️O.P.J ( Officier de Police Judiciaire ) :</mark>
 
 * Vous avez la possibilité de porter des armes lourdes y compris les snipers.
 * Vous n’avez pas le droit de faire de l’illégale ( printers, etc.. )
@@ -154,9 +196,7 @@
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 * Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).<br>
 
-
-
-### <mark style="color:blue;">🕵️‍♂️ \*Premium\* BAC</mark>
+### <mark style="color:blue;">🕵️‍♂️</mark> <mark style="color:yellow;">\[Premium]</mark> <mark style="color:blue;">BAC :</mark>
 
 * Vous avez la possibilité de porter des armes lourdes ( sauf sniper / ( freedom autorisé) )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
@@ -282,7 +322,15 @@
 
 ## <mark style="color:red;">Illégaux</mark> :
 
-### \*<mark style="color:yellow;">Premium</mark>\* <mark style="color:blue;">Psychopathe</mark>
+### <mark style="color:$warning;">\[LEGENDAIRE]</mark> <mark style="color:blue;">Ligue des Mécontents :</mark>&#xD;
+
+* Vous avez la possibilité de porter tout types d’armes
+* Vous pouvez vous /job pour changer le nom du métier
+* Vous pouvez faire des rassemblements afin de manifester.
+* Vous pouvez faire des prises d'otage.
+* Vous pouvez faire des insurrections pour prendre la mairie **(Besoin de l'autorisation d'un administrateur)**
+
+### <mark style="color:yellow;">\[Premium]</mark> <mark style="color:blue;">Psychopathe :</mark>
 
 * Vous avez la possibilité de porter des armes blanches ( seulement )
 * Vous n’avez pas le droit de faire de braquage, prises d’otages etc …
