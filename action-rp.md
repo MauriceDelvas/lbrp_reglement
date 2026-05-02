@@ -73,3 +73,14 @@
 * Lorsque vous capturez un drapeau d'une famille ennemie, vous êtes obligés de le capturer, vous ne pouvez pas capturer un drapeau juste pour le rendre libre, vous êtes donc dans l'obligation de le prendre.
 * Il est interdit de défendre un drapeau qui n'est pas le vôtre.
 * Si vous défendez votre drapeau et que vous perdez la défense, vous ne pouvez pas capturer ce drapeau pendant une durée de 2 h.
+
+## <mark style="color:purple;">**Insurrection :**</mark>
+
+* Il faut au minimum 5 forces de l’ordre.
+* Vous devez être armés.
+* Il faut demander l’autorisation à un Administrateur minimum.
+* Vous devez avoir un plan d'action claire et détaillé.
+* Il est obligé de demander une négociation dès l'arrivée de la police
+* Il faut être minimum 4 pour l'engager
+* Vous pouvez prendre des otages.
+
