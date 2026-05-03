@@ -24,7 +24,7 @@
 
 ### <mark style="color:blue;">Capture de drapeau ( concerne aussi les défenseurs )</mark> <mark style="color:blue;">:</mark> <a href="#la-guerre-in-game" id="la-guerre-in-game"></a>
 
-1. Vous devez être au minimum trois membres de la même famille sur le serveur (et dans le même job) pour pouvoir capturer un drapeau, si quelqu'un est au sniper vous serez compté comme 2 sur le drapeau. Attention, les trois membres doivent être actifs lors de la capture (pas AFK).
+1. Vous devez être au minimum trois membres de la même famille sur le serveur (et dans le même job, **Si vous avez un job Famille vous devez obligatoirement être présent dedans afin de capturer le drapeau.**) pour pouvoir capturer un drapeau, si quelqu'un est au sniper vous serez compté comme 2 sur le drapeau. Attention, les trois membres doivent être actifs lors de la capture (pas AFK).
 2. Si une famille arrive à défendre le point que vous essayez d'attaquer, vous ne pouvez plus l'attaquer pendant 2h (réfléchissez donc à une bonne stratégie lors des attaques !).
 3. Il est nécessaire d'avoir des raisons RP pour envisager une guerre contre une autre famille (meurtre, embrouille, attaque, etc ...)
 
@@ -42,7 +42,7 @@
 
 ### <mark style="color:blue;">**Les OPJ :**</mark>
 
-1. Une notion de Fear est à avoir avec les OPJ, ils sont une escouade anti-gang lourdement armée. Il faut donc au minimum 2 personnes pour braquer un OPJ.
+1. Une notion de Fear est à avoir avec les OPJ, ils sont une escouade anti-gang lourdement armée. Il faut donc au minimum 3 personnes pour braquer un OPJ. (1 OPJ = 3 membres de famille)
 2. Le character Kill (CK) :
 3. Pour effectuer un character kill, vous devez avoir des preuves ( rec, screen, etc ... ) que vous connaissez ( de façon RP ).
 4. Leur rôle :
