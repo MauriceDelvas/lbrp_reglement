@@ -76,7 +76,8 @@
 
 ## <mark style="color:purple;">**Insurrection :**</mark>
 
-* Il faut au minimum 5 forces de l’ordre.
+* Cette action est réservée au métier **ligue des mécontents.**
+* &#x20;Il faut au minimum 5 forces de l’ordre.
 * Vous devez être armés.
 * Il faut demander l’autorisation à un Administrateur minimum.
 * Vous devez avoir un plan d'action claire et détaillé.
