@@ -138,11 +138,11 @@ Le /me assomme quelqu'un ne fonctionne pas : un outil spécial est prévu à cet
 
 #### <mark style="color:$warning;">\[LEGENDAIRE]</mark> <mark style="color:blue;">Vape à effet spécial :</mark>
 
-**Vape Glaciale :** Elle permet d'immobiliser totalement votre cible pendant 15 secondes.
+**Vape Glaciale :** Elle permet d'immobiliser totalement votre cible pendant 5 secondes.
 
-**Vape Inversion :** Elle permet d'inverser les touches de déplacement de votre cible.
+**Vape Inversion :** Elle permet d'inverser les touches de déplacement de votre cible pendant 10 secondes.
 
-<mark style="color:$danger;">**Attention ! L'usage abusif pourra être sanctionné par la modération.**</mark>
+#### <mark style="color:$danger;">**Attention ! L'usage abusif des vapes sur les autres joueurs pourra être sanctionné par la modération.**</mark>
 
 ### 🔒 Comportement & Règles Générales
 
@@ -216,7 +216,7 @@ Règle Discothèque : votre construction doit commencer à partir de l'entrée d
 
 <div><figure><img src=".gitbook/assets/image_2023-04-11_185344110.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image_2023-04-11_185510649.jpg" alt=""><figcaption></figcaption></figure></div>
 
-### Application du bannissement en cas d'infractions
+## Charte sanction joueur
 
 | Infraction | Durée du banissement |
 | ---------- | -------------------- |
@@ -228,8 +228,3 @@ Règle Discothèque : votre construction doit commencer à partir de l'entrée d
 Un warn peut vous être retiré par un membre du staff seulement s'il date de <mark style="color:blue;">**2 mois**</mark> minimum.
 
 Il est impossible de se faire retirer un warn inactif <mark style="color:blue;">**(2 mois)**</mark> si vous êtes <mark style="color:red;">**banni du serveur**</mark>
-
-
-
-## Charte sanction joueur
-
