@@ -17,7 +17,7 @@
 * Vous pouvez être braquer
 * Le métier de mineur de Bitcoin est une activité légale.
 
-### <mark style="color:$warning;">\[LEGENDAIRE]</mark> <mark style="color:blue;">SDF :</mark>
+### <mark style="color:$warning;">\[LEGENDAIRE]</mark> <mark style="color:blue;">SDF</mark>
 
 * &#x20;Vous avez la possibilité de porter des armes de poings / armes blanches ( seulement ).
 * Vous n’avez pas le droit de toucher à tout ce qui est illégal ( printers ). Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … ).
@@ -59,18 +59,20 @@
 * Vous pouvez faire une marge de 30% maximum sur les printers.
 * Il est interdit d'utiliser les bitminers.
 * Vous pouvez faire de l'argent pour votre compte printers + printer gang
-* Vous pouvez prendre un totale de 4 printers gang et 6 rack à printers complet
+* Vous pouvez prendre un totale de 6 printers gang et 8 rack à printers complet
 * Il est interdit d’arnaquer ses clients d’une quelconque manière en tant que Banquier
 
-### <mark style="color:$warning;">\[LEGENDAIRE]</mark> <mark style="color:blue;">Gérant de bitminers  :</mark>
+### <mark style="color:$warning;">\[LEGENDAIRE]</mark> <mark style="color:blue;">Gérant de bitminers</mark>
 
 * Vous pouvez utiliser une arme de poing et une arme blanche.
 * Vous gérez votre data-center et vous pouvez recruter des agents de sécurité.
+* Vous pouvez travailler avec le banquier.
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Vous gardez les bitminers des clients en sûreté.
 * Vous pouvez faire une marge de 30% maximum sur les bitminers
 * Vous pouvez héberger vos bitminers.
 * Il est interdit d’arnaquer ses clients d’une quelconque manière.
+* Vous pouvez prendre en charge un totale de 8 bitminers racks / 14 bitminers S2 et 20 bitminers S1
 
 ### :taxi:<mark style="color:purple;">Chauffeur de taxi</mark>
 
@@ -125,14 +127,14 @@
 * Vous devez nourrir toute la ville.
 * Voici le prix maximum pour chaque pizza vendu: 25 000€.
 
-### <mark style="color:$warning;">\[LEGENDAIRE]</mark> <mark style="color:blue;">Cuisinier  :</mark>
+### <mark style="color:$warning;">\[LEGENDAIRE]</mark> <mark style="color:blue;">Cuisinier</mark>
 
-* &#x20;Vous avez la possibilité de porter des armes blanches ( seulement ).
+* Vous avez la possibilité de porter des armes blanches ( seulement ).
 *  Vous n’avez pas le droit de faire de l’illégale ( printers ).
 * Vous pouvez travailler avec d’autres marchands.
 * Vous ne pouvez pas être braquer.
 * Vous devez nourrir toute la ville.
-* Le prix maximum pour un aliment est de 40 000€.
+* Le prix maximum pour un aliment est de 50 000€.
 
 ## <mark style="color:red;">Gouvernement</mark> :
 
@@ -158,6 +160,7 @@
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Votre bénéfice pour les licences est de 2000€
 * Vous ne pouvez pas engager des mercenaires
+* Vous ne pouvez pas engager la sécurité privée du collecteur d'impôts
 
 #### |<mark style="color:purple;">Dictature</mark>]
 
@@ -165,26 +168,30 @@
 * Vous avez le droit de faire de l’illégale ( printers seulement )
 * Vous avez le droit de braquer ( prise d’otage seulement )
 * Vous pouvez engager des mercenaires
+* Vous ne pouvez pas engager la sécurité privée du collecteur d'impôts
 
-### <mark style="color:$warning;">\[LEGENDAIRE]</mark> <mark style="color:blue;">Collecteur d'impôts  :</mark>
+### <mark style="color:$warning;">\[LEGENDAIRE]</mark> <mark style="color:blue;">Collecteur d'impôts</mark>
 
 * Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
 * Vous n’avez pas le droit de faire de l’illégale ( printers ).
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Vous pouvez prélevez les impôts fixés par le maire toutes les 20 minutes.
 * La montant maximum d'un impôt est de 100 000 $.
+* Vous engagez la sécurité privée pour vous protégez
+* Vous devez donner 30% de la récolte au Maire et le reste que vous partagez avec votre sécurité privée
 
-### <mark style="color:$warning;">\[LEGENDAIRE]</mark> <mark style="color:blue;">Sécurité privée  :</mark>
+### <mark style="color:$warning;">\[LEGENDAIRE]</mark> <mark style="color:blue;">Sécurité privée</mark>
 
 * Vous avez la possibilité de porter des armes lourdes ( sauf sniper )
 * Vous n’avez pas le droit de faire de l’illégale ( printers sauf dictature )
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Vous accompagnez et vous accordez la sécurité du collecteur d'impôts lors de ses missions.
 * Vous pouvez demander une commision auprès du collecteur d'impôts
+* Vous ne pouvez pas faire la sécurité du Maire
 
 ## <mark style="color:red;">Force de l'ordre</mark> :
 
-### <mark style="color:blue;">👮‍♂️O.P.J ( Officier de Police Judiciaire ) :</mark>
+### <mark style="color:blue;">👮‍♂️O.P.J ( Officier de Police Judiciaire )</mark>
 
 * Vous avez la possibilité de porter des armes lourdes y compris les snipers.
 * Vous n’avez pas le droit de faire de l’illégale ( printers, etc.. )
@@ -196,7 +203,7 @@
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 * Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).<br>
 
-### <mark style="color:blue;">🕵️‍♂️</mark> <mark style="color:yellow;">\[Premium]</mark> <mark style="color:blue;">BAC :</mark>
+### <mark style="color:blue;">🕵️‍♂️</mark> <mark style="color:yellow;">\[Premium]</mark> <mark style="color:blue;">BAC</mark>
 
 * Vous avez la possibilité de porter des armes lourdes ( sauf sniper / ( freedom autorisé) )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
@@ -322,15 +329,7 @@
 
 ## <mark style="color:red;">Illégaux</mark> :
 
-### <mark style="color:$warning;">\[LEGENDAIRE]</mark> <mark style="color:blue;">Ligue des Mécontents :</mark>&#xD;
-
-* Vous avez la possibilité de porter tout types d’armes
-* Vous pouvez vous /job pour changer le nom du métier
-* Vous pouvez faire des rassemblements afin de manifester.
-* Vous pouvez faire des prises d'otage.
-* Vous pouvez faire des insurrections pour prendre la mairie **(Besoin de l'autorisation d'un administrateur)**
-
-### <mark style="color:yellow;">\[Premium]</mark> <mark style="color:blue;">Psychopathe :</mark>
+### <mark style="color:yellow;">\[Premium]</mark> <mark style="color:blue;">Psychopathe</mark>
 
 * Vous avez la possibilité de porter des armes blanches ( seulement )
 * Vous n’avez pas le droit de faire de braquage, prises d’otages etc …
@@ -373,6 +372,14 @@
 * En tant que voleur vous pouvez voler des véhicules au centre-ville mais vous devez être discret à l'abri des regards.
 
 ## <mark style="color:red;">**Gang (Non Légal)**</mark>**&#x20;:**
+
+### <mark style="color:$warning;">\[LEGENDAIRE]</mark> <mark style="color:blue;">Ligue des Mécontents</mark>
+
+* Vous avez la possibilité de porter tout types d’armes
+* Vous pouvez vous /job pour changer le nom du métier
+* Vous pouvez faire des rassemblements afin de manifester.
+* Vous pouvez faire des prises d'otage.
+* Vous pouvez faire des insurrections pour prendre la mairie **(Besoin de l'autorisation d'un administrateur)**
 
 ### <mark style="color:blue;">Gitans</mark>
 

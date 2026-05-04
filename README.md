@@ -142,6 +142,8 @@ Le /me assomme quelqu'un ne fonctionne pas : un outil spécial est prévu à cet
 
 **Vape Inversion :** Elle permet d'inverser les touches de déplacement de votre cible pendant 10 secondes.
 
+Vous ne pouvez pas utliliser vos vapes durant des actions (synonymes de powergaming)
+
 #### <mark style="color:$danger;">**Attention ! L'usage abusif des vapes sur les autres joueurs pourra être sanctionné par la modération.**</mark>
 
 ### 🔒 Comportement & Règles Générales
