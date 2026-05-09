@@ -72,7 +72,7 @@
 * Vous pouvez faire une marge de 30% maximum sur les bitminers
 * Vous pouvez héberger vos bitminers.
 * Il est interdit d’arnaquer ses clients d’une quelconque manière.
-* Vous pouvez prendre en charge un totale de 8 bitminers racks / 14 bitminers S2 et 20 bitminers S1
+* Vous pouvez prendre en charge un totale de 8 bitminers racks / 16 bitminers S2 et 32 bitminers S1
 
 ### :taxi:<mark style="color:purple;">Chauffeur de taxi</mark>
 
