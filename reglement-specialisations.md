@@ -8,7 +8,6 @@
 * Vous pouvez lancer une frappe d'artillerie sur le VP suivant sans tenir compte du nombre de personnes.
 * Les munitions WP sont interdites
 * Le job artilleur est maintenant interdit en attaque et en défense de base.
-* Vous pouvez être accompagné d'un ''spoteur'' (membre de la régulière 29th ou 916.) lors de votre reconnaissance . Celui-ci ne pourra tirer que pour assurer votre protection.
 * L'artilleur peut quitter la base seul.
 
 ### <mark style="color:blue;">Armored Division / Panzerdivision</mark> :
