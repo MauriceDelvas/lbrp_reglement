@@ -2,15 +2,15 @@
 
 ## **Sainte Marie Dumont :**&#x20;
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Lapadite :**&#x20;
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-## **Falaise 2 :**&#x20;
+## Falaise (avec maison de billie) **:**
 
-<figure><img src=".gitbook/assets/image2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## **Berlin OUEST**
 
