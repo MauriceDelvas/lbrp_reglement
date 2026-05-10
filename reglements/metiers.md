@@ -340,11 +340,12 @@
 
 ### <mark style="color:blue;">Tueur à gage</mark>
 
-* Vous avez la possibilité de porter tout types d’armes
+* Vous avez la possibilité de porter tout types d’armes (privillégié le Sniper)
 * Vous n’avez pas le droit de faire de braquage, prises d’otages etc …
-* Vous devez neutraliser vos cibles depuis un lieu discret
+* Vous devez neutraliser votre cible depuis un lieu discret (interdit de tuer des innocents)
 * Vous devez avoir une raison RP valable pour accepter un contrat. **Si la raison est cependant erronée mais que vous avez quand même effectué le contrat, la faute vous revient. A vous de prendre des mesures pour vérifier la véracité de la demande !**
-*   Vous avez le droit de cacher votre profession ( /job citoyen … )
+* Vous avez le droit de cacher votre profession ( /job citoyen … )
+* Vous ne pouvez pas collaborer avec un autre tueur à gage
 
 
 
