@@ -66,7 +66,7 @@
 
 * Vous pouvez utiliser une arme de poing et une arme blanche.
 * Vous gérez votre data-center et vous pouvez recruter des agents de sécurité.
-* Vous pouvez travailler avec le banquier.
+* Vous ne pouvez pas travailler avec le banquier.
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Vous gardez les bitminers des clients en sûreté.
 * Vous pouvez faire une marge de 30% maximum sur les bitminers
