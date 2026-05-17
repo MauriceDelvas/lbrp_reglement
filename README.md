@@ -160,7 +160,7 @@ Il est obligatoire d'avoir un micro pour jouer sur le serveur.
 
 Les publicités sont interdites sur le serveur.
 
-Il est interdit d'utiliser des logiciels ou des bugs fournissant un avantage sur d'autres joueurs (triche, UseBug, etc ...).
+Il est interdit d'utiliser des logiciels ou des bugs fournissant un avantage pour vous ou d'autres joueurs (triche, UseBug, etc ...).
 
 Il est interdit de contourner le bannissement d'un compte.
 
