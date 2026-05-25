@@ -39,6 +39,11 @@
 * Les tanks ne peuvent désormais plus tirer sur la zone de régulière (HE/mitrailleuse) hormis s'il y a un cannonier/AT/artilleur et sauf lorsque celui ci est en assaut ou en combat de chars.
 * Les chars de type P1 et P2 peuvent se déplacer dans les limites de l'avant poste supérieur dans l'unique but de combattre le char ennemi. Ils sont autorisés uniquement à tirer sur le char ennemi et les unités qui peuvent détruire le char (AT/Canonnier). Une fois le char ennemi battu, le char doit rejoindre ses limites respectives.
 * Pour vous réparer vous devez être à proximité du PNJ où vous sortez vôtres tank ou sur une station de réparation de la QTM.
+* Vous pouvez sortir un char même si le camp adverse n'a rien pour vous détruire
+* Le char sortie doit être maximum un P3
+* Vous ne pouvez tirer un obus que toutes les 2 mins
+* Interdiction de rentrer dans la zone de cap vous devez rester en dehors
+* Lorsque vous êtes au sol, l'ennemi doit obligatoirement réaliser un /me cohérent afin de vous maintenir en vie en attendant l'arrivée d'un médecin. Cela n'est pas comptabilisée comme un prise en charge médicale, vous pouvez vous F10 kill au bout de 5 minutes.
 
 <table><thead><tr><th width="319"> </th><th align="center">Américain</th><th align="center">Allemand </th></tr></thead><tbody><tr><td>1 Personne</td><td align="center"><mark style="background-color:green;">M3 Suart / M8 Greyhound</mark> </td><td align="center"><mark style="background-color:red;">Panzer 38T / Puma</mark></td></tr><tr><td>2 Personnes</td><td align="center"><mark style="background-color:green;">M18 Hellcat | M18 Blackcat</mark></td><td align="center"><mark style="background-color:red;">Hezter 38T / Panzer IV F1 / Panzer IV F2 / Stug III</mark> </td></tr><tr><td>3 Personnes</td><td align="center"><mark style="background-color:green;">M18 Super Hellcat</mark></td><td align="center"><mark style="background-color:red;">Panzer V Panther</mark></td></tr><tr><td>4 Personnes</td><td align="center"><mark style="background-color:green;">M26 Pershing</mark></td><td align="center"><mark style="background-color:red;">Panzer VI Tiger I E</mark></td></tr></tbody></table>
 
