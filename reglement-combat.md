@@ -63,17 +63,3 @@
 13. Vous ne pouvez pas tuer une personne au sol qui est dans l'incapacité de ce battre, sauf dans les deux cas suivant :
     * &#x20;La personne ne se montre pas à vous, elle reste de dos et sa situation est trop ambigüe pour prendre le risque.
     * La personne s'éloigne de vous ou refuse de se rapprocher malgré des tires de sommation fait à coté, où un signe clair lui demandant de se rapprocher
-
-
-
-## Délimitation map
-
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/Carte LBRP.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/VP1AP4_1.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/k.png" alt=""><figcaption></figcaption></figure>

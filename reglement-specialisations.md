@@ -167,3 +167,7 @@
 
 * Vous pouvez quitter la base seul pour un ravitaillement ou un transport de troupe.
 * Vous êtes autorisé à faire un poste de réparation avancé un AP avant le votre, dessus vous pourrez réparer tout véhicules, il doit cependant être composé d'un filet de cammouflage, d'une rampe et de props tels que caisse ect. afin de le rendre crédible. Les véhicules doivent être en réparation pendant au moin une minutes dessus avant de pouvoir repartir.
+
+### <mark style="color:blue;">Mortier :</mark>
+
+* Vous avez le droit à 8 frappes d'affilé toutes les 4 minutes.
