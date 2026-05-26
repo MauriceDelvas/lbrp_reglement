@@ -91,6 +91,7 @@
 * Vous n'avez le droit qu'à des tires directes (interdiction d'utiliser le mode artillerie)
 * Vous avez le droit à un tire de HE toutes les 40 secondes.
 * Vous pouvez faire spawn votre canon uniquement sur votre base (sauf en cas de bug).
+* Vous ne pouvez pas mettre un canon en interieur
 
 ### <mark style="color:blue;">Anti-Tank / PanzerJäger</mark> :
 
