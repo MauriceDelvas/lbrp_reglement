@@ -342,10 +342,11 @@
 
 * Vous avez la possibilité de porter tout types d’armes (privillégié le Sniper)
 * Vous n’avez pas le droit de faire de braquage, prises d’otages etc …
-* Vous devez neutraliser votre cible tout en étant discret (mass rp autorisé mais seulement si vous êtes seul avec votre cible / interdit de tuer des innocents)
-* Vous devez avoir une raison RP valable pour accepter un contrat. **Si la raison est cependant erronée mais que vous avez quand même effectué le contrat, la faute vous revient. A vous de prendre des mesures pour vérifier la véracité de la demande !**
+* Vous devez neutraliser votre cible tout en étant discret (**Mass rp toléré mais seulement si vous êtes seul avec votre cible / interdit de tuer des innocents**)
+* Vous devez avoir une raison RP valable pour accepter un contrat de la part d'un joueur. **Si la raison est cependant erronée mais que vous avez quand même effectué le contrat, la faute vous revient.** A vous de prendre des mesures pour vérifier la véracité de la demande !
 * Vous avez le droit de cacher votre profession ( /job citoyen … )
 * Vous ne pouvez pas collaborer avec d'autres personnes
+* Votre cible a le droit de tenter de se cacher ou de fuir. (hors zone safe/position assise)
 
 
 
