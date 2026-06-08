@@ -372,6 +372,7 @@
 * Lorsque la personne que vous rackettez ne coopère pas, vous pouvez revendre ses bitminers/printers au PNJ vendeur. (Interdiction de détruire les printers/bitminers)
 * Vous pouvez travailler pour des gangs, des familles, en exécutant des vols ou du racket. Attention, vous devez faire un contrat avec votre employeur (50 000$ minimum, 200 000$ maximum). Cependant, vous ne pouvez pas agir avec votre employeur, il doit uniquement vous payer et c'est à vous d'aller effectuer la tâche demandée.
 * En tant que voleur vous pouvez voler des véhicules au centre-ville mais vous devez être discret à l'abri des regards.
+* Si vous volez un véhicule, vous êtes dans l'obligation de le revendre ou de demander une rançon. Vous ne pouvez donc pas le garder pour vous.
 
 ## <mark style="color:red;">**Gang (Non Légal)**</mark>**&#x20;:**
 

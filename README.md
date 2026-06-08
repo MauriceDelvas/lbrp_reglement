@@ -36,7 +36,7 @@
 
 <mark style="color:purple;">**17**</mark> - Le **Fear RP** : C'est le fait de <mark style="color:blue;">**simuler la peur**</mark> (_ex : Vous ne pouvez pas sortir d'arme quand vous êtes braqué_). Le FearRP consiste à simuler la peur. Exemple de situation : un policier avec un taser face à une arme à feu -> Le policier doit jouer son FearRP et ranger son taser. Cependant, si quatre policiers avec des tasers font face à une personne armée, ils peuvent tenter une arrestation avec un taser. La logique de supériorité numérique doit être prise en compte.
 
-<mark style="color:purple;">**18**</mark> - Le **Pain RP** : C'est le fait de <mark style="color:blue;">**ressentir la douleur**</mark> infligé par une chute, après avoir reçu des balles, etc. Si vous êtes en incapacité physique de combattre (-15hp) vous ne pouvez donc pas engager / continuer un combat.
+<mark style="color:purple;">**18**</mark> - Le **Pain RP** : C'est le fait de <mark style="color:blue;">**ressentir la douleur**</mark> infligé par une chute, après avoir reçu des balles, etc.
 
 <mark style="color:purple;">**19**</mark> - Le **Metagaming** : C'est le fait de connaître des informations HRP sans les connaître dans un contexte RP (_ex : lire le nom d’une personne au-dessus de sa tête, entendre des bruits de printers pour faire un assaut /_ vol / etc ...)
 
@@ -95,6 +95,8 @@ Vous n'avez pas le droit de construire durant une action.
 Il est impossible de participer ou d'influencer une action qui a déjà commencé avant votre connexion ou votre changement de métier.
 
 Interdiction de faire des activités illégales dans des endroits inaccessibles ou accessibles uniquement avec un grappin.
+
+Si vous êtes en dessous de 15HP, vous ne pouvez plus engager et/ou continuer un combat.
 
 ### 🚔 Règles Police
 
