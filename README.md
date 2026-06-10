@@ -60,6 +60,8 @@
 
 <mark style="color:purple;">**29**</mark>**&#x20;-** Le **Usebug :** C'est le fait d'utiliser une faille d'un système pour en profiter (ex : trouver une commande qui permet de ce give / Empiler les printers de gang les uns sur les autres ... )
 
+<mark style="color:purple;">**30**</mark>**&#x20;-** Le **Jumpshot :** C'est le fait de tirer avec une arme en sautant
+
 \
 :french\_bread: <mark style="color:yellow;">Règles Inclus sur le serveur</mark> :french\_bread:
 -----------------------------------------------------------------------------------------------
