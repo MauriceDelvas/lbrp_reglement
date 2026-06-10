@@ -205,7 +205,7 @@
 
 ### <mark style="color:blue;">🕵️‍♂️</mark> <mark style="color:yellow;">\[Premium]</mark> <mark style="color:blue;">BAC</mark>
 
-* Vous avez la possibilité de porter des armes lourdes ( sauf sniper / ( freedom autorisé) )
+* Vous avez la possibilité de porter des armes lourdes ( sauf sniper / ( freedom / DM7 Clinical autorisé) )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Vous avez le droit de cacher votre profession ( /job citoyen … )
