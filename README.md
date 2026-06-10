@@ -78,7 +78,7 @@ Vous avez obligation d'avoir une conduite RP sur le serveur. (Exemple : Utiliser
 
 Privilégiez toujours le dialogue avant le combat. Pour engager un combat, 3 sommations orales claires et distinctes ou écrites (/ano 3 fois) sont nécessaires avant de tuer une personne armée. Pas de tirs sans sommations, les boosts et grappins ne sont pas des armes.
 
-Lors des affrontements à courte portée (dans le même batiment), il est interdit de changer d'arme (sauf arme légère). Vous ne pouvez utiliser de sniper que sur de la longue distance.&#x20;
+Lors des affrontements à courte portée (dans le même batiment), il est interdit de changer d'arme (sauf arme légère). Vous ne pouvez utiliser de sniper que sur de la longue distance. Interdiction de tirer avec un sniper en étant dans un batiment
 
 Il est interdit de faire des sommations pour une autre personne (pour les personnes menottées ou braquées).
 
