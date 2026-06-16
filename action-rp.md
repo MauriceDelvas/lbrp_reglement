@@ -55,6 +55,18 @@
 * Préciser a la police qu'il y a un sniper en dehors de la zone de prise d'otage ou braquage.
 * Dans le cas où vous ne prenez pas d'otage, si vous négociez une part du butin (max 50%), vous avez la possibilité d'effectuer une course-poursuite pour vous enfuir. (Vous devez avoir votre propre véhicule)
 
+## <mark style="color:purple;">**Braquage du Casino**</mark>**&#x20;:**
+
+* Il faut au minimum 4 forces de l’ordre.
+* Il faut qu’il y ait 20 joueurs connectés minimum.
+* Vous devez être 2 au minimum pour engager celle-ci.
+* Vous devez attendre 45 minutes avant de pouvoir refaire un braquage de Casino.
+* Vous devez être armés.
+* Il est obligé de demander une négociation dès le lancement du braquage de casino (dans les deux sens : Illégale et Police National )
+* Préciser a la Police qu'il y a un sniper en dehors de la zone de prise d'otage ou braquage.
+* Vous êtes dans l'obligation de braquer les coffres du Casino.
+* Dans le cas où vous ne prenez pas d'otage, si vous négociez une part du butin (max 50%), vous avez la possibilité d'effectuer une course-poursuite pour vous enfuir. (Vous devez avoir votre propre véhicule)
+
 ## <mark style="color:purple;">Dictature</mark> :
 
 * Il faut au minimum 5 forces de l’ordre.
