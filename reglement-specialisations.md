@@ -9,6 +9,7 @@
 * Les munitions WP sont interdites
 * Le job artilleur est maintenant interdit en attaque et en défense de base.
 * L'artilleur peut quitter la base seul.
+* Vous avez la possibilité de donner vos jumelles à quelqu'un d'autres afin qu'ils face les demandent de frappes à votre places
 
 ### <mark style="color:blue;">Armored Division / Panzerdivision</mark> :
 
