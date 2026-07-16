@@ -386,6 +386,7 @@
 ### <mark style="color:blue;">Gitans</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
+* Vous pouvez faire de l’illégal (printers, bitminers,....)
 * Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuzas, MS13 et Racailles.
 * Vous ne pouvez pas vous /job pour changer le nom du métier
 * Votre rôle est de semer le trouble dans la ville.
@@ -393,18 +394,21 @@
 ### <mark style="color:blue;">Mafieux</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
+* Vous pouvez faire de l’illégal (printers, bitminers,....)
 * Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Racailles, Yakuza, Gitans, Guetteurs, MS13.
 * Vous ne pouvez pas vous /job pour changer le nom du métier
 
 ### <mark style="color:blue;">Yakuza</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
+* Vous pouvez faire de l’illégal (printers, bitminers,....)
 * Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Gitans et ms13, Guetteurs.&#x20;
 * Vous ne pouvez pas vous /job pour changer le nom du métier
 
 ### <mark style="color:blue;">Guetteur</mark>
 
-* Vous avez la possibilité de porter tout types d’armes&#x20;
+* Vous avez la possibilité de porter tout types d’armes.
+* Vous pouvez faire de l’illégal (printers, bitminers,....)
 * Vous avez le droit de faire des braquages, prises d’otages etc …&#x20;
 * Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Ms13 , Gitans , Racailles, famille etc.&#x20;
 * Vous ne pouvez pas vous /job pour changer le nom du métier&#x20;
