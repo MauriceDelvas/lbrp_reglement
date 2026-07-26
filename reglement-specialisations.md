@@ -7,7 +7,6 @@
 * Vous n'avez le droit qu'à une salve toute les 5 minutes (le temps commence au dernier obus envoyé.)
 * Vous pouvez lancer une frappe d'artillerie sur le VP suivant sans tenir compte du nombre de personnes.
 * Les munitions WP sont interdites
-* Le job artilleur est maintenant interdit en attaque et en défense de base.
 * L'artilleur peut quitter la base seul.
 * Vous avez la possibilité de donner vos jumelles à quelqu'un d'autres afin qu'ils face les demandent de frappes à votre places
 
@@ -19,7 +18,6 @@
 * Pour réparer votre blindé il faut être impérativement sur votre base, vous pouvez cependant éteindre les flames de celui-ci n'importe où.
 * Après l'explosion de votre tank, vous devez attendre 5 minutes avant d'en ressortir un.
 * Vous pouvez sortir 2 tanks uniquement si la faction adverse à 2 tanks de sortie.&#x20;
-* Un fairplay doit être mis en place entre les deux sous-factions.
 * Les mitrailleurs peuvent tirer des salves 5s toutes les 3s.&#x20;
 * En cas de feu sur votre char, vous pouvez l'éteindre à l'aide d'un /me et un /roll, ensuite le conduire, mais il est considéré comme inutilisable au combat.&#x20;
 * Il est autorisé de tirer des obus HE sur les panzerjäger/anti-tank ou Canonnier/ Kanoneer dès lors que ceux-ci ont été repérés.
@@ -29,12 +27,6 @@
 
     Un petit exemple pour mieux comprendre : Quand votre armée est sur l'avant-poste 3 vous avez le droit de vous mettre entre les lignes qui sont à gauche et à droite sur le plant.
 * Interdiction de mettre un tank dans un bâtiment.
-* La 36th A.I.R/ZZ Trupe doit rester autour de leurs propre(s) char, la seule exception à cette règle si vous êtes en repérage.
-* La 36th A.I.R/ZZ Truppe ne peut être présentée hors limitation de la régulière seulement si un char allié est présent, sinon la 36th/Truppe devra soit se mettre en armored/Pz ou bien suivre la régulière
-* Il est interdit pour un 36th/Truppe de conduire ou bien tirer avec un char.
-* La 36th A.I.R/ZZ Trupe doit rester autour de leurs propre(s) char, la seule exception à cette règle si vous êtes en repérage.
-* La 36th A.I.R/ZZ Truppe ne peut être présentée hors limitation de la régulière seulement si un char allié est présent, sinon la 36th/Truppe devra soit se mettre en armored/Pz ou bien suivre la régulière
-* Il est interdit pour un 36th/Truppe de conduire ou bien tirer avec un char.
 * Les tanks peuvent utiliser les MG (toutes) tant qu'ils ont des troupes sur l'attaque de base, lorsqu'ils en ont plus, ils doivent quitter leur char et se battre à pied.
 * Interdiction de mettre un camouflage sur le char ou autour.
 * Les tanks ne peuvent désormais plus tirer sur la zone de régulière (HE/mitrailleuse) hormis s'il y a un cannonier/AT/artilleur et sauf lorsque celui ci est en assaut ou en combat de chars.
@@ -44,7 +36,6 @@
 * Le char sortie doit être maximum un P3
 * Vous ne pouvez tirer un obus que toutes les 2 mins
 * Interdiction de rentrer dans la zone de cap vous devez rester en dehors
-* Lorsque vous êtes au sol, l'ennemi doit obligatoirement réaliser un /me cohérent afin de vous maintenir en vie en attendant l'arrivée d'un médecin. Cela n'est pas comptabilisée comme un prise en charge médicale, vous pouvez vous F10 kill au bout de 5 minutes.
 
 <table><thead><tr><th width="319"> </th><th align="center">Américain</th><th align="center">Allemand </th></tr></thead><tbody><tr><td>1 Personne</td><td align="center"><mark style="background-color:green;">M3 Suart / M8 Greyhound</mark> </td><td align="center"><mark style="background-color:red;">Panzer 38T / Puma</mark></td></tr><tr><td>2 Personnes</td><td align="center"><mark style="background-color:green;">M18 Hellcat | M18 Blackcat</mark></td><td align="center"><mark style="background-color:red;">Hezter 38T / Panzer IV F1 / Panzer IV F2 / Stug III</mark> </td></tr><tr><td>3 Personnes</td><td align="center"><mark style="background-color:green;">M18 Super Hellcat</mark></td><td align="center"><mark style="background-color:red;">Panzer V Panther</mark></td></tr><tr><td>4 Personnes</td><td align="center"><mark style="background-color:green;">M26 Pershing</mark></td><td align="center"><mark style="background-color:red;">Panzer VI Tiger I E</mark></td></tr></tbody></table>
 
@@ -57,7 +48,6 @@
 * Vous ne pouvez bloquer aucun accès.
 * Lorsqu'un Sapeur / Pionnier pose une ou plusieurs mines, celui-ci doit s'assurer de les mettre hors service avant de changer de job sous peine de sanction.
 * Aucune mine ne doit être mise dans les bâtiments
-* Vous ne pouvez pas poser de mines devant les portes des bâtiments.
 * Vous devez vous situer à une trentaines de mètres de votre AP au maximum.
 
 ### <mark style="color:blue;">Flamethrower / Flammerwerfer</mark> :
@@ -100,7 +90,6 @@
 * En dehors de l'AP / VP vous devez être obligatoirement accompagné de 2 personnes pour détruire un blindé ennemi
 * Vous ne pouvez avoir que 4 roquettes sur vous, en comptant celle déjà chargée.
 * Vous devez uniquement tirer accroupi et à l'extérieur des les bâtiments.
-* Un tir toutes les 15 secondes.
 * Le panzerjäger peut racheter ses panzerfaust sur le front en respectant les 4 munitions maximales.
 * Les Anti-Tank / PanzerJäger peuvent partir avec la Airborne / FSM dans l'unique but de détruire le tank adverse. Donc lors d'un départ, ils doivent avoir l'information de où est le tank ennemi. Faire une embuscade n'est pas autorisé, sauf si vous vous cachez car le tank arrive vers vous au moment où vous êtes parti pour le détruire.
 * Il est interdit d'utiliser la grenade anti tank (collante) contre de l'infanterie.

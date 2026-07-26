@@ -6,13 +6,10 @@
 4. Vous ne pouvez poser que 3 meubles et 2 caisses par pièces, sauf dans les grandes pièce où vous pouvez poser 7 meubles et 3 caisses.
 5. Les constructions doivent être RP et cohérentes. Par exemple, dans une maison, vous pouvez utiliser des meubles (bureau, armoire etc). Toutefois, la fortification intérieure doit être mesurée et surtout logique (demandez vous si un tracteur ou des bottes de foins à l'intérieur c'est vraiment cohérant).
 6. Seul les pionner/sapeur peuvent poser des plaques de métaux (textures métalliques interdites)
-7. Pas de murs et de grillage de plus de 5 mètre, de sas de sécurité , des slaloms , des couloirs de la mort , des slaloms de poteaux ou des labyrinthes.
+7. Pas  de sas de sécurité , des slaloms , des couloirs de la mort , des slaloms de poteaux ou des labyrinthes.
 8. Avant de fortifier un avant-poste vous devez attendre la prise de celui-ci. (/advert Prise...)
-9. Il est autorisé de faire un mur sur mur de berlin (AP checkpoints) à condition qu'il se fonde dans le décors (même texture que le mur d'origine) ou si c'est sous forme de grillage, la construction doit rester cohérente et ne doit pas déborder du mur.
-10. Les RS et plus peuvent maintenant supprimer vos construction même si elle n'enfreigne pas de règle si il juge que celle-ci pose problème ou qu'elle n'est pas cohérente, il doit cependant prendre le temps de vous l'expliquer.
-11. A l'extérieur, chaque soldat peut déployer uniquement deux props de sac de sable . Les sapeurs et pionners peuvent cependant poser les props qu'ils veulent et autant qu'ils le peuvent, dans la limites du reste des règles, et de la cohérence RP. Les sacs de sable sont interdits en intérieur. Il est considéré comme « en intérieur » : les maisons, bâtiment et structure.
-12. Les buissons et les plantation de manière général sont interdite sauf les buisson de type "domestic" qui font moins de 5 mètres, ainsi que des troncs d'arbre couché (RP parlant : abattue).
-13. Les grandes constructions (plusieurs mètres) cubique ( ex : Bunker en cube, ect…) nécessite 2 entré minimum obligatoirement.
+9. A l'extérieur, chaque soldat peut déployer uniquement deux props de sac de sable . Les sapeurs et pionners peuvent cependant poser les props qu'ils veulent et autant qu'ils le peuvent, dans la limites du reste des règles, et de la cohérence RP. Les sacs de sable sont interdits en intérieur. Il est considéré comme « en intérieur » : les maisons, bâtiment et structure.
+10. Les grandes constructions (plusieurs mètres) cubique ( ex : Bunker en cube, ect…) nécessite 2 entré minimum obligatoirement.
 
 ## <mark style="color:blue;">Définitions :</mark>
 
