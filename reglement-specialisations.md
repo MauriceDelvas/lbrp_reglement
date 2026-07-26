@@ -115,9 +115,7 @@
 * Pour harceler un VP/AP la Airborn ou FSM doivent être au minimum 4 membres de la sous-faction sinon ils se cantonnent  à des embuscade et interceptions de renforts.
 * Si un canon est placé derrière le front ennemi , vous êtes autorisé à former une escouade entre 3-5 membres pour aller les déloger. Une fois délogé , vous devez immédiatement revenir dans votre zone de jeu réglementaire sans détour.
 * Un parachutage peut être réaliser si vous êtes au minimum trois.
-* Un parachutage peut être réaliser tout les 10 minutes
 * Vous pouvez monter sur un toit pour éliminer le sniper ennemie ( uniquement lorsque la position du sniper est connu, vous devez repartir immédiatement après l'avoir éliminé )
-* Vous pouvez patrouiller sur l'ensemble du territoire où peut aller votre tanks, sauf si vous êtes interdit de combattre vous ne pourrez patrouiller que derrière votre avant poste et ne pourrez pas participer à la défense de celui-ci.
 * Le TE doit respecter le règlement FSM + celui de sharfshutze/sniper, cependant en cas de conflit dans le règlement celui de FSM est prioritaire.
 * Si un TE FSM/Airborne se fait tirer dessus en étend en harcèlement, il n'est pas obligé de reculé.
 * Les TE ont les même règles de déplacement que le reste de leurs régiments.
