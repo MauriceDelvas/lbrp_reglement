@@ -1,108 +1,319 @@
 # ☠️ Famille
 
-### <mark style="color:blue;">Règle général :</mark> <a href="#regle-general" id="regle-general"></a>
+### 📜 RÈGLEMENT DES FAMILLES — DARKWEB
 
-1. Afin d'effectuer une capture de drapeau vous devez annoncer la capture de celui-ci en anonyme en précisant le lieu de la capture (exemple: /ano PDD (Territoire) )
-2. Un nombre de 3 somations sont obligatoires afin de défendre votre drapeau (Obligatoire d'avoir une négociation avant de faire les sommations Oral ou Ecrit).
-3. Le nombre maximum de drapeau est de 2 par familles (sauf exception après victoire de guerre elle sera à 4).
-4. Les familles ne sont pas à confondre avec les gangs de base sur le serveur (mafieux, gitan, guetteurs, etc ...).
-5. Les alliances entre familles sont autorisées avec l'autorisation d'un gérant darkweb (Alliance avec une famille maximum).
-6. Il y a une limitation de slots par job, par conséquent vous n'avez pas le droit aux alliances entre job illégaux (sauf productions / mercenaire quand la famille n'est pas en guerre ).
-7. Vous pouvez demander a une autre famille un contrat payant pour effectuer des services (demande d'information sur un membre de famille / exécution d'une personne mais en aucun cas une action type prise d'otage ou braquage de banque ) (il faut garder la preuve de l'échange d'argent au cas où elle serait demandé par un staff / ces contrats ne veulent pas dire qu'une famille est en alliance avec une autre ). La somme minimum pour un contrat est de : 500 000€.
-8. Vous avez obligatoirement votre carte d'identités sur vous.
-9. Interdit d'appartenir à deux familles différentes sous pein d'avoir une sanction écrite.
-10. Lorsque vous êtes dans une famille il est interdit de changer de nom RP sans l'accord d'un Gérant DarkWeb.
-11. Il est interdit de trash les autres familles, seulement la provocation est accepté, les insultes en anonymes sont formellement interdit.
-12. Il est interdit d'inviter une personne d'un gang adverse contre une somme d'argent ou un grade quelconque dans votre famille.
-13. Il est désormais interdit de communiquer et/ou d'utiliser des informations transmises/obtenues par vocal sur discord. Vous devez utiliser le système de Radio achetable en superette. Celui qui transmet et celui qui utilise sont tous les deux coupable de Métagaming.
-14. Les sommations textuelle (/ano, /advert) sont autoriser seulement sur les territoires de job famille à job famille.<br>
+#### 📌 1. RÈGLES GÉNÉRALES
 
-### <mark style="color:blue;">Les relations entre Familles :</mark> <a href="#les-relations-entre-gangs" id="les-relations-entre-gangs"></a>
+* Afin d'effectuer une **capture de drapeau**, vous devez obligatoirement annoncer la capture de celui-ci en **anonyme**, en précisant le lieu de la capture.\
+  **Exemple :** `/ano PDD (Territoire)`
+* Un minimum de **3 sommations** est obligatoire afin de défendre votre drapeau. Une **négociation préalable** doit obligatoirement avoir lieu avant les sommations, que celle-ci soit **orale ou écrite**.
+* Le nombre maximum de drapeaux pouvant être possédés par une famille est de **2**.\
+  **Exception :** après une victoire de guerre, la famille gagnante peut posséder jusqu'à **4 drapeaux**.
+* Les **familles** ne doivent pas être confondues avec les gangs de base présents sur le serveur (mafieux, gitans, guetteurs, etc.).
+* Les alliances entre familles sont autorisées avec l'accord préalable d'un **Gérant DarkWeb**. Une famille ne peut être alliée qu'avec **une seule autre famille à la fois**.&#x20;
+* En raison de la limitation des slots par métier, les alliances entre différents jobs illégaux sont interdites.\
+  **Exception :** les jobs de **production** et de **mercenaire** peuvent être utilisés lorsqu'une famille n'est pas en guerre.
+*   Une famille peut demander à une autre famille d'effectuer un **contrat rémunéré** pour réaliser certains services, tels que :
 
-1. Limitez les gun-fights et privilégiez les discussion, Les affrontements et la guerre sont les dernières solutions.
-2. La communication se fait uniquement via radio ( parler que IG et non Discord en même temps ). Tout système d'appel en continue pour transmettre des infos ou bien système de bouton d'alerte alors que vous êtes menottés est formellement interdit .
+    * Obtenir des informations sur un membre d'une famille,
+    * Effectuer l'exécution d'une personne.
 
-### <mark style="color:blue;">Capture de drapeau ( concerne aussi les défenseurs )</mark> <mark style="color:blue;">:</mark> <a href="#la-guerre-in-game" id="la-guerre-in-game"></a>
+    Les contrats ne peuvent en aucun cas concerner des actions telles que :
 
-1. Vous devez être au minimum trois membres de la même famille sur le serveur (et dans le même job, **Si vous avez un job Famille vous devez obligatoirement être présent dedans afin de capturer le drapeau.**) pour pouvoir capturer un drapeau, si quelqu'un est au sniper vous serez compté comme 2 sur le drapeau. Attention, les trois membres doivent être actifs lors de la capture (pas AFK).
-2. Si une famille arrive à défendre le point que vous essayez d'attaquer, vous ne pouvez plus l'attaquer pendant 2h (réfléchissez donc à une bonne stratégie lors des attaques !).
-3. Il est nécessaire d'avoir des raisons RP pour envisager une guerre contre une autre famille (meurtre, embrouille, attaque, etc ...)
+    * Une prise d'otage,
+    * Un braquage de banque,
+    * Toute autre action nécessitant une intervention directe de la famille contractante.
 
-### <mark style="color:blue;">La guerre In-Game :</mark> <a href="#la-guerre-in-game" id="la-guerre-in-game"></a>
+{% hint style="warning" %}
+Une preuve de la transaction financière doit obligatoirement être conservée et présentée à un membre du Staff ou de la Gérance DarkWeb en cas de demande.
 
-1. Les guerres seront maintenant légèrement différentes, elles commenceront tous d'abord par un "affrontement" en réunion IG.
-2. Les armes de type "UNBOX" ou "Boutique" sont autorisées lors d'une guerre de famille
-3. Pendant une guerre famille, les familles auront le droit de faire des contrebraquages (banque, supérette) qu'à la famille ennemie, celle avec laquelle elles sont en guerre. Les familles avec un contrat "alliances ou aide" n'ont aucun droit d'y participer. Les sommations doivent être écrites, claires, précises et elles seront prises en compte aussi pour les forces de l'ordre.
+⚠️ La réalisation d'un contrat ne signifie en aucun cas que les deux familles sont alliées.
 
-### <mark style="color:blue;">**Le character kill (CK) :**</mark> <a href="#le-character-kill-ck" id="le-character-kill-ck"></a>
+**Montant minimum d'un contrat : 500 000 €**
+{% endhint %}
 
-1. Pour effectuer un character kill, vous devez avoir une preuve (un rec ou un screen) que vous connaissez (de façon RP) le nom du membre de la famille ennemi.
-2. Le gang qui a le plus de CK remporte la guerre.
-3. En cas de manquement au règlement, les Gérants du DarkWeb ou les staffs vous sanctionneront à la hauteur de l'infraction (attention cela peut aller jusqu'à la suppression du gang ou un Ban de 12h).
+* Vous devez obligatoirement avoir votre **carte d'identité** sur vous.
+* Il est strictement interdit d'appartenir à **deux familles différentes**. Tout manquement à cette règle pourra entraîner une sanction écrite.
+* Lorsqu'une personne appartient à une famille, il lui est interdit de changer de **nom RP** sans l'autorisation préalable d'un **Gérant DarkWeb**.
+* Il est interdit de **trash** ou de dénigrer les autres familles. La provocation RP est autorisée, mais les insultes anonymes sont strictement interdites.
+* Il est interdit d'intégrer dans sa famille un membre d'un gang adverse en lui proposant une somme d'argent ou un grade en échange de son recrutement.
+* Les sommations textuelles (`/ano`, `/advert`) sont autorisées uniquement dans le cadre d'une confrontation entre **familles**, sur les territoires liés aux jobs des familles.
 
-### <mark style="color:blue;">**Les OPJ :**</mark>
+***
 
-1. Une notion de Fear est à avoir avec les OPJ, ils sont une escouade anti-gang lourdement armée. Il faut donc au minimum 3 personnes pour braquer un OPJ. (1 OPJ = 3 membres de famille)
-2. Le character Kill (CK) :
-3. Pour effectuer un character kill, vous devez avoir des preuves ( rec, screen, etc ... ) que vous connaissez ( de façon RP ).
-4. Leur rôle :
-5. Leur rôle principal est de supprimer l’ensemble des organisations ayant pour but de contrôler la ville ou bien d’effectuer du trafic (arme, alcool, stupéfiant)
-6. C'est une unité de police qui terrorise les organisations et les fait fuir très rapidement. Ils sont très dangereux par les organisations (Fear Rp).
+### 🤝 2. RELATIONS ENTRE FAMILLES
 
-### <mark style="color:blue;">**Attaques contre les OPJ :**</mark>
+* Les gunfights doivent être limités au maximum. Les familles doivent privilégier la **discussion et la négociation**.
+* Les affrontements armés et les guerres doivent être considérés comme des **solutions de dernier recours**.
+* L'utilisation d'un système de bouton d'alerte alors que vous êtes **menotté** est strictement interdite.
 
-1. Les familles peuvent attaquer le QG du OPJ uniquement si les OPJ sont en train d'interroger un membre de leur organisation.
-2. Les OPJs doivent être minimum 1, et la familles minimum 3 connecté.
-3. Vous avez le droit de réaliser que 1 seul assaut par membre de l'organisation pris.
+***
 
-### <mark style="color:blue;">**Règle des Territoires :**</mark>
+### 🚩 3. CAPTURE DE DRAPEAU
 
-Un territoire attribué à une famille est conservé pour une durée maximale de 2 mois. Si une autre famille souhaite récupérer ce territoire, elle peut :
+**Conditions de capture :**
 
-* déclarer une guerre.
-* attendre l’expiration des 2 mois.
+Pour pouvoir capturer un drapeau, vous devez être au minimum **3 membres de la même famille connectés sur le serveur et présents dans le même job**.
 
-Une fois le délai de 2 mois dépassé (avec une tolérance maximale d’1 semaine), la famille occupant le territoire a l’obligation de le libérer. Si la famille refuse de céder le territoire :
+Si votre famille possède un **job famille**, vous devez obligatoirement être dans ce job afin de participer à la capture du drapeau.
 
-* elle sera rendue inaccessible pendant 3 jours.
-* une sanction écrite sera adressée au responsable de la famille concernée.
+{% hint style="warning" %}
+Si un membre de la famille est positionné en tant que **sniper**, il sera comptabilisé comme **2 membres** lors de la capture du drapeau.
+{% endhint %}
 
-Le rachat d’un territoire est fixé à 500 millions minimum. À défaut de paiement, la prise du territoire devra se faire par une guerre.
+Les membres participant à la capture doivent obligatoirement être **actifs** et ne doivent pas être AFK.
 
-### <mark style="color:blue;">**Alliance de Famille :**</mark>
+**Défense d'un drapeau**
 
-1. Une alliance de famille permet d’aider une autre famille (sécurisation de territoire, escortes). Les familles alliées n’ont pas le droit de participer à la production (drogue, printers).
-2. Une alliance ne peut pas être changée pendant une guerre.
-3. Une famille alliée peut capturer un ennemi, mais un membre minimum de la famille en guerre doit être présent.
-4. Si une alliance souhaite participer officiellement à une guerre, elle doit contacter la Gérance Dark Web afin d’être déclarée en guerre et soumise au règlement.
+Si une famille parvient à défendre son territoire et à repousser une tentative de capture, la famille attaquante ne pourra plus tenter de capturer ce même drapeau pendant une durée de **2 heures**.
 
-### <mark style="color:blue;">**Discord Famille :**</mark> <a href="#regle-general" id="regle-general"></a>
+***
 
-1. Le règlements de votre discord est soumis au même règles que le Discord DarkWEB (cela signifie que vous pourrez vous faire ban du discord DarkWEB si vous enfreigniez une règle sur le discord famille voir discord DARKRP si cela se répète à plusieurs reprises)
-2. Il est obligatoire pour les Haute Instance d'avoir accès à la totalité de votre discord (il doit au minimum voir tous les salons de votre discord sans exception.) Si cette règle n'est pas respecté et que vous refusez de passer l'accès au Haute Instance vous vous exposez a un ban du discord DarkWeb et vous serez banni de faire toutes action par rapport au famille IG (prise de drapeau, guerre etc).
+### ⚔️ 4. GUERRE IN-GAME
 
-### <mark style="color:blue;">**Guerre de Territoire :**</mark>
+Les guerres entre familles débutent obligatoirement par un **affrontement ou une réunion RP en jeu**.
 
-Une guerre de territoire peut être déclarée après une enchère pour obtenir le territoire.
+Les armes provenant de systèmes **UNBOX** ou de la **Boutique** sont autorisées pendant les guerres de familles.
 
-**Durée :** 1 semaine
+**Guerre**
 
-**Alliances autorisées :** 1 contrat maximum
+Une famille doit obligatoirement disposer de **raisons RP valables** pour envisager une guerre contre une autre famille.
 
-**Récompense :** le territoire concerné uniquement (pas de drapeau supplémentaire).
+Exemples :
 
-### <mark style="color:blue;">**Guerre de Puissance :**</mark>
+* Meurtre,
+* Conflit important,
+* Attaque,
+* Trahison,
+* Conflit territorial.
 
-**Durée :** 1 à 2 semaines
+{% hint style="info" %}
+La guerre doit êtes accepter par un Gérant WebWeb obligatoirement.
+{% endhint %}
 
-**Alliances autorisées :** 1 contrat maximum
+**Contre-braquages**
 
-**Récompense :** la famille gagnante peut capturer les drapeaux ennemis pendant 1 semaine. La famille perdante ne peut plus capturer ces drapeaux durant cette période.
+Pendant une guerre, chaque famille peut effectuer des **contre-braquages** (banque, supérette, etc.) uniquement contre la famille ennemie avec laquelle elle est officiellement en guerre.
 
-### <mark style="color:blue;">**Enchères de Territoire :**</mark>
+Les familles disposant uniquement d'un **contrat d'alliance ou d'aide** ne sont pas autorisées à participer aux actions de guerre.
 
-Prix minimum : _Grands territoires : 50 millions_ (Quartier Riche, Tierquar, Chalet, Zone Industrielle, Manoir / Église, Zone Tacos Bell, HLM Tacos Bell) _Petits territoires : 25 millions_
+Les sommations doivent être :
 
-Après paiement, la famille peut déclarer la guerre pour le territoire si elle le souhaite. \
-⚠️ **L’argent n’est pas remboursable (RP).**
+* Écrites ou Oral,
+* Claires,
+* Précises.
+
+Ces sommations pourront également être prises en compte dans le cadre d'une intervention des **forces de l'ordre**.
+
+***
+
+### ☠️ 5. CHARACTER KILL (CK)
+
+Pour effectuer un **Character Kill (CK)** sur un membre d'une famille ennemie, vous devez être en mesure de prouver que vous connaissez son identité **de manière RP**.
+
+Vous devez obligatoirement disposer de preuves, telles que :
+
+* Un enregistrement vidéo (rec),
+* Une capture d'écran,
+* Toute autre preuve permettant de démontrer la connaissance RP de son identité.
+
+**Victoire de guerre**
+
+La famille ayant réalisé le **plus grand nombre de CK** remporte la guerre.
+
+***
+
+### 👮 6. OPJ — ORGANISATION DE POLICE JUDICIAIRE
+
+Une notion de **Fear RP** doit être appliquée envers les OPJ.
+
+Les OPJ constituent une unité anti-gang lourdement armée et particulièrement dangereuse.
+
+Pour braquer un OPJ, il est nécessaire d'être au minimum **2 membres d'une même famille**.
+
+{% hint style="info" %}
+**Équivalence : 1 OPJ = 2 membres d'une famille**
+{% endhint %}
+
+**Rôle des OPJ**
+
+Le rôle principal des OPJ est de lutter contre les organisations criminelles cherchant à contrôler la ville ou pratiquant différents types de trafics, notamment :
+
+* Armes,
+* Alcool,
+* Stupéfiants,
+* Autres activités criminelles.
+
+Les OPJ sont une unité particulièrement dangereuse pour les organisations criminelles. Les familles doivent donc adopter un comportement cohérent avec le **Fear RP**.
+
+***
+
+### 🔫 7. ATTAQUES CONTRE LES OPJ
+
+Les familles sont autorisées à attaquer le QG des OPJ uniquement lorsqu'un membre de leur organisation est actuellement **interrogé par les OPJ**.
+
+Conditions obligatoires :
+
+* Minimum **1 OPJ connecté** ;
+* Minimum **3 membres de la famille connectés**.
+
+Une famille est autorisée à effectuer **un seul assaut par membre de son organisation actuellement détenu et interrogé**.
+
+***
+
+### 🏠 8. RÈGLES DES TERRITOIRES
+
+Un territoire attribué à une famille est conservé pour une durée maximale de **2 mois**.
+
+Si une autre famille souhaite récupérer ce territoire, elle dispose de deux possibilités :
+
+1. Déclarer une guerre pour le territoire,
+2. Attendre l'expiration de la période de 2 mois.
+
+Une fois les 2 mois écoulés, avec une **tolérance maximale d'une semaine**, la famille occupant le territoire est dans l'obligation de le libérer.
+
+En cas de refus de libérer le territoire :
+
+* Le territoire sera rendu **inaccessible pendant 3 jours,**
+* Une **sanction écrite** sera adressée au responsable de la famille concernée.
+
+**Rachat d'un territoire**
+
+Le rachat d'un territoire est fixé à un montant minimum de **500 000 000 €**.
+
+En cas de non-paiement, la récupération du territoire devra obligatoirement se faire par le biais d'une **guerre**.
+
+***
+
+### 🤝 9. ALLIANCES ENTRE FAMILLES
+
+Une alliance entre familles permet d'apporter une aide à une autre famille, notamment pour :
+
+* La sécurisation d'un territoire,
+* Les escortes,
+* La protection d'un membre ou d'un convoi.
+
+{% hint style="info" %}
+Une alliance ne peut pas être modifiée ou remplacée pendant une guerre.
+{% endhint %}
+
+Une famille alliée est autorisée à capturer un membre de la famille ennemie, à condition qu’au moins un membre de la famille officiellement en guerre soit présent lors de la capture.
+
+Si une famille alliée souhaite participer officiellement à une guerre, elle doit contacter la **Gérance DarkWeb** afin d'être officiellement déclarée en guerre et d'être soumise à l'intégralité du règlement de guerre.
+
+***
+
+### 💬 10. DISCORD DES FAMILLES
+
+Le règlement du Discord de chaque famille est soumis aux mêmes règles que le **Discord DarkWeb**.
+
+Tout manquement au règlement du Discord de famille peut entraîner une sanction sur le Discord DarkWeb.
+
+En cas de récidive ou de manquements répétés, des sanctions peuvent également être appliquées sur le Discord principal du serveur **DarkRP**.
+
+**Accès de la Haute Instance**
+
+Les membres de la **Haute Instance** doivent obligatoirement avoir accès à l'intégralité du Discord de votre famille.
+
+Ils doivent au minimum pouvoir consulter **tous les salons du Discord**, sans exception.
+
+Si cette règle n'est pas respectée et que le responsable de la famille refuse de donner l'accès à la Haute Instance :
+
+* Un bannissement du Discord DarkWeb pourra être appliqué,
+* La famille pourra être interdite de toute activité liée au système des familles en jeu.
+
+Cela inclut notamment :
+
+* Les captures de drapeaux,
+* Les guerres,
+* Les prises de territoires,
+* Toute autre activité liée aux familles.
+
+***
+
+### ⚔️ 11. GUERRE DE TERRITOIRE
+
+Une guerre de territoire peut être déclarée après avoir remporté une **enchère** permettant d'obtenir le droit de contester le territoire concerné.
+
+**Durée**
+
+**1 semaine**
+
+**Alliances autorisées**
+
+**1 contrat maximum**
+
+**Récompense**
+
+La famille gagnante obtient uniquement le **territoire concerné**.
+
+{% hint style="warning" %}
+Une guerre de territoire ne permet pas d'obtenir de drapeau supplémentaire.
+{% endhint %}
+
+***
+
+### 👑 12. GUERRE DE PUISSANCE
+
+**Durée**
+
+**1 à 2 semaines**
+
+**Alliances autorisées**
+
+**1 contrat maximum**
+
+**Récompense**
+
+La famille gagnante obtient le droit de capturer les **drapeaux de la famille ennemie pendant une durée d'une semaine**.
+
+Pendant cette période, la famille perdante ne pourra pas capturer les drapeaux concernés.
+
+***
+
+### 💰 13. ENCHÈRES DE TERRITOIRES
+
+Les enchères de territoires disposent d'un prix minimum.
+
+**🏙️ Grands territoires**
+
+**Prix minimum : 50 000 000 €**
+
+Territoires concernés :
+
+* Quartier Riche,
+* Tierquar,
+* Chalet,
+* Zone Industrielle,
+* Manoir / Église,
+* Zone Taco Bell,
+* HLM Taco Bell.
+
+**🏘️ Petits territoires**
+
+**Prix minimum : 25 000 000 €**
+
+Après avoir remporté et payé l'enchère, la famille obtient le droit de **déclarer une guerre pour le territoire concerné**, si elle le souhaite.
+
+{% hint style="warning" %}
+**L'argent dépensé lors de l'enchère n'est pas remboursable.**
+{% endhint %}
+
+***
+
+### ⚠️ 14. SANCTIONS
+
+En cas de non-respect du présent règlement, la **Gérance DarkWeb** ou le **Staff** se réserve le droit d'appliquer une sanction proportionnelle à la gravité de l'infraction.
+
+Les sanctions peuvent notamment aller jusqu'à :
+
+* Une sanction écrite, **\[Staff & Gérance DarkWeb)**
+* Une restriction des activités de la famille, **\[Gérance DarkWeb)**
+* Une interdiction temporaire d'activité, **\[Gérance DarkWeb)**
+* Un bannissement temporaire pouvant aller jusqu'à **12 heures, \[Staff & Gérance DarkWeb)**
+* La suppression de la famille ou du gang en cas d'infraction grave ou de manquements répétés. **\[Fondation avec Gérance DarkWeb)**
+
+{% hint style="warning" %}
+**La Gérance DarkWeb et le Staff se réservent le droit d'adapter la sanction selon la gravité des faits et le contexte RP.**
+{% endhint %}
 
