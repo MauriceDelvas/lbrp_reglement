@@ -68,6 +68,10 @@
 
 <mark style="color:red;">**Il est formellement interdit de vendre ou de trade des armes permanentes à des prix qui ne respectent pas ceux du !vente In-Game ou dans la catégorie Communauté>Unbox sur le site.**</mark>
 
+### &#x20;🔰 RGPD
+
+Pour lutter contre la triche et le contournement de bannissement, ce serveur analyse automatiquement certaines caractéristiques techniques de votre connexion (identifiant Steam, configuration système, opérateur réseau, pays) afin de créer une empreinte anti-multicompte. Ces empreintes sont conservées uniquement en mémoire le temps de votre session et sont supprimées à votre déconnexion ; seuls les bannissements (SteamID) sont conservés durablement. Base légale : intérêt légitime à assurer la sécurité du serveur.
+
 ### 🚗 Conduite & Véhicules
 
 Lorsqu'un véhicule blindé ou non blindé est à l'arrêt ou à une vitesse faible (moins de 25 km/h), vous êtes obligé de jouer votre FearRP.
