@@ -324,7 +324,15 @@
 * Vous ne pouvez pas braquer ni participer à des actions criminelles (braquage de banque/superette etc..)
 * Vous ne pouvez pas vous associer avec des organisations criminelles.
 
-<br>
+### 💎<mark style="color:$primary;">Chercheur d'Or</mark>
+
+
+
+* Vous n’avez pas la possibilité de porter des armes.
+* Vous pouvez travailler avec les autres cultivateurs
+* Vous ne pouvez pas voler les ressources des autres
+* Vous n'avez pas la possibilité d'être braqué  .
+* Vous ne pouvez pas mener d'activités illégales.
 
 ## <mark style="color:red;">Illégaux</mark> :
 
@@ -335,8 +343,6 @@
 * Vous devez neutraliser vos cibles dans des lieux discrets
 * Vous avez le droit de cacher votre profession ( /job citoyen … )
 
-
-
 ### <mark style="color:blue;">Tueur à gage</mark>
 
 * Vous avez la possibilité de porter tout types d’armes (privillégié le Sniper)
@@ -346,8 +352,6 @@
 * Vous avez le droit de cacher votre profession ( /job citoyen … )
 * Vous ne pouvez pas collaborer avec d'autres personnes
 * Votre cible a le droit de tenter de se cacher ou de fuir. (hors zone safe/position assise)
-
-
 
 ### <mark style="color:blue;">Mercenaire</mark>
 
