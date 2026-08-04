@@ -377,6 +377,15 @@
 * En tant que voleur vous pouvez voler des véhicules au centre-ville mais vous devez être discret à l'abri des regards.
 * Si vous volez un véhicule, vous êtes dans l'obligation de le revendre ou de demander une rançon. Vous ne pouvez donc pas le garder pour vous.
 
+### 🏧<mark style="color:$primary;">**Hackeur d'ATM**</mark>
+
+* Vous avez la possibilité de porter des armes de poings et blanches (seulement)
+* Vous n’avez pas le droit de faire de braquage, prises d’otages etc …
+* Il faut un minimum de 20 joueurs et 3 forces de l’ordres afin d'hacker un ATM.&#x20;
+* Vous pouvez faire de l’illégal (printers,etc,....)
+* Vous devez être discret.
+* Vous ne pouvez pas collaborer avec d'autres personnes.
+
 ## <mark style="color:red;">**Gang (Non Légal)**</mark>**&#x20;:**
 
 ### <mark style="color:$warning;">\[LEGENDAIRE]</mark> <mark style="color:blue;">Ligue des Mécontents</mark>
