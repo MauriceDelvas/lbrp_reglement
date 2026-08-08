@@ -174,6 +174,10 @@ Il est interdit de contourner le bannissement d'un compte.
 
 Il est interdit de divulguer tout type d'informations privées sur d'autres joueurs (nom réel, lieu, photo, etc.).
 
+Il est interdit d'utiliser des smoothies en scène.
+
+Il est interdit d'utiliser des smoothies pour récupérer les caisses aléatoires.
+
 ## &#x20;🏗️ <mark style="color:yellow;">Règles de construction</mark> 🏗️
 
 Les constructions avec un sens RP sont obligatoires.
