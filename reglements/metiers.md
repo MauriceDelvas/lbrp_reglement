@@ -86,7 +86,7 @@
 * Vous avez la possibilité de porter des armes de poing et armes blanches à des fins de légitime défense.
 * Vous n’avez pas le droit de faire de l’illégale ( printers ).
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
-* Le bénéfice max est de 150 000€.
+* Le bénéfice max est de 250 000€.
 * Vous n’avez pas le droit de menacer vos clients pour qu’ils vous paient plus.
 * Vous ne pouvez pas mettre à la fourrière des véhicules de fonctions (Police National, Samu et BAC).
 * Vos clients n’ont pas le droit de vous braquer pour ne pas payer.
