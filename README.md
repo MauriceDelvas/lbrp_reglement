@@ -216,7 +216,7 @@ Le UseButton en action RP est interdit.
 
 #### 🏠 SAS, Hauteur & Défense
 
-Le nombre maximum de SAS dans une construction est de 3, tous membres confondus.
+⁨Le nombre de Fading Door maximum dans une construction est de 3. (Tout membre compris)⁩
 
 Il est interdit de construire des bases plus hautes que les bâtiments environnants.
 
