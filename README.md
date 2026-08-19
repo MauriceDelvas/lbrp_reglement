@@ -226,7 +226,7 @@ Les meurtrières sont interdites : il s'agit de toute construction ne laissant q
 
 Il est interdit de privatiser un ou plusieurs étages dans les HLM (Taco Bell/mairie) : votre construction doit commencer à partir de la porte d'entrée.
 
-Règle Discothèque : votre construction doit commencer à partir de l'entrée du bâtiment et se terminer à la fin des escaliers. Toutes les constructions au sous-sol doivent être uniquement décoratives ou dédiées à un métier de production (ex : étagère pour pots de plantation). Elles ne peuvent en aucun cas être défensives ou offensives.
+Règle Discothèque : Toutes les constructions au sous-sol doivent être uniquement décoratives ou dédiées à un métier de production (ex : étagère pour pots de plantation). Elles ne peuvent en aucun cas être défensives ou offensives.
 
 <div><figure><img src=".gitbook/assets/image_2023-04-11_185344110.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image_2023-04-11_185510649.jpg" alt=""><figcaption></figcaption></figure></div>
 
