@@ -146,6 +146,14 @@ Le rôle principal des OPJ est de lutter contre les organisations criminelles ch
 
 Les OPJ sont une unité particulièrement dangereuse pour les organisations criminelles. Les familles doivent donc adopter un comportement cohérent avec le **Fear RP**.
 
+Equivalence OPJ contre Familles :&#x20;
+
+* 1 OPJ -> 1 Membre Familles
+* 2 OPJ -> 3 Membres Familles
+* 3 OPJ -> 4 Membres Familles
+* 4 OPJ -> 5 Membres Familles
+* 5 OPJ -> 6 Membres Familles
+
 ***
 
 ### 🔫 7. ATTAQUES CONTRE LES OPJ
