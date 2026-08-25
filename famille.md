@@ -129,10 +129,14 @@ Une notion de **Fear RP** doit être appliquée envers les OPJ.
 
 Les OPJ constituent une unité anti-gang lourdement armée et particulièrement dangereuse.
 
-Pour braquer un OPJ, il est nécessaire d'être au minimum **2 membres d'une même famille**.
-
 {% hint style="info" %}
-**Équivalence : 1 OPJ = 2 membres d'une famille**
+**Équivalence OPJ - Familles :**&#x20;
+
+* 1 OPJ -> 1 Membre Familles
+* 2 OPJ -> 3 Membres Familles
+* 3 OPJ -> 4 Membres Familles
+* 4 OPJ -> 5 Membres Familles
+* 5 OPJ -> 6 Membres Familles
 {% endhint %}
 
 **Rôle des OPJ**
@@ -146,13 +150,7 @@ Le rôle principal des OPJ est de lutter contre les organisations criminelles ch
 
 Les OPJ sont une unité particulièrement dangereuse pour les organisations criminelles. Les familles doivent donc adopter un comportement cohérent avec le **Fear RP**.
 
-Equivalence OPJ contre Familles :&#x20;
 
-* 1 OPJ -> 1 Membre Familles
-* 2 OPJ -> 3 Membres Familles
-* 3 OPJ -> 4 Membres Familles
-* 4 OPJ -> 5 Membres Familles
-* 5 OPJ -> 6 Membres Familles
 
 ***
 
