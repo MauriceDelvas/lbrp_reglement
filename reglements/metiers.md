@@ -200,7 +200,8 @@
 * En tant que OPJ, votre but est d'enquêter sur les organisations de la ville, récolter des informations, monter un dossier qui aboutira sur une arrestation et un jugement !
 * Vous avez également le droit de participer aux guerres de familles, en CK les membres des familles rivales.
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
-* Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).<br>
+* Vous pouvez tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
+* Vous avez obligation de patrouiller à partir de 2 OPJ minimum (interdiction de patrouiller solo)<br>
 
 ### <mark style="color:blue;">🕵️‍♂️</mark> <mark style="color:yellow;">\[Premium]</mark> <mark style="color:blue;">BAC</mark>
 
