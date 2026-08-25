@@ -353,6 +353,7 @@
 * Vous avez le droit de cacher votre profession ( /job citoyen … )
 * Vous ne pouvez pas collaborer avec d'autres personnes
 * Votre cible a le droit de tenter de se cacher ou de fuir. (hors zone safe/position assise)
+* Pour les missions aléatoire (NPC), vous avez interdiction de neutraliser votre cible durant une prise d'otage ou un braquage de banque / superette.
 
 ### <mark style="color:blue;">Mercenaire</mark>
 
