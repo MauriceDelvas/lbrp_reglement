@@ -28,10 +28,6 @@ Une personne située hors de la zone MassRP ne peut pas interagir avec une scèn
 
 Vous ne pouvez sortir votre arme que dans ces cas : pour vous défendre contre un agresseur autre que les forces de l'ordre, pour un **braquage de banque**, une **prise d'otage** (banque ou dictateur), ou un **cambriolage** (comme les HLM par exemple). En dehors de ces situations, sortir son arme pour une action RP est interdit.
 
-***
-
-J'ai fusionné les deux phrases qui interdisaient de sortir l'arme (elles étaient répétées) et regroupé les zones/petites rues en un seul passage. À noter : ton texte d'origine disait « ces deux situations » tout en en listant trois — j'ai corrigé en « ces cas » pour rester cohérent.
-
 <mark style="color:purple;">**12**</mark> - Le **Travers** : C'est le fait de tirer à travers une surface opaque telle que des murs, des props, des smokes, etc.. Il est cependant autorisé de tirer à travers les surfaces transparentes. Si un joueur pose un textscreen sur une surface transparente indiquant qu'elle est blindé, il est interdit de tirer à travers. De plus, <mark style="color:red;">**il est interdit de tirer à travers les vitres de la Banque, de l'Ascenseur et du Casino.**</mark>  (textscreen de mis que tu peut pas tiré a travers le props)
 
 <mark style="color:purple;">**13**</mark> - Le **NLR ( New Life Rule )** : C'est le fait de revenir sur une même position/action alors que vous êtes mort durant celle-ci. Ainsi que de vous souvenir de tout ce qu’il s’est passé avant votre mort <mark style="color:blue;">**(Vous pourrez revenir sur le lieu au bout d'une quinzaine de minutes)**</mark>
