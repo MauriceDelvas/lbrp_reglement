@@ -205,7 +205,7 @@
 
 ### <mark style="color:blue;">🕵️‍♂️</mark> <mark style="color:yellow;">\[Premium]</mark> <mark style="color:blue;">BAC</mark>
 
-* Vous avez la possibilité de porter des armes lourdes ( sauf sniper / ( freedom / DM7 Clinical autorisé) )
+* Vous avez la possibilité de porter des armes lourdes ( sauf sniper / DM7 Clinical autorisé) )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Vous avez le droit de cacher votre profession ( /job citoyen … )
@@ -224,7 +224,7 @@
 
 ### <mark style="color:blue;">👮‍♂️ Police nationale</mark>
 
-* Vous avez la possibilité de porter des armes lourdes ( sauf sniper pour Lieutenant minimum / ( freedom autorisé) )
+* Vous avez la possibilité de porter des armes lourdes ( sauf sniper pour Lieutenant minimum)
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous ne pouvez pas être corrompu
 * Vous devez respecter vos supérieurs
