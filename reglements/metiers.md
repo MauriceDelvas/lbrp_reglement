@@ -160,6 +160,7 @@
 * Votre bénéfice pour les licences est de 2000€
 * Vous ne pouvez pas engager des mercenaires
 * Vous ne pouvez pas engager la sécurité privée du collecteur d'impôts
+* Vous ne pouvez pas faire de loi légalisant les printers ou la drogue
 
 #### |<mark style="color:purple;">Dictature</mark>]
 
@@ -168,6 +169,7 @@
 * Vous avez le droit de braquer ( prise d’otage seulement )
 * Vous pouvez engager des mercenaires
 * Vous ne pouvez pas engager la sécurité privée du collecteur d'impôts
+* Vous ne pouvez pas faire de loi légalisant les printers ou la drogue
 
 ### <mark style="color:$warning;">\[LEGENDAIRE]</mark> <mark style="color:blue;">Collecteur d'impôts</mark>
 
