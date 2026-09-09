@@ -57,10 +57,6 @@ Pour pouvoir capturer un drapeau, vous devez être au minimum **3 membres de la 
 
 Si votre famille possède un **job famille**, vous devez obligatoirement être dans ce job afin de participer à la capture du drapeau.
 
-{% hint style="warning" %}
-Si un membre de la famille est positionné en tant que **sniper**, il sera comptabilisé comme **2 membres** lors de la capture du drapeau.
-{% endhint %}
-
 Les membres participant à la capture doivent obligatoirement être **actifs** et ne doivent pas être AFK.
 
 **Défense d'un drapeau**
