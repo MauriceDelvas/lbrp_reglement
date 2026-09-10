@@ -68,6 +68,8 @@ Les **familles** ne doivent pas être confondues avec les gangs de base présent
 
 {% hint style="warning" %}
 Si un membre de la famille est positionné en tant que **sniper**, il ne sera pas comptabilisé comme **membres** lors de la capture du drapeau.
+
+Il est obligatoire d'être à côté du drapeau afin de le prendre. **(Pour les 3 membres)**
 {% endhint %}
 
 Les membres participant à la capture doivent obligatoirement être **actifs** et ne doivent pas être AFK.
