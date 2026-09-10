@@ -5,7 +5,7 @@
 #### 📌 1. RÈGLES GÉNÉRALES
 
 * Le nombre maximum de drapeaux pouvant être possédés par une famille est de **2**. _(**Exception :** après une victoire de guerre, la famille gagnante peut posséder jusqu'à **4 drapeaux pendant une durée de 2 semaines après victoire de la guerre**.)_
-* Les alliances entre différents jobs sont interdites. _(**Exception :** les jobs de **production** et de **mercenaire** peuvent être utilisés lorsqu'une famille n'est pas en guerre. En sachant que les mercenaire ne peuvent pas être utiliser pour la capture de drapeau)_
+* Les alliances entre différents jobs sont interdites. _(**Exception :** les jobs de **production** et de **mercenaire** (1 par famille) peuvent être engagés lorsqu'une famille n'est pas en guerre. En sachant que les mercenaire ne peuvent pas être utiliser pour la capture de drapeau)_
 *   Une famille peut demander à une autre famille d'effectuer un **contrat rémunéré** pour réaliser certains services, tels que :
 
     * Obtenir des informations sur un membre d'une famille,
