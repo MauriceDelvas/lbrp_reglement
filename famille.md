@@ -126,10 +126,6 @@ Les OPJ constituent une unité anti-gang lourdement armée et particulièrement 
 **Équivalence OPJ - Familles :**
 
 * 1 OPJ -> 1 Membre Familles
-* 2 OPJ -> 3 Membres Familles
-* 3 OPJ -> 4 Membres Familles
-* 4 OPJ -> 5 Membres Familles
-* 5 OPJ -> 6 Membres Familles
 {% endhint %}
 
 **Rôle des OPJ**
