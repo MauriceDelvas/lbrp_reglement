@@ -283,5 +283,5 @@ Les sanctions peuvent notamment aller jusqu'à :
 * Un bannissement temporaire ou définitiv&#x65;**, \[Staff & Gérance DarkWeb]**
 
 {% hint style="danger" %}
-Vous avez l'interdiction de jouer sur le règlement, sous peine de sanction (Jouer sur les mots, les tournures de phrase). Si une chose n'est pas précisée sur ce règlement, c'est qu'elle est d'office interdite. Afin d'avoir une modification de ce règlement, veuillez contacter les gérants DarkWeb
+Vous avez l'interdiction de jouer sur le règlement famille, sous peine de sanction (Jouer sur les mots, les tournures de phrase). Si une chose n'est pas précisée sur ce règlement, c'est qu'elle est d'office interdite. Afin d'avoir une modification de ce règlement, veuillez contacter les gérants DarkWeb
 {% endhint %}
