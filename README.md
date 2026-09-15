@@ -26,7 +26,7 @@
 
 Une personne située hors de la zone MassRP ne peut pas interagir avec une scène qui s'y déroule.
 
-Vous ne pouvez sortir votre arme que dans ces cas : pour vous défendre contre un agresseur autre que les forces de l'ordre, pour un **braquage de banque**, une **prise d'otage** (banque ou dictateur), ou un **cambriolage** (comme les HLM par exemple). En dehors de ces situations, sortir son arme pour une action RP est interdit.
+Vous ne pouvez sortir votre arme que dans ces cas : pour vous défendre contre un agresseur autre que les forces de l'ordre (proportielle à votre agresseur, ex : poing vs poing, arme de poing vs arme de poing, arme lourde vs arme lourde), pour un **braquage de banque**, une **prise d'otage** (banque ou dictateur), ou un **cambriolage** (comme les HLM par exemple). En dehors de ces situations, sortir son arme pour une action RP est interdit.
 
 <mark style="color:purple;">**12**</mark> - Le **Travers** : C'est le fait de tirer à travers une surface opaque telle que des murs, des props, des smokes, etc.. Il est cependant autorisé de tirer à travers les surfaces transparentes. Si un joueur pose un textscreen sur une surface transparente indiquant qu'elle est blindé, il est interdit de tirer à travers. De plus, <mark style="color:red;">**il est interdit de tirer à travers les vitres de la Banque.**</mark>  (textscreen de mis que tu peut pas tiré a travers le props)
 
